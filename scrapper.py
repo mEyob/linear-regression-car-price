@@ -26,22 +26,24 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-c","--carGurus", help='Scrape from cargurus.com',action='store_false')
-    parser.add_argument("-t", "--carTrader", help="Scrape from cartrader.com", action='store_false')
+    parser.add_argument("-t", "--carTrader", help="Scrape from cartrader.com", action='store_true')
 
     args = parser.parse_args()
 
     if args.carTrader:
+        print('Here')
         website = 'cartrader.com'
     else:
         website = 'cargurus.com'
     
     if website == 'cargurus.com':
-        for make_model, url in URL_list['carguru']:
+        for make_model, url in URL_list['carguru'].items():
             carlistings = CarGurus(make_model, url[0], url[1])
             carlistings.fetch_all_pages()
             carlistings.parse_all()
 
-main()
+if __name__ == '__main__':
+    main()
 
 
 
