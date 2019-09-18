@@ -20,12 +20,12 @@
           ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"fe3008aef1",applicationID:"279386539",sa:1}
 
           if (typeof newrelic === 'object') {
-            newrelic.setCustomAttribute('release', "site-cars-25086");
+            newrelic.setCustomAttribute('release', "site-cars-25095");
             newrelic.setCustomAttribute('viewversion', "_DEFAULT_");
-            newrelic.setCustomAttribute('hostname', "prod-bos2-www-54.dc.c-gurus.com");
+            newrelic.setCustomAttribute('hostname', "prod-bos2-www-37.dc.c-gurus.com");
             newrelic.setCustomAttribute('template', "/inventorylisting/viewDetailsFilterView.ftl");
             newrelic.setCustomAttribute('deploymentloc', "bos2");
-            newrelic.setCustomAttribute('uuid', "FDHR-192.80.65.177.1568758578764");
+            newrelic.setCustomAttribute('uuid', "8BK6-50.245.49.123.1568840550020");
           }
         </script>
 <script type="text/javascript">
@@ -74,7 +74,7 @@
     </script>
 
     <title>Used Honda Accord For Sale - CarGurus</title>
-    <meta name="description" content="Save $3,846 on a used Honda Accord near you. Search over 67,600 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
+    <meta name="description" content="Save $4,301 on a used Honda Accord near you. Search over 68,200 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
         <meta name="keywords" content="Honda Accord,Honda,Accord">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -100,19 +100,19 @@
         data-production="true"
         data-seo-experiments='{"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"OPERATION_WELP_GETS_INDEXED":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"OPERATION_RECURRING_CONDTION":-1,"SEO_BATCH_2":-1}' 
         data-service-name="Cars"
-        data-uuid="FDHR-192.80.65.177.1568758578764"
+        data-uuid="8BK6-50.245.49.123.1568840550020"
         data-view-versions="[&quot;_DEFAULT_&quot;]"
     >
 
     <meta name="devInfo"
         data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
         data-action-method="viewDetailsFilterView"
-        data-build-id="site-cars-25086"
+        data-build-id="site-cars-25095"
         data-deploymentloc="bos2"
         data-production="true"
             data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
         data-sentry-integrated="true"
-        data-server-host-name="prod-bos2-www-54.dc.c-gurus.com"
+        data-server-host-name="prod-bos2-www-37.dc.c-gurus.com"
         data-template="/inventorylisting/viewDetailsFilterView.ftl"
         data-view-version="_DEFAULT_"
     >
@@ -356,7 +356,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
           </a>
         </li>
         <li>
-          <a href="/Cars/authentication/renderRegisterLoginForm.action?redirectUrl=%2FCars%2Finventorylisting%2FviewDetailsFilterViewInventoryListing.action%3FsourceContext%3DforSaleTab_false_0%26newSearchFromOverviewPage%3Dtrue%26inventorySearchWidgetType%3DAUTO%26entitySelectingHelper.selectedEntity%3Dd585%26entitySelectingHelper.selectedEntity2%3D%26zip%3D02169%26distance%3D50%26searchChanged%3Dtrue%26modelChanged%3Dtrue%26filtersModified%3Dtrue%26sortType%3Dundefined%26sortDirection%3Dundefined" 
+          <a href="/Cars/authentication/renderRegisterLoginForm.action?redirectUrl=%2FCars%2Finventorylisting%2FviewDetailsFilterViewInventoryListing.action%3FsourceContext%3DcarGurusHomePageModel%26entitySelectingHelper.selectedEntity%3Dd585%26zip%3D02169" 
                                    
                                    class="ft-auth-sign-in">
             Sign in
@@ -648,7 +648,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
           </a>
         </li>
         <li>
-          <a href="/Cars/authentication/renderRegisterLoginForm.action?redirectUrl=%2FCars%2Finventorylisting%2FviewDetailsFilterViewInventoryListing.action%3FsourceContext%3DforSaleTab_false_0%26newSearchFromOverviewPage%3Dtrue%26inventorySearchWidgetType%3DAUTO%26entitySelectingHelper.selectedEntity%3Dd585%26entitySelectingHelper.selectedEntity2%3D%26zip%3D02169%26distance%3D50%26searchChanged%3Dtrue%26modelChanged%3Dtrue%26filtersModified%3Dtrue%26sortType%3Dundefined%26sortDirection%3Dundefined" 
+          <a href="/Cars/authentication/renderRegisterLoginForm.action?redirectUrl=%2FCars%2Finventorylisting%2FviewDetailsFilterViewInventoryListing.action%3FsourceContext%3DcarGurusHomePageModel%26entitySelectingHelper.selectedEntity%3Dd585%26zip%3D02169" 
                                    
                                    class="ft-auth-sign-in">
             Sign in
@@ -760,7 +760,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 
 <input type="hidden" name="distance" value="50" id="changeZip_distance"/>
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="changeZip_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="changeZip_sourceContext"/>
         <input id="headerZipCodeTextField" type="text" name="zip" maxlength="7" class="cg-postalCode form-control header-zipcode" value="02169">
 
 
@@ -809,7 +809,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
     <div id="errorLoadingListingsModal" class="modal fade" data-backdrop="static" role="dialog">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
-          <div class="alert-error ui-corner-all modal-body"><h2><i class="cg-listingSearch-delete"></i> <span></span></h2><p></p><a href="https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=forSaleTab_false_0&newSearchFromOverviewPage=true&inventorySearchWidgetType=AUTO&entitySelectingHelper.selectedEntity=d585&entitySelectingHelper.selectedEntity2=&zip=02169&distance=50&searchChanged=true&modelChanged=true&filtersModified=true&sortType=undefined&sortDirection=undefined" class="btn btn-danger"></a></div>
+          <div class="alert-error ui-corner-all modal-body"><h2><i class="cg-listingSearch-delete"></i> <span></span></h2><p></p><a href="https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=carGurusHomePageModel&entitySelectingHelper.selectedEntity=d585&zip=02169" class="btn btn-danger"></a></div>
         </div>
       </div>
     </div>
@@ -824,7 +824,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
     <div id="savedListingsSearchesToolbar" class="btn-toolbar" style="display:none">
 
       <div class="btn-group" role="group">
-            <a id="mySavedListingsButton" class="btn btn-default disabled" href="/Cars/inventorylisting/mySavedListings.action?sourceContext=forSaleTab_false_0" onclick="return false;">
+            <a id="mySavedListingsButton" class="btn btn-default disabled" href="/Cars/inventorylisting/mySavedListings.action?sourceContext=carGurusHomePageModel" onclick="return false;">
                 No Saved Listings
             </a>
 
@@ -877,7 +877,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <form id="newSearchHeaderForm_UsedCar" name="newSearchHeaderForm_UsedCar" onsubmit="return processSearchWithBlock(this, &#39;listingsViewMacrosNew_UsedCar&#39;, function() {return validateInventorySearchForm($(&#39;#newSearchHeaderForm_UsedCar&#39;)[0], &#39;car&#39;);});" action="/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action" method="GET">
 
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="newSearchHeaderForm_UsedCar_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="newSearchHeaderForm_UsedCar_sourceContext"/>
 
 <input type="hidden" name="newSearchFromOverviewPage" value="true" id="newSearchHeaderForm_UsedCar_newSearchFromOverviewPage"/>
 
@@ -943,7 +943,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-15198734"
+            id="select-3209120"
             >
         <option value="-1">All Makes</option>
 
@@ -1321,7 +1321,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
         
 <form id="newBodyStyleSearchHeaderForm" name="newBodyStyleSearchHeaderForm" onsubmit="return processSearchWithBlock(this, &#39;&#39;, function() {return validateInventorySearchForm($(&#39;#newBodyStyleSearchHeaderForm&#39;)[0], &#39;bodystyle&#39;);});" action="/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action" method="GET">
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="newBodyStyleSearchHeaderForm_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="newBodyStyleSearchHeaderForm_sourceContext"/>
 
 <input type="hidden" name="newSearchFromOverviewPage" value="true" id="newBodyStyleSearchHeaderForm_newSearchFromOverviewPage"/>
 
@@ -1792,7 +1792,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
         
 <form id="newPriceSearchHeaderForm" name="newPriceSearchHeaderForm" onsubmit="return processSearchWithBlock(this, &#39;&#39;, function() {return validateInventorySearchForm($(&#39;#newPriceSearchHeaderForm&#39;)[0], &#39;price&#39;);});" action="/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action" method="GET">
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="newPriceSearchHeaderForm_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="newPriceSearchHeaderForm_sourceContext"/>
 
 <input type="hidden" name="newSearchFromOverviewPage" value="true" id="newPriceSearchHeaderForm_newSearchFromOverviewPage"/>
 
@@ -2245,7 +2245,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <form id="newSearchHeaderForm_NewCar" name="newSearchHeaderForm_NewCar" onsubmit="return processSearchWithBlock(this, &#39;listingsViewMacrosNew_NewCar&#39;, function() {return validateInventorySearchForm($(&#39;#newSearchHeaderForm_NewCar&#39;)[0], &#39;car&#39;);});" action="/Cars/new/searchresults.action" method="GET">
 
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="newSearchHeaderForm_NewCar_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="newSearchHeaderForm_NewCar_sourceContext"/>
 
 <input type="hidden" name="newSearchFromOverviewPage" value="true" id="newSearchHeaderForm_NewCar_newSearchFromOverviewPage"/>
 
@@ -2311,7 +2311,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="true" cg-data-useInventoryService="false" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-quotableOnly="true" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-53965275"
+            id="select-62045154"
             >
         <option value="-1">All Makes</option>
 
@@ -2403,8 +2403,8 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
     <script>
         (function () {
           var onloadFunction = function () {
-            var firstOptionValue = $("select[id='select-53965275'] option:first").val();
-            $("select[id='select-53965275']").val(firstOptionValue);
+            var firstOptionValue = $("select[id='select-62045154'] option:first").val();
+            $("select[id='select-62045154']").val(firstOptionValue);
           };
           if (document.readyState !== 'loading') {
             onloadFunction();
@@ -2889,7 +2889,7 @@ Nissan Altima
         
 <form id="addModelsToSearchForm" name="addModelsToSearchForm" onsubmit="addSpecifiedModelListings($(&#39;[cg-name=ign-modelId-addModelsToSearchSelectedEntity]&#39;).val(), 0, 0);return false;" action="/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action" method="GET">
 
-<input type="hidden" name="sourceContext" value="forSaleTab_false_0" id="addModelsToSearchForm_sourceContext"/>
+<input type="hidden" name="sourceContext" value="carGurusHomePageModel" id="addModelsToSearchForm_sourceContext"/>
 
 <input type="hidden" name="startYear" value="0" id="addModelsToSearchForm_startYear"/>
 
@@ -2913,7 +2913,7 @@ Nissan Altima
             style="width: 169px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="addModelsToSearchSelectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="false"             cg-name="ign-makerId-addModelsToSearchSelectedEntity"
-            id="select-25681237"
+            id="select-4815844"
             >
         <option value="-1">Select Make</option>
 
@@ -3097,13 +3097,13 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 </table>
 
 
-<div id="carPicker-845363">
+<div id="carPicker-82286406">
 <script>
   (function () {
     var onloadFunction = function () {
   if (typeof CG === 'object' && CG !== null && CG.hasOwnProperty('CarPicker')) {
     CG.CarPicker.createInstance(
-      "carPicker-845363",
+      "carPicker-82286406",
       "addModelsToSearchSelectedEntity",
       "",
       "",
@@ -3131,7 +3131,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
 
 
-<input type="hidden" name="addModelsToSearchSelectedEntity" value="d585" id="carPicker-845363addModelsToSearchSelectedEntity"/>
+<input type="hidden" name="addModelsToSearchSelectedEntity" value="d585" id="carPicker-82286406addModelsToSearchSelectedEntity"/>
 
 
 
@@ -3159,7 +3159,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
         <div style="padding:10px;">
 <div>
     <div class="filterHeader" style="padding:0 0 5px 0">
-    2007 Honda Accord EX-L V6 Review
+    1998 Honda Accord EX Review
     </div>
 
     <div class="smallRating">
@@ -3167,21 +3167,21 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
             <tr>
                 <td><div class="cg-rating-wrap clearfix">
     <div class="ratingValue">
-<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>    </div>
+<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>    </div>
 </div>
 </td>
                 <td>
-                  by ftard
+                  by Ian
                 </td>
             </tr>
         </table>
     </div>
 
     <p class="b">
-        <span class="leftQuote">&ldquo;</span>Awesome<span class="rightQuote">&rdquo;</span>
+        <span class="leftQuote">&ldquo;</span>plain and simple<span class="rightQuote">&rdquo;</span>
     </p>
     <p>
-      My Accord is a 2 door EX-L. It is fantastic.The big brakes stop soooo smoothly. The 3.0 V 6 is strong from 2K RPM to the red line with a big punch when V teching. The seats are comfortable. The tranny shifts smoothly and accurately and quickly. I did have to change to the new Honda MTF to stop a 3 gear synchronizer issue. I love the car and consist...
+      it is transportation--plain and simple. it gets me to and from the market, work and anywhere I want to go. anywhere I want to go is possible in my Honda. it isn't asd funas Dorothy's Miata but it does the job.
     </p>
 </div>
         </div>
@@ -3392,74 +3392,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/16/14/05/2016_honda_accord-pic-3482514794102942053-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/16/14/05/2016_honda_accord-pic-3482514794102942053-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Honda Accord LX</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Norwood, MA 02062</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,380 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $17,173</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="14793">$14,793</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>3,157</span></p>
-
-          <p><strong>Location:</strong> Norwood, MA 02062</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          27 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Crystal Black Pearl
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Honda Accord LX for sale
-- $14,793, 3,157 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Alloy Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.4 out of 5 stars" ></i>              (58 reviews)
-              "Boch promptly contacted me and set up an test drive.  Car was not ready when I arrived.  It had not been detailed or had service done.  This was not disclosed when I set up the test drive.  Salesman was friendly but the used car manager treated me like I didn’t know anything.  The manager was a bullly, insulting, and wouldn’t answer questions clearly.  This experience totally stressed me out and made me feel terrible.  The price was good, but I definitely didn’t trust anything they said.  Did not purchase our car here."
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
           <img src="https://static.cargurus.com/images/forsale/2019/09/09/23/31/2014_honda_accord_ex-pic-2752793512697125681-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/09/23/31/2014_honda_accord_ex-pic-2752793512697125681-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
@@ -3491,8 +3423,8 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
           Great Deal
         </div>
-  <div class="b greenText">$2,051 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $10,951</span>
+  <div class="b greenText">$2,103 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $11,003</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3520,146 +3452,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
         </span>
       </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/09/21/05/2018_honda_accord-pic-4876181189265185333-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/09/21/05/2018_honda_accord-pic-4876181189265185333-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2018 Honda Accord 1.5T Sport FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Natick, MA 01760</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,373 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $24,073</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="21700">$21,700</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>3,485</span></p>
-
-          <p><strong>Location:</strong> Natick, MA 01760</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          25 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>San Marino Red
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2018 Honda Accord 1.5T Sport FWD for sale
-- $21,700, 3,485 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Adaptive Cruise Control, 
-                Alloy Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (57 reviews)
-              "The dealership refused to sell a car I drove an hour away to see because I wouldn’t finance with their banks. I had a pre approved loan to purchase same day and they were unprofessional."
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/07/12/11/2017_honda_accord-pic-6438429318620356715-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/12/11/2017_honda_accord-pic-6438429318620356715-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2017 Honda Accord EX-L FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Brighton, MA 02135</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,576 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $20,571</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="17995">$17,995</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>20,700</span></p>
-
-          <p><strong>Location:</strong> Brighton, MA 02135</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          26 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Basque Red Pearl Ii
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2017 Honda Accord EX-L FWD for sale
-- $17,995, 20,700 miles          with                 Bluetooth, 
-                Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof, 
-                Aluminum Wheels, 
-                Remote Start
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (33 reviews)
-              "Yaw, Rutimi, and Jerry we’re honest and helpful "
-        </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
@@ -3695,8 +3487,8 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
           Great Deal
         </div>
-  <div class="b greenText">$2,372 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $20,294</span>
+  <div class="b greenText">$2,355 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $20,277</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3738,6 +3530,77 @@ When I asked about the CG price, it was because they had applied EVERY REBATE to
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/07/12/11/2017_honda_accord-pic-6438429318620356715-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/12/11/2017_honda_accord-pic-6438429318620356715-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2017 Honda Accord EX-L FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Brighton, MA 02135</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,481 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $20,476</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="17995">$17,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>20,700</span></p>
+
+          <p><strong>Location:</strong> Brighton, MA 02135</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          26 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Basque Red Pearl Ii
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2017 Honda Accord EX-L FWD for sale
+- $17,995, 20,700 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                Remote Start, 
+                Aluminum Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (33 reviews)
+              "Yaw, Rutimi, and Jerry we’re honest and helpful "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
           <img src="https://static.cargurus.com/images/forsale/2019/06/22/21/23/2018_honda_accord-pic-7902906870322827449-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/22/21/23/2018_honda_accord-pic-7902906870322827449-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
@@ -3769,8 +3632,8 @@ When I asked about the CG price, it was because they had applied EVERY REBATE to
 
           Great Deal
         </div>
-  <div class="b greenText">$2,037 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $23,458</span>
+  <div class="b greenText">$1,995 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $23,416</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3801,144 +3664,6 @@ When I asked about the CG price, it was because they had applied EVERY REBATE to
           <strong>Avg. Dealer Rating:</strong>
 <i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (22 reviews)
               "There was no back and forth. They supplied me with the vehicle I was looking and supplied me with the carfax without having to ask for it."
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/28/18/16/2014_honda_accord-pic-7221977835026451533-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/28/18/16/2014_honda_accord-pic-7221977835026451533-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2014 Honda Accord EX-L w/ Nav</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Londonderry, NH 03053</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,434 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,429</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="12995">$12,995</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>51,000</span></p>
-
-          <p><strong>Location:</strong> Londonderry, NH 03053</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Silver
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2014 Honda Accord EX-L w/ Nav for sale
-- $12,995, 51,000 miles        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (4 reviews)
-              "Finally found the car I’ve been looking for!! And with a 2 YEAR WARRANTY!! The staff is very helpful &amp; friendly I couldn’t be happier!! "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/12/21/39/2018_honda_accord-pic-4321481390812162009-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/12/21/39/2018_honda_accord-pic-4321481390812162009-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2018 Honda Accord 1.5T EX-L FWD with Navigation</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Nashua, NH 03062</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,350 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $23,250</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="20900">$20,900</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>57,008</span></p>
-
-          <p><strong>Location:</strong> Nashua, NH 03062</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          33 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Still Night Pearl
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2018 Honda Accord 1.5T EX-L FWD with Navigation for sale
-- $20,900, 57,008 miles          with                 Leather Seats, 
-                Sunroof/Moonroof, 
-                Navigation System, 
-                Adaptive Cruise Control, 
-                Alloy Wheels, 
-                Bluetooth, 
-                Backup Camera
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (57 reviews)
-              "We have done business with Toyota of Nashua multiple times and have been very satisfied 
-with their professionalism and customer service. They were very patient as we took this 
-Subaru on an extended test drive and, once we decided to buy it, they had it detailed and 
-ready to go that night. So far we are very happy with our purchase and would definitely do 
-business with them again!"
         </div>
   </div>
 
@@ -3975,8 +3700,8 @@ business with them again!"
 
           Great Deal
         </div>
-  <div class="b greenText">$2,084 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $17,084</span>
+  <div class="b greenText">$2,069 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $17,069</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4012,11 +3737,11 @@ business with them again!"
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/11/23/03/2018_honda_accord-pic-2461581567394481090-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/11/23/03/2018_honda_accord-pic-2461581567394481090-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/04/03/12/2018_honda_accord-pic-4007029307090601774-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/04/03/12/2018_honda_accord-pic-4007029307090601774-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2018 Honda Accord 2.0T Touring FWD</span>
+            <span itemprop="name">2018 Honda Accord 2.0T Sport FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
           <span>Raynham, MA 02767</span>
@@ -4043,39 +3768,41 @@ business with them again!"
 
           Great Deal
         </div>
-  <div class="b greenText">$2,077 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $26,977</span>
+  <div class="b greenText">$2,043 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $24,760</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="24900">$24,900</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="22717">$22,717</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>30,333</span></p>
+            <p><strong>Mileage:</strong> <span>27,874</span></p>
 
           <p><strong>Location:</strong> Raynham, MA 02767</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          38 days
-            <strong>Certified Pre-Owned:</strong> No
+          22 days
+            <strong>Certified Pre-Owned:</strong> Yes
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Platinum White Pearl
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2018 Honda Accord 2.0T Touring FWD for sale
-- $24,900, 30,333 miles          with                 Bluetooth, 
-                Leather Seats, 
+          Used 2018 Honda Accord 2.0T Sport FWD for sale
+- $22,717, 27,874 miles          with                 Bluetooth, 
+                Backup Camera, 
                 Sunroof/Moonroof, 
+                Aluminum Wheels, 
+                Remote Start, 
                 Navigation System
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.6 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (16 reviews)
-              "Gee, they got back to me quickly. They must be a 
-very good dealer, because they sold the truck very 
-quick."
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (21 reviews)
+              "Great cars for competitive prices, and very competent and friendly salespeople."
         </div>
   </div>
 
@@ -4112,8 +3839,8 @@ quick."
 
           Great Deal
         </div>
-  <div class="b greenText">$1,903 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $20,902</span>
+  <div class="b greenText">$1,875 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $20,874</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4126,7 +3853,7 @@ quick."
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          33 days
+          32 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
             <strong>Color: </strong>Black
@@ -4181,8 +3908,8 @@ quick."
 
           Great Deal
         </div>
-  <div class="b greenText">$1,742 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,741</span>
+  <div class="b greenText">$1,714 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,713</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4216,14 +3943,14 @@ quick."
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/04/03/12/2018_honda_accord-pic-4007029307090601774-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/04/03/12/2018_honda_accord-pic-4007029307090601774-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/08/08/19/06/2017_honda_accord-pic-4421643377591586586-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/08/19/06/2017_honda_accord-pic-4421643377591586586-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2018 Honda Accord 2.0T Sport FWD</span>
+            <span itemprop="name">2017 Honda Accord EX-L FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Raynham, MA 02767</span>
+          <span>North Attleboro, MA 02760</span>
 
       </h4>
 
@@ -4247,41 +3974,242 @@ quick."
 
           Great Deal
         </div>
-  <div class="b greenText">$1,989 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $24,706</span>
+  <div class="b greenText">$2,184 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $20,164</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="22717">$22,717</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="17980">$17,980</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>27,874</span></p>
+            <p><strong>Mileage:</strong> <span>31,736</span></p>
 
-          <p><strong>Location:</strong> Raynham, MA 02767</p>
+          <p><strong>Location:</strong> North Attleboro, MA 02760</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          23 days
-            <strong>Certified Pre-Owned:</strong> Yes
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Platinum White Pearl
+          26 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>White Orchid Pearl
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2018 Honda Accord 2.0T Sport FWD for sale
-- $22,717, 27,874 miles          with                 Bluetooth, 
+          Used 2017 Honda Accord EX-L FWD for sale
+- $17,980, 31,736 miles          with                 Bluetooth, 
+                Leather Seats, 
                 Backup Camera, 
                 Sunroof/Moonroof, 
-                Aluminum Wheels, 
-                Remote Start, 
-                Navigation System
+                Remote Start
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (21 reviews)
-              "Great cars for competitive prices, and very competent and friendly salespeople."
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (7 reviews)
+              "The vehicle sold and I was quickly informed"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/28/18/16/2014_honda_accord-pic-7221977835026451533-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/28/18/16/2014_honda_accord-pic-7221977835026451533-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2014 Honda Accord EX-L w/ Nav</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Londonderry, NH 03053</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,281 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,276</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="12995">$12,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>51,000</span></p>
+
+          <p><strong>Location:</strong> Londonderry, NH 03053</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Silver
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2014 Honda Accord EX-L w/ Nav for sale
+- $12,995, 51,000 miles        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (4 reviews)
+              "Finally found the car I’ve been looking for!! And with a 2 YEAR WARRANTY!! The staff is very helpful &amp; friendly I couldn’t be happier!! "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img style="width:152px;" src="https://s3.amazonaws.com/i.autouplinktech.com/c640/5d352cdd4ddb49d685cff9adaa319031.jpg" itemprop="image"/><span class="invisibleLayer">https://s3.amazonaws.com/i.autouplinktech.com/c640/5d352cdd4ddb49d685cff9adaa319031.jpg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Honda Accord 2.0T Touring FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Milford, MA 01757</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,970 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $28,970</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="27000">$27,000</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>13,120</span></p>
+
+          <p><strong>Location:</strong> Milford, MA 01757</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          37 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Platinum White Pearl
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Honda Accord 2.0T Touring FWD for sale
+- $27,000, 13,120 miles          with                 Leather Seats, 
+                Sunroof/Moonroof, 
+                Navigation System, 
+                Adaptive Cruise Control, 
+                Backup Camera, 
+                Aluminum Wheels, 
+                Remote Start
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.3 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (53 reviews)
+              "Amazing "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/08/19/27/2017_honda_accord-pic-7043112266127887510-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/08/19/27/2017_honda_accord-pic-7043112266127887510-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2017 Honda Accord LX FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Brighton, MA 02135</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,856 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,851</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13995">$13,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>34,505</span></p>
+
+          <p><strong>Location:</strong> Brighton, MA 02135</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          25 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Crystal Black Pearl
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2017 Honda Accord LX FWD for sale
+- $13,995, 34,505 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Aluminum Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (33 reviews)
+              "Didn’t provide many details about the car until I got there, then Informed me the car was in an accident. When asked if I could test drive the vehicle the reply was how I would be paying for the  vehicle. "
         </div>
   </div>
 
@@ -4318,8 +4246,8 @@ quick."
 
           Great Deal
         </div>
-  <div class="b greenText">$2,226 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $22,225</span>
+  <div class="b greenText">$2,130 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $22,129</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4357,14 +4285,14 @@ quick."
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img style="width:152px;" src="https://www.motorcarmarkdown.com/dealers/images/vehicles/large/image_242523_img_9315.jpg" itemprop="image"/><span class="invisibleLayer">https://www.motorcarmarkdown.com/dealers/images/vehicles/large/image_242523_img_9315.jpg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/11/23/03/2018_honda_accord-pic-2461581567394481090-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/11/23/03/2018_honda_accord-pic-2461581567394481090-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2008 Honda Accord EX V6</span>
+            <span itemprop="name">2018 Honda Accord 2.0T Touring FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Amesbury, MA 01913</span>
+          <span>Raynham, MA 02767</span>
 
       </h4>
 
@@ -4388,37 +4316,107 @@ quick."
 
           Great Deal
         </div>
-  <div class="b greenText">$1,700 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,695</span>
+  <div class="b greenText">$1,920 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $26,820</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="6995">$6,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="24900">$24,900</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>85,487</span></p>
+            <p><strong>Mileage:</strong> <span>30,333</span></p>
 
-          <p><strong>Location:</strong> Amesbury, MA 01913</p>
+          <p><strong>Location:</strong> Raynham, MA 02767</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          23 days
+          37 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Silver
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2008 Honda Accord EX V6 for sale
-- $6,995, 85,487 miles          with                 Sunroof/Moonroof, 
+          Used 2018 Honda Accord 2.0T Touring FWD for sale
+- $24,900, 30,333 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Sunroof/Moonroof, 
+                Navigation System
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.6 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (16 reviews)
+              "Gee, they got back to me quickly. They must be a 
+very good dealer, because they sold the truck very 
+quick."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/28/11/27/2018_honda_accord-pic-666554693202356352-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/28/11/27/2018_honda_accord-pic-666554693202356352-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Honda Accord 1.5T Sport FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Wakefield, MA 01880</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,765 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $22,754</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="20989">$20,989</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>19,526</span></p>
+
+          <p><strong>Location:</strong> Wakefield, MA 01880</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          25 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Gray
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Honda Accord 1.5T Sport FWD for sale
+- $20,989, 19,526 miles          with                 Adaptive Cruise Control, 
+                Backup Camera, 
                 Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>              (1 review)
-              "Great experience. "
+<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (8 reviews)
+              "I love my new car, and although there was a glitch-- submission of financials to my bank-- all resolved.  I worked with Albert at Liberty, and he was great!"
         </div>
   </div>
         <div style="font-size:14px;margin-top:10px;padding:5px;cursor:pointer;background-color:#CCCCCC;width:100px;text-align:center;" class="b">
@@ -4575,16 +4573,16 @@ quick."
             <a href="/Cars/l-Used-2019-Honda-Accord-c28862" title="2019 Honda Accord">2019 Honda Accord</a>
           </td>
 
-          <td data-order="26">
-            26 Great Deals
+          <td data-order="28">
+            28 Great Deals
           </td>
 
           <td data-order="19450">
             $19,450
           </td>
 
-          <td data-order="40721">
-            40,721 listings
+          <td data-order="40638">
+            40,638 listings
           </td>
 
         </tr>
@@ -4595,16 +4593,16 @@ quick."
             <a href="/Cars/l-Used-2018-Honda-Accord-c27103" title="2018 Honda Accord">2018 Honda Accord</a>
           </td>
 
-          <td data-order="139">
-            139 Great Deals
+          <td data-order="138">
+            138 Great Deals
           </td>
 
           <td data-order="15997">
             $15,997
           </td>
 
-          <td data-order="3862">
-            3,862 listings
+          <td data-order="3856">
+            3,856 listings
           </td>
 
         </tr>
@@ -4615,16 +4613,16 @@ quick."
             <a href="/Cars/l-Used-2017-Honda-Accord-c25963" title="2017 Honda Accord">2017 Honda Accord</a>
           </td>
 
-          <td data-order="142">
-            142 Great Deals
+          <td data-order="140">
+            140 Great Deals
           </td>
 
-          <td data-order="11000">
-            $11,000
+          <td data-order="11500">
+            $11,500
           </td>
 
-          <td data-order="5670">
-            5,670 listings
+          <td data-order="5671">
+            5,671 listings
           </td>
 
         </tr>
@@ -4635,16 +4633,16 @@ quick."
             <a href="/Cars/l-Used-2016-Honda-Accord-c25200" title="2016 Honda Accord">2016 Honda Accord</a>
           </td>
 
-          <td data-order="183">
-            183 Great Deals
+          <td data-order="188">
+            188 Great Deals
           </td>
 
           <td data-order="9900">
             $9,900
           </td>
 
-          <td data-order="4388">
-            4,388 listings
+          <td data-order="4344">
+            4,344 listings
           </td>
 
         </tr>
@@ -4659,12 +4657,12 @@ quick."
             40 Great Deals
           </td>
 
-          <td data-order="8575">
-            $8,575
+          <td data-order="8731">
+            $8,731
           </td>
 
-          <td data-order="1687">
-            1,687 listings
+          <td data-order="1690">
+            1,690 listings
           </td>
 
         </tr>
@@ -4675,16 +4673,16 @@ quick."
             <a href="/Cars/l-Used-2014-Honda-Accord-c23865" title="2014 Honda Accord">2014 Honda Accord</a>
           </td>
 
-          <td data-order="52">
-            52 Great Deals
+          <td data-order="54">
+            54 Great Deals
           </td>
 
           <td data-order="6500">
             $6,500
           </td>
 
-          <td data-order="1507">
-            1,507 listings
+          <td data-order="1497">
+            1,497 listings
           </td>
 
         </tr>
@@ -4695,16 +4693,16 @@ quick."
             <a href="/Cars/l-Used-2013-Honda-Accord-c23242" title="2013 Honda Accord">2013 Honda Accord</a>
           </td>
 
-          <td data-order="60">
-            60 Great Deals
+          <td data-order="59">
+            59 Great Deals
           </td>
 
-          <td data-order="6399">
-            $6,399
+          <td data-order="6299">
+            $6,299
           </td>
 
-          <td data-order="1403">
-            1,403 listings
+          <td data-order="1402">
+            1,402 listings
           </td>
 
         </tr>
@@ -4715,16 +4713,16 @@ quick."
             <a href="/Cars/l-Used-2012-Honda-Accord-c23084" title="2012 Honda Accord">2012 Honda Accord</a>
           </td>
 
-          <td data-order="41">
-            41 Great Deals
+          <td data-order="45">
+            45 Great Deals
           </td>
 
           <td data-order="2995">
             $2,995
           </td>
 
-          <td data-order="1239">
-            1,239 listings
+          <td data-order="1247">
+            1,247 listings
           </td>
 
         </tr>
@@ -4735,16 +4733,16 @@ quick."
             <a href="/Cars/l-Used-2011-Honda-Accord-c22452" title="2011 Honda Accord">2011 Honda Accord</a>
           </td>
 
-          <td data-order="28">
-            28 Great Deals
+          <td data-order="27">
+            27 Great Deals
           </td>
 
           <td data-order="3995">
             $3,995
           </td>
 
-          <td data-order="814">
-            814 listings
+          <td data-order="818">
+            818 listings
           </td>
 
         </tr>
@@ -4755,16 +4753,16 @@ quick."
             <a href="/Cars/l-Used-2010-Honda-Accord-c21850" title="2010 Honda Accord">2010 Honda Accord</a>
           </td>
 
-          <td data-order="29">
-            29 Great Deals
+          <td data-order="28">
+            28 Great Deals
           </td>
 
           <td data-order="3500">
             $3,500
           </td>
 
-          <td data-order="985">
-            985 listings
+          <td data-order="976">
+            976 listings
           </td>
 
         </tr>
@@ -4792,7 +4790,7 @@ quick."
               <div>
 
 
-      988 Great Deals out of 70,369 listings starting at <span class="nowrap">$699</span>
+      997 Great Deals out of 70,889 listings starting at <span class="nowrap">$699</span>
 
               </div>
             </td>
@@ -4809,7 +4807,7 @@ quick."
               <div>
 
 
-      639 Great Deals out of 52,591 listings starting at <span class="nowrap">$900</span>
+      661 Great Deals out of 53,180 listings starting at <span class="nowrap">$900</span>
 
               </div>
             </td>
@@ -4826,7 +4824,7 @@ quick."
               <div>
 
 
-      998 Great Deals out of 63,550 listings starting at <span class="nowrap">$1,750</span>
+      1,007 Great Deals out of 64,011 listings starting at <span class="nowrap">$800</span>
 
               </div>
             </td>
@@ -4853,35 +4851,35 @@ quick."
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2019-Honda-Accord-c28862">2019 Honda Accord</a>
-        <div>241 listings starting at $19,450</div>
+        <div>258 listings starting at $19,450</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2018-Honda-Accord-c27103">2018 Honda Accord</a>
-        <div>1,018 listings starting at $15,997</div>
+        <div>1,021 listings starting at $15,997</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2017-Honda-Accord-c25963">2017 Honda Accord</a>
-        <div>1,745 listings starting at $11,000</div>
+        <div>1,726 listings starting at $11,500</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2016-Honda-Accord-c25200">2016 Honda Accord</a>
-        <div>922 listings starting at $9,900</div>
+        <div>912 listings starting at $9,900</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2015-Honda-Accord-c24627">2015 Honda Accord</a>
-        <div>166 listings starting at $8,575</div>
+        <div>164 listings starting at $8,731</div>
       </td>
 
       
@@ -4912,7 +4910,7 @@ quick."
           <td style="width:33.333333333333%">
               <a href="/Cars/new/nl-New-Honda-Accord-d585" title="2019 Honda Accord">2019 Honda Accord</a>
               <div>
-                    40,721 listings
+                    40,638 listings
               </div>
           </td>
           
@@ -4942,7 +4940,7 @@ quick."
           <div>
 
 
-      29 Great Deals out of 1,004 listings starting at <span class="nowrap">$1,000</span>
+      32 Great Deals out of 1,005 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -4957,7 +4955,7 @@ quick."
           <div>
 
 
-      23 Great Deals out of 712 listings starting at <span class="nowrap">$1,000</span>
+      25 Great Deals out of 711 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -4972,7 +4970,7 @@ quick."
           <div>
 
 
-      25 Great Deals out of 739 listings starting at <span class="nowrap">$1,000</span>
+      26 Great Deals out of 739 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -4987,7 +4985,7 @@ quick."
           <div>
 
 
-      30 Great Deals out of 854 listings starting at <span class="nowrap">$698</span>
+      32 Great Deals out of 855 listings starting at <span class="nowrap">$698</span>
 
           </div>
         </td>
@@ -5002,7 +5000,7 @@ quick."
           <div>
 
 
-      32 Great Deals out of 1,064 listings starting at <span class="nowrap">$1,000</span>
+      35 Great Deals out of 1,068 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -5017,7 +5015,7 @@ quick."
           <div>
 
 
-      10 Great Deals out of 460 listings starting at <span class="nowrap">$1,188</span>
+      11 Great Deals out of 459 listings starting at <span class="nowrap">$1,188</span>
 
           </div>
         </td>
@@ -5032,7 +5030,7 @@ quick."
           <div>
 
 
-      24 Great Deals out of 597 listings starting at <span class="nowrap">$698</span>
+      26 Great Deals out of 598 listings starting at <span class="nowrap">$698</span>
 
           </div>
         </td>
@@ -5047,7 +5045,7 @@ quick."
           <div>
 
 
-      34 Great Deals out of 1,141 listings starting at <span class="nowrap">$698</span>
+      39 Great Deals out of 1,142 listings starting at <span class="nowrap">$698</span>
 
           </div>
         </td>
@@ -5062,7 +5060,7 @@ quick."
           <div>
 
 
-      10 Great Deals out of 470 listings starting at <span class="nowrap">$1,650</span>
+      11 Great Deals out of 474 listings starting at <span class="nowrap">$1,650</span>
 
           </div>
         </td>
@@ -5090,7 +5088,7 @@ quick."
                         <a href="/Cars/lp/search-Honda-Accord-automatic-sc1_d585" title="Used Honda Accord With Automatic Transmission">Used Honda Accord With Automatic Transmission</a>
                         <div>
 
-      853 Great Deals out of 26,034 listings starting at <span class="nowrap">$495</span>
+      858 Great Deals out of 25,958 listings starting at <span class="nowrap">$495</span>
 
 </div>
                     </td>
@@ -5106,7 +5104,7 @@ quick."
                         <a href="/Cars/lp/search-Honda-Accord-manual-sc2_d585" title="Used Honda Accord With Manual Transmission">Used Honda Accord With Manual Transmission</a>
                         <div>
 
-      18 Great Deals out of 557 listings starting at <span class="nowrap">$450</span>
+      19 Great Deals out of 543 listings starting at <span class="nowrap">$450</span>
 
 </div>
                     </td>
@@ -5342,10 +5340,10 @@ quick."
   <div id="devInfo" class="hidden" style="display: none;"
        data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
        data-sentry-integrated="true"
-       data-server-host-name="prod-bos2-www-54.dc.c-gurus.com"
+       data-server-host-name="prod-bos2-www-37.dc.c-gurus.com"
        data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
        data-action-method="viewDetailsFilterView"
-       data-build-id="site-cars-25086"
+       data-build-id="site-cars-25095"
        data-template="/inventorylisting/viewDetailsFilterView.ftl"
        data-view-version="_DEFAULT_"
        data-production="true">
@@ -5403,7 +5401,7 @@ quick."
       cgDataLayer.baseData['CGLocale']="ENGLISH";
       cgDataLayer.baseData['Locale']='en_US';
       cgDataLayer.baseData['Country']='UNITED_STATES';
-    cgDataLayer.baseData['UUID']="FDHR-192.80.65.177.1568758578764";
+    cgDataLayer.baseData['UUID']="8BK6-50.245.49.123.1568840550020";
       cgDataLayer.baseData['EnType']='MODEL';
         cgDataLayer.baseData['Make'] = "Honda";
         cgDataLayer.baseData['Model'] = "Accord";
@@ -5420,8 +5418,8 @@ quick."
             cgDataLayer.baseData['CPO']="false";
             cgDataLayer.baseData['Product']="listings";
             cgDataLayer.baseData['PageType']="usedcar";
-            cgDataLayer.baseData['VehicleLeagues']=["vehicle.league.medium_sedan","vehicle.league.wagon","vehicle.league.coupe","vehicle.league.hatchback"];
-            cgDataLayer.baseData['VehicleLeagueEntityIds']=["vl2","vl30","vl29","vl26"];
+            cgDataLayer.baseData['VehicleLeagues']=["vehicle.league.medium_sedan","vehicle.league.coupe","vehicle.league.wagon","vehicle.league.hatchback"];
+            cgDataLayer.baseData['VehicleLeagueEntityIds']=["vl2","vl29","vl30","vl26"];
 
 
     cgDataLayer.baseData['EntityId'] = "d585";
@@ -5536,7 +5534,7 @@ quick."
         isFeaturedListingsEnabled : true,
         isFooterFeaturedListingsEnabled : true,
         isFeaturedHighlightListingsEnabled: true,
-        logContext : 'forSaleTab_false_0',
+        logContext : 'carGurusHomePageModel',
         pageSize : 15,
         filterBySourcesString : '',
         filterFeaturedBySourcesString : '',
@@ -5567,8 +5565,8 @@ quick."
 
       listingsSearchManager.selectedMakeOrModelName = "Honda Accord";
 
-    listingsSearchManager.modelChanged = true;
-    listingsSearchManager.searchChanged = true;
+    listingsSearchManager.modelChanged = false;
+    listingsSearchManager.searchChanged = false;
 
     if (!listingsSearchManager.isMobile) {
         listingsSearchManager.droppedFilters = null;
@@ -5636,7 +5634,7 @@ quick."
     var priceDropFilter = new CG.Inventory.Filters.PriceDropFilter(false);
     listingsSearchManager.registerFilter(priceDropFilter);
 
-      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568758578879);
+      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568840550130);
       listingsSearchManager.registerFilter(sinceLastVisitFilter);
 
       var accidentsFilter = new CG.Inventory.Filters.AccidentsFilter(hideAccidents);
@@ -6179,7 +6177,7 @@ quick."
   }
 
 
-var errorDialogContents = '    <div id=\"errorDialog\" >\n        <p class=\"errorDialogMessage\">\n            We\'re sorry, we encountered a problem loading your listings. Please try again.\n        <\/p>\n        <div class=\"errorAction\">\n            <input type=\"button\"\n                   class=\"btn btn-warning\"\n                   value=\"Reload Page\"\n                   onclick=\"document.location.href=\'https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=forSaleTab_false_0&amp;newSearchFromOverviewPage=true&amp;inventorySearchWidgetType=AUTO&amp;entitySelectingHelper.selectedEntity=d585&amp;entitySelectingHelper.selectedEntity2=&amp;zip=02169&amp;distance=50&amp;searchChanged=true&amp;modelChanged=true&amp;filtersModified=true&amp;sortType=undefined&amp;sortDirection=undefined\';return false;\"/>\n\n        <\/div>\n    <\/div>\n';
+var errorDialogContents = '    <div id=\"errorDialog\" >\n        <p class=\"errorDialogMessage\">\n            We\'re sorry, we encountered a problem loading your listings. Please try again.\n        <\/p>\n        <div class=\"errorAction\">\n            <input type=\"button\"\n                   class=\"btn btn-warning\"\n                   value=\"Reload Page\"\n                   onclick=\"document.location.href=\'https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=carGurusHomePageModel&amp;entitySelectingHelper.selectedEntity=d585&amp;zip=02169\';return false;\"/>\n\n        <\/div>\n    <\/div>\n';
 
 var missingPostalCodePopup = '\n\n<div id=\"blueBarsPopupMissingZipContainer\">\n    <div id=\"logoSection\">\n        <div id=\"missingPostalCodePopupLogo\">\n            <img src=\"https://static1.cargurus.com/gfx/logos/logo_fb_transparent.png\" alt=\"CarGurus Logo\" />\n        <\/div>\n    <\/div>\n    <div id=\"enterZipSection\">\n        <div id=\"titleSection\">Find Deals on Used Accords<\/div>\n        <div id=\"missingPostalCodeFormParent\">\n\n\n\n    \n    \n\n        \n<form id=\"missingPostalCodeForm\" name=\"missingPostalCodeForm\" onsubmit=\"handleMissingPostalCodeFormSubmission($(&#39;#missingPostalCodeForm&#39;).get(0), &#39;missingZip_blueBarPopup&#39;);return false;\" method=\"post\">\n<fieldset>\n\n\n\n\n\n\n\n<tr>\n\n\n    <td class=\"tdLabel\"><label for=\"missingPostalCode\" class=\"struts-label\">Postal Code:<\/label>\n<\/td>\n    <td \nclass=\"tdContent\" ><input type=\"tel\" name=\"postalCode\" autocomplete=\"postal-code\"   size=\"7\"   maxlength=\"7\" aria-label=\"Zip\"   id=\"missingPostalCode\"   value=\"02169\"/>\n\n<\/td>\n<\/tr>\n\n\n\n\n\n<\/fieldset><\/form>\n\n<script>\n  (function () {\n    var onloadFunction = function () {\n    (function(){\n      if(typeof $ === \'undefined\' || typeof CG === \'undefined\'){\n        return;\n      }\n      var cg_form_selector = \'#missingPostalCodeForm\',\n        cg_form_success_callback = \'\',\n        cg_form_validationCallback = \'\',\n        cg_form_error_callback = \'\',\n        cg_form_formValidation = \'\',\n        cg_form_processing_message = \'Processing\';\n\n      function submitForm(e) {\n\n\n      }\n\n      $(cg_form_selector).submit(submitForm);\n    })();\n    };\n    if (!window.deferJs || document.readyState !== \'loading\') {\n      onloadFunction();\n    } else {\n      document.addEventListener(\'DOMContentLoaded\', onloadFunction);\n    }\n  }());\n<\/script>\n<div id=\"buttonSection\">\n      <img onclick=\"handleMissingPostalCodeFormSubmission($(\'#missingPostalCodeForm\').get(0), \'missingZip_blueBarPopup\');\" src=\"https://static1.cargurus.com/gfx/buttons/orange-pill-find-deals-button-blue.png\"/>\n<\/div>\n        <\/div>\n    <\/div>\n<\/div>\n\n';
       </script>
@@ -6233,7 +6231,6 @@ var missingPostalCodePopup = '\n\n<div id=\"blueBarsPopupMissingZipContainer\">\
 
     $(function(){
       var possibleOptions;
-        possibleOptions = $('option.undefined[value="undefined"]');
       CG.ListingsView.init(possibleOptions);
     });
 
