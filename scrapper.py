@@ -11,7 +11,7 @@ URL_list = {
         'FordFusion':['https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=carGurusHomePageModel&entitySelectingHelper.selectedEntity=d845&zip=02169',36],
         'ChevroletMalibu':['https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=carGurusHomePageModel&entitySelectingHelper.selectedEntity=d622&zip=02169',22]
         },
-    'cartrader':{
+    'truecar':{
         'ToyotaCamry':['',],
         'HondaAccord':['',],
         'NissanAltima':['',],
@@ -26,13 +26,12 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-c","--carGurus", help='Scrape from cargurus.com',action='store_false')
-    parser.add_argument("-t", "--carTrader", help="Scrape from cartrader.com", action='store_true')
+    parser.add_argument("-t", "--trueCar", help="Scrape from truecar.com", action='store_true')
 
     args = parser.parse_args()
 
-    if args.carTrader:
-        print('Here')
-        website = 'cartrader.com'
+    if args.trueCar:
+        website = 'truecar.com'
     else:
         website = 'cargurus.com'
     
