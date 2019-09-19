@@ -1,5 +1,6 @@
 import argparse
 from cargurus import CarGurus
+from truecar import TrueCar
 
 URL_list = {
     'carguru':{
@@ -12,13 +13,13 @@ URL_list = {
         'ChevroletMalibu':['https://www.cargurus.com/Cars/inventorylisting/viewDetailsFilterViewInventoryListing.action?sourceContext=carGurusHomePageModel&entitySelectingHelper.selectedEntity=d622&zip=02169',22]
         },
     'truecar':{
-        'ToyotaCamry':['',],
-        'HondaAccord':['',],
-        'NissanAltima':['',],
-        'HyundaiSonata':['',],
-        'VWPassat':['',],
-        'FordFusion':['',],
-        'ChevroletMalibu':['',]
+        'ToyotaCamry':['https://www.truecar.com/used-cars-for-sale/listings/toyota/camry/location-quincy-ma/',20],
+        'HondaAccord':['https://www.truecar.com/used-cars-for-sale/listings/honda/accord/location-quincy-ma/',18],
+        'NissanAltima':['https://www.truecar.com/used-cars-for-sale/listings/nissan/altima/location-quincy-ma/',14],
+        'HyundaiSonata':['https://www.truecar.com/used-cars-for-sale/listings/hyundai/sonata/location-quincy-ma/',12],
+        'VWPassat':['https://www.truecar.com/used-cars-for-sale/listings/volkswagen/passat/location-quincy-ma/',6],
+        'FordFusion':['https://www.truecar.com/used-cars-for-sale/listings/ford/fusion/location-quincy-ma/',16],
+        'ChevroletMalibu':['https://www.truecar.com/used-cars-for-sale/listings/chevrolet/malibu/location-quincy-ma/',7]
     }
 }
 
@@ -35,7 +36,12 @@ def main():
     else:
         website = 'cargurus.com'
     
-    if website == 'cargurus.com':
+    if website == 'truecar.com':
+        for make_model, url in URL_list['truecar'].items():
+            carlistings = TrueCar(make_model, url[0], url[1])
+            carlistings.fetch_all_pages()
+            carlistings.parse_all()
+    else:
         for make_model, url in URL_list['carguru'].items():
             carlistings = CarGurus(make_model, url[0], url[1])
             carlistings.fetch_all_pages()
