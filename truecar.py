@@ -64,7 +64,8 @@ class TrueCar():
                     'Model': model, 
                     'Detailed_model': detailed_model, 
                     'Price': price, 
-                    'Mileage': mileage
+                    'Mileage': mileage,
+                    'Website': 'TC'
                     })
                 count += 1
             except Exception as e:
@@ -82,7 +83,7 @@ class TrueCar():
     def parse_all(self):
         total_listings = 0
         csv_path = os.path.join(HERE, 'car_listings.csv')
-        csv_header = "Year,Make,Model,Detailed_model,Price,Mileage"
+        csv_header = "Year,Make,Model,Detailed_model,Price,Mileage,Website"
         self.header(csv_path, csv_header)
         for page in os.listdir(self.page_path):
             if page.startswith('TrueCar'):
