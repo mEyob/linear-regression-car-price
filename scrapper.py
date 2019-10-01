@@ -1,6 +1,7 @@
 import argparse
 from cargurus import CarGurus
 from truecar import TrueCar
+from edmunds import Edmunds
 
 URL_list = {
     'carguru':{
@@ -20,6 +21,15 @@ URL_list = {
         'VWPassat':['https://www.truecar.com/used-cars-for-sale/listings/volkswagen/passat/location-quincy-ma/',6],
         'FordFusion':['https://www.truecar.com/used-cars-for-sale/listings/ford/fusion/location-quincy-ma/',16],
         'ChevroletMalibu':['https://www.truecar.com/used-cars-for-sale/listings/chevrolet/malibu/location-quincy-ma/',7]
+    },
+    'edmunds':{
+        'ToyotaCamry':['https://www.edmunds.com/used-toyota-camry/',44],
+        'HondaAccord':['https://www.edmunds.com/used-honda-accord/',32],
+        'NissanAltima':['https://www.edmunds.com/used-nissan-altima/',64],
+        'HyundaiSonata':['https://www.edmunds.com/used-hyundai-sonata/',30],
+        'VWPassat':['https://www.edmunds.com/used-volkswagen-passat/',22],
+        'FordFusion':['https://www.edmunds.com/used-ford-fusion/',21],
+        'ChevroletMalibu':['https://www.edmunds.com/used-chevrolet-malibu/',13]
     }
 }
 
@@ -28,17 +38,18 @@ def main():
 
     parser.add_argument("-c","--carGurus", help='Scrape from cargurus.com',action='store_false')
     parser.add_argument("-t", "--trueCar", help="Scrape from truecar.com", action='store_true')
+    parser.add_argument("-e", "--edmunds", help="Scrape from edmunds.com", action='store_true')
 
     args = parser.parse_args()
 
     if args.trueCar:
-        website = 'truecar.com'
-    else:
-        website = 'cargurus.com'
-    
-    if website == 'truecar.com':
         for make_model, url in URL_list['truecar'].items():
             carlistings = TrueCar(make_model, url[0], url[1])
+            carlistings.fetch_all_pages()
+            carlistings.parse_all()
+    elif args.edmunds:
+        for make_model, url in URL_list['edmunds'].items():
+            carlistings = Edmunds(make_model, url[0], url[1])
             carlistings.fetch_all_pages()
             carlistings.parse_all()
     else:
@@ -46,6 +57,7 @@ def main():
             carlistings = CarGurus(make_model, url[0], url[1])
             carlistings.fetch_all_pages()
             carlistings.parse_all()
+    
 
 if __name__ == '__main__':
     main()
