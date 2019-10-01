@@ -60,8 +60,8 @@
     }
     </script>
 
-    <title>Used Ford Fusion For Sale - CarGurus</title>
-    <meta name="description" content="Save $7,192 on a used Ford Fusion near you. Search over 50,000 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
+    <title>Used Ford Fusion for Sale (with Photos) - CarGurus</title>
+    <meta name="description" content="Save $4,445 on a used Ford Fusion near you. Search over 51,200 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
         <meta name="keywords" content="Ford Fusion,Ford,Fusion">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -85,21 +85,21 @@
         data-logged-in="false"
         data-mobile-app="false"
         data-production="true"
-        data-seo-experiments='{"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"OPERATION_WELP_GETS_INDEXED":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"OPERATION_RECURRING_CONDTION":-1,"SEO_BATCH_2":-1}' 
+        data-seo-experiments='{"OPERATION_RECURRING_CONDITION":-1,"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_BATCH_3_TITLES":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"SEO_BATCH_3_TITLES_MOBILE":-1,"SEO_BATCH_2":-1}' 
         data-service-name="Cars"
-        data-uuid="gfKw-50.245.49.123.1568840440093"
+        data-uuid="M1sc-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569904911043"
         data-view-versions="[&quot;_DEFAULT_&quot;]"
     >
 
     <meta name="devInfo"
         data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
         data-action-method="viewDetailsFilterView"
-        data-build-id="site-cars-25095"
+        data-build-id="site-cars-25300"
         data-deploymentloc="bos2"
         data-production="true"
             data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
         data-sentry-integrated="true"
-        data-server-host-name="prod-bos2-www-10.dc.c-gurus.com"
+        data-server-host-name="prod-bos2-www-20.dc.c-gurus.com"
         data-template="/inventorylisting/viewDetailsFilterView.ftl"
         data-view-version="_DEFAULT_"
     >
@@ -111,20 +111,21 @@
 <meta property="og:type" content="product" />
 <meta property="og:url" content="https://www.cargurus.com/Cars/l-Used-Ford-Fusion-d845"/>
 <meta property="og:title" content="Used Ford Fusion For Sale - CarGurus" />
-  <meta property="og:image" content="https://static.cargurus.com/images/site/2016/02/04/15/47/2017_ford_fusion-pic-1200917140733269119-200x200.jpeg" />
+  <meta property="og:image" content="https://static.cargurus.com/images/site/2019/09/25/08/27/2020_ford_fusion-pic-4610622182768849352-200x200.jpeg" />
   
 
   
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.df695d5c8b485c6259a2c6cd78aebb66.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.db4b2289d549c1bec72f6847d705676f.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.12ca5009f4d29e44e59e6a33767791aa.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.246ba8905bc7200000159c9ccee0fd3c.css">
 
   <link rel='stylesheet' href="https://static.cargurus.com/css/site/core/cg-highres.css?v=-430879965_157" media="only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" />
 
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.4d9acd279f806550ffba055b8f5c9830.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.e55c971ddba55ff409a1e0d6dc62f656.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/contact_a_dealer.entry.fbe06a93da0ed276d6520bf1cbd37197.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_financing_prequal.entry.bfb16965ce36c8cdf375b95984df0288.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.65a526010bea826c8908e453a70e8185.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.d637b5afd5202e7a445fa88a8a676c76.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.8fe91bc48c15e0d4431d827de34cf380.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.9e5e647423e7c9171f4050014da48fc8.css">
 
 
 <!--[if lt IE 9]>
@@ -930,7 +931,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-60339450"
+            id="select-94710380"
             >
         <option value="-1">All Makes</option>
 
@@ -991,7 +992,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -1005,13 +1005,11 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -1022,7 +1020,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -1049,6 +1046,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -1066,7 +1064,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -1076,6 +1073,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -1115,12 +1113,14 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d1315">C-Max Energi</option> 
 <option  value="d2920">C-Max Hybrid</option> 
 <option  value="d324">Crown Victoria</option> 
+<option  value="d327">E-350</option> 
 <option  value="d1140">E-Series Cargo</option> 
 <option  value="d1139">E-Series Wagon</option> 
 <option  value="d2506">EcoSport</option> 
 <option  value="d923">Edge</option> 
 <option  value="d330">Escape</option> 
 <option  value="d759">Escape Hybrid</option> 
+<option  value="d331">Escort</option> 
 <option  value="d332">Excursion</option> 
 <option  value="d333">Expedition</option> 
 <option  value="d334">Explorer</option> 
@@ -1146,6 +1146,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  selected="selected" value="d845">Fusion</option> 
 <option  value="d2197">Fusion Energi</option> 
 <option  value="d2702">Fusion Hybrid</option> 
+<option  value="d1213">Galaxie</option> 
 <option  value="d350">GT</option> 
 <option  value="d1564">Model A</option> 
 <option  value="d2">Mustang</option> 
@@ -1181,11 +1182,10 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d2748">E-100</option> 
 <option  value="d325">E-150</option> 
 <option  value="d326">E-250</option> 
-<option  value="d327">E-350</option> 
 <option  value="d328">Econoline Cargo</option> 
+<option  value="d2183">Econoline Pickup</option> 
 <option  value="d329">Econoline Wagon</option> 
 <option  value="d743">Elite</option> 
-<option  value="d331">Escort</option> 
 <option  value="d335">Explorer Sport</option> 
 <option  value="d2582">F-1</option> 
 <option  value="d339">F-150 SVT Lightning</option> 
@@ -1195,7 +1195,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d1341">Falcon</option> 
 <option  value="d344">Festiva</option> 
 <option  value="d347">Focus SVT</option> 
-<option  value="d1213">Galaxie</option> 
 <option  value="d1165">Granada</option> 
 <option  value="d1976">GT40</option> 
 <option  value="d1394">LTD</option> 
@@ -1205,7 +1204,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d2350">Model 40</option> 
 <option  value="d2194">Model 48</option> 
 <option  value="d2670">Model 50</option> 
-<option  value="d2780">Model 74/78</option> 
 <option  value="d1393">Model B</option> 
 <option  value="d2049">Model T</option> 
 <option  value="d2948">Mustang II</option> 
@@ -2333,7 +2331,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="true" cg-data-useInventoryService="false" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-quotableOnly="true" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-90465881"
+            id="select-70943276"
             >
         <option value="-1">All Makes</option>
 
@@ -2342,6 +2340,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
       
 <option  value="m4">Acura</option> 
 <option  value="m124">Alfa Romeo</option> 
+<option  value="m110">Aston Martin</option> 
 <option  value="m19">Audi</option> 
 <option  value="m20">Bentley</option> 
 <option  value="m3">BMW</option> 
@@ -2350,7 +2349,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2390,7 +2388,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2425,8 +2422,8 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
     <script>
         (function () {
           var onloadFunction = function () {
-            var firstOptionValue = $("select[id='select-90465881'] option:first").val();
-            $("select[id='select-90465881']").val(firstOptionValue);
+            var firstOptionValue = $("select[id='select-70943276'] option:first").val();
+            $("select[id='select-70943276']").val(firstOptionValue);
           };
           if (document.readyState !== 'loading') {
             onloadFunction();
@@ -2935,7 +2932,7 @@ Chevrolet Malibu
             style="width: 169px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="addModelsToSearchSelectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="false"             cg-name="ign-makerId-addModelsToSearchSelectedEntity"
-            id="select-23672107"
+            id="select-15993634"
             >
         <option value="-1">Select Make</option>
 
@@ -2956,7 +2953,6 @@ Chevrolet Malibu
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -2970,13 +2966,11 @@ Chevrolet Malibu
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  selected="selected" value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -2987,7 +2981,6 @@ Chevrolet Malibu
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -3014,6 +3007,7 @@ Chevrolet Malibu
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -3031,7 +3025,6 @@ Chevrolet Malibu
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -3041,6 +3034,7 @@ Chevrolet Malibu
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -3102,6 +3096,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d1140">E-Series Cargo</option> 
 <option  value="d1139">E-Series Wagon</option> 
 <option  value="d328">Econoline Cargo</option> 
+<option  value="d2183">Econoline Pickup</option> 
 <option  value="d329">Econoline Wagon</option> 
 <option  value="d2506">EcoSport</option> 
 <option  value="d923">Edge</option> 
@@ -3154,7 +3149,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d2350">Model 40</option> 
 <option  value="d2194">Model 48</option> 
 <option  value="d2670">Model 50</option> 
-<option  value="d2780">Model 74/78</option> 
 <option  value="d1564">Model A</option> 
 <option  value="d1393">Model B</option> 
 <option  value="d2049">Model T</option> 
@@ -3196,13 +3190,13 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 </table>
 
 
-<div id="carPicker-6552354">
+<div id="carPicker-92317297">
 <script>
   (function () {
     var onloadFunction = function () {
   if (typeof CG === 'object' && CG !== null && CG.hasOwnProperty('CarPicker')) {
     CG.CarPicker.createInstance(
-      "carPicker-6552354",
+      "carPicker-92317297",
       "addModelsToSearchSelectedEntity",
       "",
       "",
@@ -3230,7 +3224,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
 
 
-<input type="hidden" name="addModelsToSearchSelectedEntity" value="d845" id="carPicker-6552354addModelsToSearchSelectedEntity"/>
+<input type="hidden" name="addModelsToSearchSelectedEntity" value="d845" id="carPicker-92317297addModelsToSearchSelectedEntity"/>
 
 
 
@@ -3258,7 +3252,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
         <div style="padding:10px;">
 <div>
     <div class="filterHeader" style="padding:0 0 5px 0">
-    2012 Ford Fusion SE Review
+    2007 Ford Fusion S Review
     </div>
 
     <div class="smallRating">
@@ -3266,21 +3260,22 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
             <tr>
                 <td><div class="cg-rating-wrap clearfix">
     <div class="ratingValue">
-<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>    </div>
+<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>    </div>
 </div>
 </td>
                 <td>
-                  by pleskach
+                  by Stephanie
                 </td>
             </tr>
         </table>
     </div>
 
     <p class="b">
-        <span class="leftQuote">&ldquo;</span>Solid competition<span class="rightQuote">&rdquo;</span>
+        <span class="leftQuote">&ldquo;</span>get out the way of da fuse!!!<span class="rightQuote">&rdquo;</span>
     </p>
     <p>
-      My first impression when looking at it is a some what aggressive but conservative.  It looks like a big car and it is for a midsize car.  The materials in the interior are nice all around.  I would prefer leather but the cloth seats are good.  They are comfortable seats, i never get fatigued on my commutes and plenty of room for a six foot guy to s...
+      i loved it it was a 1.6 tdci n that thing moved as the focus st found out on way back from loughborough...lmao
+it handled well the fuel eco was fab even though it was a tdci u didnt hear a peep from that engine...it was a sad day when i had to get rid of the fusion!!
     </p>
 </div>
         </div>
@@ -3491,80 +3486,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/09/17/04/2011_ford_fusion-pic-163570662333201258-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/09/17/04/2011_ford_fusion-pic-163570662333201258-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2011 Ford Fusion Sport</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Cohasset, MA 02025</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,033 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $7,128</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="5095">$5,095</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>133,730</span></p>
-
-          <p><strong>Location:</strong> Cohasset, MA 02025</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          18 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Blue
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2011 Ford Fusion Sport for sale
-- $5,095, 133,730 miles          with                 LE Package, 
-                Sport Package, 
-                Leather Seats, 
-                Sunroof/Moonroof, 
-                Alloy Wheels, 
-                Bluetooth, 
-                Premium Package, 
-                Comfort Package
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (18 reviews)
-              "I just spoke with about the car. But they were polite "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/04/22/47/2019_ford_fusion-pic-7874918107109955011-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/04/22/47/2019_ford_fusion-pic-7874918107109955011-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/27/21/06/2019_ford_fusion-pic-8598432047341249506-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/27/21/06/2019_ford_fusion-pic-8598432047341249506-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
@@ -3595,21 +3517,21 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
           Great Deal
         </div>
-  <div class="b greenText">$2,009 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $22,346</span>
+  <div class="b greenText">$2,397 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $22,394</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="20337">$20,337</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="19997">$19,997</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>15,725</span></p>
+            <p><strong>Mileage:</strong> <span>15,730</span></p>
 
           <p><strong>Location:</strong> E Boston, MA 02128</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          13 days
+          14 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>Oxford White
@@ -3617,7 +3539,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2019 Ford Fusion Titanium AWD for sale
-- $20,337, 15,725 miles          with                 Backup Camera, 
+- $19,997, 15,730 miles          with                 Backup Camera, 
                 Sunroof/Moonroof, 
                 Remote Start, 
                 Navigation System, 
@@ -3629,209 +3551,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
           <strong>Avg. Dealer Rating:</strong>
 <i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (35 reviews)
               "Never made the drive in but salesman gave me the most helpful &amp; honest advice of any of the dealerships I’ve contacted. "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/05/09/20/21/2016_ford_fusion-pic-9066185004788899444-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/09/20/21/2016_ford_fusion-pic-9066185004788899444-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Ford Fusion SE</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Walpole, MA 02067</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,292 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,772</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="12480">$12,480</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>36,070</span></p>
-
-          <p><strong>Location:</strong> Walpole, MA 02067</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          41 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Gray
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Ford Fusion SE for sale
-- $12,480, 36,070 miles          with                 Power Package, 
-                Alloy Wheels, 
-                Appearance Package, 
-                Technology Package, 
-                Bluetooth, 
-                Backup Camera, 
-                Climate Package, 
-                Luxury Package
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (58 reviews)
-              "Answered my questions, quick and helpful"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/14/02/29/2012_ford_fusion-pic-2631857976723528687-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/14/02/29/2012_ford_fusion-pic-2631857976723528687-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2012 Ford Fusion SEL</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Middleboro, MA 02346</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,939 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $7,938</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="5999">$5,999</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>97,300</span></p>
-
-          <p><strong>Location:</strong> Middleboro, MA 02346</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          19 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>White
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2012 Ford Fusion SEL for sale
-- $5,999, 97,300 miles          with                 Alloy Wheels
-
-        </span>
-      </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/02/02/52/2018_ford_fusion-pic-1502387998639850238-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/02/02/52/2018_ford_fusion-pic-1502387998639850238-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2018 Ford Fusion SE</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Chelsea, MA 02150</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,387 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $16,386</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="13999">$13,999</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>42,053</span></p>
-
-          <p><strong>Location:</strong> Chelsea, MA 02150</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          53 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Blue Metallic
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2018 Ford Fusion SE for sale
-- $13,999, 42,053 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Aluminum Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (8 reviews)
-              "I called ahead for a car on the lot and was told it was still for sale. I show up, check it out, and get told to come back in a bit when their plates arrive. 
-Then I get a phone call saying sorry someone put a deposit on it yesterday and it’s not for sale. Now it’s a week later and it’s still listed on the website. When I call they say it’s sold. So why is it up a week later? These folks need to get organized. "
         </div>
   </div>
 
@@ -3868,12 +3587,12 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           Great Deal
         </div>
-  <div class="b greenText">$1,841 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $12,840</span>
+  <div class="b greenText">$2,317 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $12,816</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="10999">$10,999</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="10499">$10,499</span><meta itemprop="priceCurrency" content="USD" /></p>
 
             <p><strong>Mileage:</strong> <span>59,000</span></p>
 
@@ -3882,7 +3601,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          30 days
+          29 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
             <strong>Color: </strong>Gray
@@ -3890,7 +3609,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2015 Ford Fusion SE for sale
-- $10,999, 59,000 miles          with                 Bluetooth, 
+- $10,499, 59,000 miles          with                 Bluetooth, 
                 Backup Camera, 
                 Alloy Wheels
 
@@ -3905,14 +3624,14 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/07/19/22/2010_ford_fusion_se-pic-2437683110322295905-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/19/22/2010_ford_fusion_se-pic-2437683110322295905-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/21/09/10/2012_ford_fusion-pic-1589187400500228199-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/21/09/10/2012_ford_fusion-pic-1589187400500228199-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2010 Ford Fusion SE</span>
+            <span itemprop="name">2012 Ford Fusion SEL</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Marblehead,  01945</span>
+          <span>Nashua, NH 03060</span>
 
       </h4>
 
@@ -3936,30 +3655,379 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           Great Deal
         </div>
-  <div class="b greenText">$1,773 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $6,573</span>
+  <div class="b greenText">$2,329 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $7,279</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="4800">$4,800</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="4950">$4,950</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>67,000</span></p>
+            <p><strong>Mileage:</strong> <span>115,667</span></p>
 
-          <p><strong>Location:</strong> Marblehead,  01945</p>
+          <p><strong>Location:</strong> Nashua, NH 03060</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          14 days
+          20 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Manual
-            <strong>Color: </strong>Tan
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>White Platinum Metallic Tri-coat
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2010 Ford Fusion SE for sale
-- $4,800, 67,000 miles        </span>
+          Used 2012 Ford Fusion SEL for sale
+- $4,950, 115,667 miles          with                 Leather Seats, 
+                Sunroof/Moonroof, 
+                Navigation System, 
+                Appearance Package
+
+        </span>
       </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (17 reviews)
+              "Great follow up"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/05/09/20/21/2016_ford_fusion-pic-9066185004788899444-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/09/20/21/2016_ford_fusion-pic-9066185004788899444-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2016 Ford Fusion SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Walpole, MA 02067</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,268 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,748</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="12480">$12,480</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>36,070</span></p>
+
+          <p><strong>Location:</strong> Walpole, MA 02067</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          41 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Gray
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2016 Ford Fusion SE for sale
+- $12,480, 36,070 miles          with                 Power Package, 
+                Alloy Wheels, 
+                Appearance Package, 
+                Technology Package, 
+                Bluetooth, 
+                Backup Camera, 
+                Climate Package, 
+                Luxury Package
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (59 reviews)
+              "Dealer tried to pass off a vehicle with suspiciously low miles as great used condition when it had been in both front and rear accidents.  Car had been repainted and poorly done.  Windshield had been replaced with Chinese clone that even had &#39;genuine Toyota&#39; on label, but optically distorted.  Had clean CarFax, too, which showed that is not to be trusted."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/02/02/52/2018_ford_fusion-pic-1502387998639850238-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/02/02/52/2018_ford_fusion-pic-1502387998639850238-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Ford Fusion SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Chelsea, MA 02150</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,491 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $16,490</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13999">$13,999</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>42,053</span></p>
+
+          <p><strong>Location:</strong> Chelsea, MA 02150</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          51 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Blue Metallic
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Ford Fusion SE for sale
+- $13,999, 42,053 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Aluminum Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (8 reviews)
+              "I called ahead for a car on the lot and was told it was still for sale. I show up, check it out, and get told to come back in a bit when their plates arrive. 
+Then I get a phone call saying sorry someone put a deposit on it yesterday and it’s not for sale. Now it’s a week later and it’s still listed on the website. When I call they say it’s sold. So why is it up a week later? These folks need to get organized. "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/06/29/06/29/2016_ford_fusion-pic-2725429226171047927-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/29/06/29/2016_ford_fusion-pic-2725429226171047927-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2016 Ford Fusion SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Shrewsbury, MA 01545</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,026 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,522</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13496">$13,496</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>21,348</span></p>
+
+          <p><strong>Location:</strong> Shrewsbury, MA 01545</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          41 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Black
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2016 Ford Fusion SE for sale
+- $13,496, 21,348 miles          with                 Backup Camera
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (8 reviews)
+              "I was there recently and it was the worst experience I’ve ever had at a dealership. I spoke with Shirley and some guy she brought over I forget his name but he was absolutely rude and lied about whether or not the papers I was signing was a hard inquiry as well as what I was going to get for an auto loan. I took my business elsewhere and purchased a car already. I have no interest in your dealership nor will I recommend it to anyone."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/14/02/29/2012_ford_fusion-pic-2631857976723528687-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/14/02/29/2012_ford_fusion-pic-2631857976723528687-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2012 Ford Fusion SEL</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Middleboro, MA 02346</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,865 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $7,864</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="5999">$5,999</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>97,300</span></p>
+
+          <p><strong>Location:</strong> Middleboro, MA 02346</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          20 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2012 Ford Fusion SEL for sale
+- $5,999, 97,300 miles          with                 Alloy Wheels
+
+        </span>
+      </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-6403946030560429583-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-6403946030560429583-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2016 Ford Fusion SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Peabody, MA 01960</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,917 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,450</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="12533">$12,533</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>47,397</span></p>
+
+          <p><strong>Location:</strong> Peabody, MA 01960</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          41 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2016 Ford Fusion SE for sale
+- $12,533, 47,397 miles          with                 Bluetooth, 
+                Premium Wheels, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                SE Package
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (54 reviews)
+              "Best part is the price is set so that eliminates haggling. The office is nice and offers free coffee and water. Service is very good during the process. They lost a star on two things. The 2 hour wait for my car when they said it would be ready and the windshield was so dirty it was hard to see when the sun went down. "
+        </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
@@ -3995,14 +4063,14 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           Great Deal
         </div>
-  <div class="b greenText">$1,881 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,171</span>
+  <div class="b greenText">$1,934 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,124</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="12290">$12,290</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="12190">$12,190</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>34,595</span></p>
+            <p><strong>Mileage:</strong> <span>34,962</span></p>
 
           <p><strong>Location:</strong> Stoughton, MA 02072</p>
       </div>
@@ -4012,12 +4080,12 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           41 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Oxford White
+            <strong>Color: </strong>White
 
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2016 Ford Fusion SE for sale
-- $12,290, 34,595 miles          with                 Bluetooth, 
+- $12,190, 34,962 miles          with                 Bluetooth, 
                 Backup Camera, 
                 Aluminum Wheels
 
@@ -4025,8 +4093,9 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (45 reviews)
-              "When I arrived to look at the car after calling them the car had been in a accident it was hit on both sides . We agreed to fix the damage and started doing the paperwork . When I took a look at the paperwork I noticed the price jumped 1000$ because they could no longer give me the price that was listed on car gurus and would have to give me the price that was listed on their web cite because they said they needed more money to fix the repairs. "
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (46 reviews)
+              "Yes was a good on -site expirence with a good customer service.
+Thanks John"
         </div>
   </div>
 
@@ -4063,21 +4132,21 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           Great Deal
         </div>
-  <div class="b greenText">$1,521 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $21,892</span>
+  <div class="b greenText">$1,645 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $21,915</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="20371">$20,371</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="20270">$20,270</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>15,357</span></p>
+            <p><strong>Mileage:</strong> <span>15,390</span></p>
 
           <p><strong>Location:</strong> E Boston, MA 02128</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          13 days
+          14 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>Magnetic Metallic
@@ -4085,7 +4154,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2019 Ford Fusion Titanium AWD for sale
-- $20,371, 15,357 miles          with                 Backup Camera, 
+- $20,270, 15,390 miles          with                 Backup Camera, 
                 Sunroof/Moonroof, 
                 Aluminum Wheels, 
                 Remote Start, 
@@ -4097,6 +4166,71 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <strong>Avg. Dealer Rating:</strong>
 <i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (35 reviews)
               "They were fast to respond. I was hoping the Pacifica could be seen at a closer location near Cleveland. "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2018/10/16/20/08/2019_ford_fusion-pic-621616579269114118-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2018/10/16/20/08/2019_ford_fusion-pic-621616579269114118-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2019 Ford Fusion SEL</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Fall River, MA 02721</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$3,771 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $18,771</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="15000">$15,000</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>18,277</span></p>
+
+          <p><strong>Location:</strong> Fall River, MA 02721</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2019 Ford Fusion SEL for sale
+- $15,000, 18,277 miles          with                 Backup Camera, 
+                Alloy Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="2.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="2.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="2.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="2.8 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="2.8 out of 5 stars" ></i>              (16 reviews)
+              "Called Tuesday and said i was interested in the 2018 ford transit 250. I was told that its available. Filled out a credit application Tuesday evening. No one calls me Wednesday all day so i call again toward end of the day. I tell the guy to email me all the infor so i cam get an insurance quote. I don&#39;t gwt the email. I call back Thursday and ask whats going on. The guy tells me he will send the email again. (First one did not go through). i get the email and call my insurance. Once i had everything figured out i call them back Thursday to let them know i can come Saturday. Im in Rochester ny so iys 350 mile trip for me. They send me a email to confirm my appointment at 3pm Saturday. Here i am all excited about to buy this van for them to call me friday at 7:45 pm to tell me the van sold that afternoon. I lost 300 plus dollars on a one way plane ticket. I can not believe this place does business like this. This is very unprofessional! 
+Never head back from them.."
         </div>
   </div>
 
@@ -4133,12 +4267,12 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           Great Deal
         </div>
-  <div class="b greenText">$1,825 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,624</span>
+  <div class="b greenText">$1,850 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $8,549</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="6799">$6,799</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="6699">$6,699</span><meta itemprop="priceCurrency" content="USD" /></p>
 
             <p><strong>Mileage:</strong> <span>137,229</span></p>
 
@@ -4147,7 +4281,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          25 days
+          26 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>Black
@@ -4155,7 +4289,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2014 Ford Fusion SE for sale
-- $6,799, 137,229 miles          with                 Leather Seats, 
+- $6,699, 137,229 miles          with                 Leather Seats, 
                 Sunroof/Moonroof, 
                 Navigation System, 
                 SE Package, 
@@ -4170,84 +4304,14 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (79 reviews)
-              "They contacted me and offered their assistance. "
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (83 reviews)
+              "Good service"
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-6403946030560429583-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-6403946030560429583-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Ford Fusion SE</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Peabody, MA 01960</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,748 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,484</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="12736">$12,736</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>47,397</span></p>
-
-          <p><strong>Location:</strong> Peabody, MA 01960</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          41 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>White
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Ford Fusion SE for sale
-- $12,736, 47,397 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Premium Wheels, 
-                Sunroof/Moonroof, 
-                SE Package
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (54 reviews)
-              "Best part is the price is set so that eliminates haggling. The office is nice and offers free coffee and water. Service is very good during the process. They lost a star on two things. The 2 hour wait for my car when they said it would be ready and the windshield was so dirty it was hard to see when the sun went down. "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/03/22/05/2017_ford_fusion-pic-8183690244916384999-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/03/22/05/2017_ford_fusion-pic-8183690244916384999-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/27/22/07/2017_ford_fusion-pic-4755966041130599020-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/27/22/07/2017_ford_fusion-pic-4755966041130599020-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
@@ -4276,16 +4340,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
   </div>
 
-          Good Deal
+          Great Deal
         </div>
-  <div class="b greenText">$1,806 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $13,794</span>
+  <div class="b greenText">$1,888 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $13,886</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="11988">$11,988</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11998">$11,998</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>65,751</span></p>
+            <p><strong>Mileage:</strong> <span>53,545</span></p>
 
           <p><strong>Location:</strong> Leominster, MA 01453</p>
       </div>
@@ -4295,12 +4359,12 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           34 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Gray
+            <strong>Color: </strong>Blue
 
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2017 Ford Fusion SE for sale
-- $11,988, 65,751 miles          with                 Bluetooth, 
+- $11,998, 53,545 miles          with                 Bluetooth, 
                 Backup Camera, 
                 Navigation System, 
                 Alloy Wheels
@@ -4311,14 +4375,14 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-2954270886596560466-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/02/46/2016_ford_fusion-pic-2954270886596560466-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/08/08/18/17/2018_ford_fusion-pic-4784788233567414673-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/08/18/17/2018_ford_fusion-pic-4784788233567414673-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2016 Ford Fusion SE</span>
+            <span itemprop="name">2018 Ford Fusion S</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Peabody, MA 01960</span>
+          <span>Stoughton, MA 02072</span>
 
       </h4>
 
@@ -4340,51 +4404,53 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
   </div>
 
-          Good Deal
+          Great Deal
         </div>
-  <div class="b greenText">$1,717 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,250</span>
+  <div class="b greenText">$1,582 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $13,572</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="12533">$12,533</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11990">$11,990</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>33,086</span></p>
+            <p><strong>Mileage:</strong> <span>49,026</span></p>
 
-          <p><strong>Location:</strong> Peabody, MA 01960</p>
+          <p><strong>Location:</strong> Stoughton, MA 02072</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          41 days
+          38 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Blue
+            <strong>Color: </strong>Silver
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2016 Ford Fusion SE for sale
-- $12,533, 33,086 miles          with                 Backup Camera
+          Used 2018 Ford Fusion S for sale
+- $11,990, 49,026 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Aluminum Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (54 reviews)
-              "I bought this vehicle at a fair price and the sales process with Bill was easy and a pleasant experience.  Auto Factory has a winning business model for both the buyer and the seller."
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (46 reviews)
+              "When I arrived to look at the car after calling them the car had been in a accident it was hit on both sides . We agreed to fix the damage and started doing the paperwork . When I took a look at the paperwork I noticed the price jumped 1000$ because they could no longer give me the price that was listed on car gurus and would have to give me the price that was listed on their web cite because they said they needed more money to fix the repairs. "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/04/08/56/2010_ford_fusion-pic-8333718176788959521-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/04/08/56/2010_ford_fusion-pic-8333718176788959521-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/04/12/02/41/2012_ford_fusion-pic-8830958313371981365-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/04/12/02/41/2012_ford_fusion-pic-8830958313371981365-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2010 Ford Fusion SE</span>
+            <span itemprop="name">2012 Ford Fusion SEL</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Salem, NH 03079</span>
+          <span>Haverhill, MA 01835</span>
 
       </h4>
 
@@ -4406,104 +4472,38 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
   </div>
 
-          Good Deal
+          Great Deal
         </div>
-  <div class="b greenText">$1,505 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $5,805</span>
+  <div class="b greenText">$1,673 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $8,023</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="4300">$4,300</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="6350">$6,350</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>130,343</span></p>
+            <p><strong>Mileage:</strong> <span>97,885</span></p>
 
-          <p><strong>Location:</strong> Salem, NH 03079</p>
+          <p><strong>Location:</strong> Haverhill, MA 01835</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          14 days
+          20 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>White Suede
+            <strong>Color: </strong>Silver
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2010 Ford Fusion SE for sale
-- $4,300, 130,343 miles        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (44 reviews)
-              "Good
-"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/06/29/06/29/2016_ford_fusion-pic-2725429226171047927-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/29/06/29/2016_ford_fusion-pic-2725429226171047927-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Ford Fusion SE</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Shrewsbury, MA 01545</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,572 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,548</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="13976">$13,976</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>21,348</span></p>
-
-          <p><strong>Location:</strong> Shrewsbury, MA 01545</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          41 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Ford Fusion SE for sale
-- $13,976, 21,348 miles          with                 Backup Camera
+          Used 2012 Ford Fusion SEL for sale
+- $6,350, 97,885 miles          with                 Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.6 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (7 reviews)
-              "Very prompt with a response and following up 
-"
+<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (9 reviews)
+              "Prompt response and helpful"
         </div>
   </div>
         <div style="font-size:14px;margin-top:10px;padding:5px;cursor:pointer;background-color:#CCCCCC;width:100px;text-align:center;" class="b">
@@ -4660,16 +4660,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2019-Ford-Fusion-c27657" title="2019 Ford Fusion">2019 Ford Fusion</a>
           </td>
 
-          <td data-order="34">
-            34 Great Deals
+          <td data-order="31">
+            31 Great Deals
           </td>
 
-          <td data-order="14047">
-            $14,047
+          <td data-order="14303">
+            $14,303
           </td>
 
-          <td data-order="17843">
-            17,843 listings
+          <td data-order="16285">
+            16,285 listings
           </td>
 
         </tr>
@@ -4680,16 +4680,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2018-Ford-Fusion-c26799" title="2018 Ford Fusion">2018 Ford Fusion</a>
           </td>
 
-          <td data-order="50">
-            50 Great Deals
+          <td data-order="52">
+            52 Great Deals
           </td>
 
-          <td data-order="11206">
-            $11,206
+          <td data-order="10985">
+            $10,985
           </td>
 
-          <td data-order="2409">
-            2,409 listings
+          <td data-order="2510">
+            2,510 listings
           </td>
 
         </tr>
@@ -4700,16 +4700,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2017-Ford-Fusion-c25781" title="2017 Ford Fusion">2017 Ford Fusion</a>
           </td>
 
-          <td data-order="145">
-            145 Great Deals
+          <td data-order="176">
+            176 Great Deals
           </td>
 
           <td data-order="6999">
             $6,999
           </td>
 
-          <td data-order="5842">
-            5,842 listings
+          <td data-order="6153">
+            6,153 listings
           </td>
 
         </tr>
@@ -4720,16 +4720,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2016-Ford-Fusion-c24790" title="2016 Ford Fusion">2016 Ford Fusion</a>
           </td>
 
-          <td data-order="201">
-            201 Great Deals
+          <td data-order="211">
+            211 Great Deals
           </td>
 
           <td data-order="5850">
             $5,850
           </td>
 
-          <td data-order="6074">
-            6,074 listings
+          <td data-order="5993">
+            5,993 listings
           </td>
 
         </tr>
@@ -4740,16 +4740,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2015-Ford-Fusion-c24527" title="2015 Ford Fusion">2015 Ford Fusion</a>
           </td>
 
-          <td data-order="75">
-            75 Great Deals
+          <td data-order="69">
+            69 Great Deals
           </td>
 
-          <td data-order="5581">
-            $5,581
+          <td data-order="5381">
+            $5,381
           </td>
 
-          <td data-order="1890">
-            1,890 listings
+          <td data-order="1941">
+            1,941 listings
           </td>
 
         </tr>
@@ -4760,16 +4760,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2014-Ford-Fusion-c24041" title="2014 Ford Fusion">2014 Ford Fusion</a>
           </td>
 
-          <td data-order="66">
-            66 Great Deals
+          <td data-order="71">
+            71 Great Deals
           </td>
 
           <td data-order="3500">
             $3,500
           </td>
 
-          <td data-order="2161">
-            2,161 listings
+          <td data-order="2206">
+            2,206 listings
           </td>
 
         </tr>
@@ -4780,16 +4780,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2013-Ford-Fusion-c23244" title="2013 Ford Fusion">2013 Ford Fusion</a>
           </td>
 
-          <td data-order="49">
-            49 Great Deals
+          <td data-order="42">
+            42 Great Deals
           </td>
 
-          <td data-order="4600">
-            $4,600
+          <td data-order="4733">
+            $4,733
           </td>
 
-          <td data-order="1479">
-            1,479 listings
+          <td data-order="1527">
+            1,527 listings
           </td>
 
         </tr>
@@ -4800,16 +4800,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2012-Ford-Fusion-c22897" title="2012 Ford Fusion">2012 Ford Fusion</a>
           </td>
 
-          <td data-order="66">
-            66 Great Deals
+          <td data-order="57">
+            57 Great Deals
           </td>
 
-          <td data-order="2603">
-            $2,603
+          <td data-order="2500">
+            $2,500
           </td>
 
-          <td data-order="1576">
-            1,576 listings
+          <td data-order="1554">
+            1,554 listings
           </td>
 
         </tr>
@@ -4820,16 +4820,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2011-Ford-Fusion-c22345" title="2011 Ford Fusion">2011 Ford Fusion</a>
           </td>
 
-          <td data-order="28">
-            28 Great Deals
+          <td data-order="32">
+            32 Great Deals
           </td>
 
           <td data-order="1500">
             $1,500
           </td>
 
-          <td data-order="896">
-            896 listings
+          <td data-order="939">
+            939 listings
           </td>
 
         </tr>
@@ -4840,16 +4840,16 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
             <a href="/Cars/l-Used-2010-Ford-Fusion-c21578" title="2010 Ford Fusion">2010 Ford Fusion</a>
           </td>
 
-          <td data-order="27">
-            27 Great Deals
+          <td data-order="21">
+            21 Great Deals
           </td>
 
-          <td data-order="900">
-            $900
+          <td data-order="700">
+            $700
           </td>
 
-          <td data-order="954">
-            954 listings
+          <td data-order="968">
+            968 listings
           </td>
 
         </tr>
@@ -4877,7 +4877,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
               <div>
 
 
-      863 Great Deals out of 68,172 listings starting at <span class="nowrap">$999</span>
+      917 Great Deals out of 67,533 listings starting at <span class="nowrap">$799</span>
 
               </div>
             </td>
@@ -4894,7 +4894,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
               <div>
 
 
-      994 Great Deals out of 70,872 listings starting at <span class="nowrap">$699</span>
+      1,060 Great Deals out of 71,665 listings starting at <span class="nowrap">$1,000</span>
 
               </div>
             </td>
@@ -4911,7 +4911,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
               <div>
 
 
-      754 Great Deals out of 42,429 listings starting at <span class="nowrap">$1,400</span>
+      779 Great Deals out of 41,525 listings starting at <span class="nowrap">$995</span>
 
               </div>
             </td>
@@ -4938,42 +4938,42 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2019-Ford-Fusion-c27657">2019 Ford Fusion</a>
-        <div>18 listings starting at $14,047</div>
+        <div>28 listings starting at $14,303</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2018-Ford-Fusion-c26799">2018 Ford Fusion</a>
-        <div>150 listings starting at $11,206</div>
+        <div>174 listings starting at $10,985</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2017-Ford-Fusion-c25781">2017 Ford Fusion</a>
-        <div>710 listings starting at $6,999</div>
+        <div>785 listings starting at $6,999</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2016-Ford-Fusion-c24790">2016 Ford Fusion</a>
-        <div>438 listings starting at $5,850</div>
+        <div>415 listings starting at $5,850</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2015-Ford-Fusion-c24527">2015 Ford Fusion</a>
-        <div>39 listings starting at $5,581</div>
+        <div>44 listings starting at $5,381</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2014-Ford-Fusion-c24041">2014 Ford Fusion</a>
-        <div>30 listings starting at $3,500</div>
+        <div>35 listings starting at $3,500</div>
       </td>
 
       </tr><tr valign="top">
@@ -4997,7 +4997,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <td style="width:33.333333333333%">
               <a href="/Cars/new/nl-New-Ford-Fusion-d845" title="2020 Ford Fusion">2020 Ford Fusion</a>
               <div>
-                    6,963 listings
+                    10,466 listings
               </div>
           </td>
           
@@ -5007,7 +5007,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <td >
               <a href="/Cars/new/nl-New-Ford-Fusion-d845" title="2019 Ford Fusion">2019 Ford Fusion</a>
               <div>
-                    17,843 listings
+                    16,285 listings
               </div>
           </td>
           
@@ -5037,7 +5037,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      12 Great Deals out of 539 listings starting at <span class="nowrap">$2,495</span>
+      18 Great Deals out of 547 listings starting at <span class="nowrap">$2,000</span>
 
           </div>
         </td>
@@ -5052,7 +5052,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      10 Great Deals out of 384 listings starting at <span class="nowrap">$2,495</span>
+      11 Great Deals out of 393 listings starting at <span class="nowrap">$2,000</span>
 
           </div>
         </td>
@@ -5067,7 +5067,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      8 Great Deals out of 443 listings starting at <span class="nowrap">$2,495</span>
+      11 Great Deals out of 456 listings starting at <span class="nowrap">$2,000</span>
 
           </div>
         </td>
@@ -5082,7 +5082,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      11 Great Deals out of 476 listings starting at <span class="nowrap">$3,199</span>
+      15 Great Deals out of 480 listings starting at <span class="nowrap">$1,950</span>
 
           </div>
         </td>
@@ -5097,7 +5097,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      11 Great Deals out of 561 listings starting at <span class="nowrap">$2,149</span>
+      13 Great Deals out of 581 listings starting at <span class="nowrap">$1,950</span>
 
           </div>
         </td>
@@ -5112,7 +5112,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      5 Great Deals out of 300 listings starting at <span class="nowrap">$2,495</span>
+      8 Great Deals out of 309 listings starting at <span class="nowrap">$2,000</span>
 
           </div>
         </td>
@@ -5127,7 +5127,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      9 Great Deals out of 330 listings starting at <span class="nowrap">$2,778</span>
+      11 Great Deals out of 335 listings starting at <span class="nowrap">$2,778</span>
 
           </div>
         </td>
@@ -5142,7 +5142,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      15 Great Deals out of 715 listings starting at <span class="nowrap">$2,495</span>
+      21 Great Deals out of 734 listings starting at <span class="nowrap">$1,950</span>
 
           </div>
         </td>
@@ -5157,7 +5157,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
           <div>
 
 
-      8 Great Deals out of 218 listings starting at <span class="nowrap">$2,149</span>
+      8 Great Deals out of 238 listings starting at <span class="nowrap">$1,950</span>
 
           </div>
         </td>
@@ -5185,7 +5185,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
                         <a href="/Cars/lp/search-Ford-Fusion-automatic-sc1_d845" title="Used Ford Fusion With Automatic Transmission">Used Ford Fusion With Automatic Transmission</a>
                         <div>
 
-      760 Great Deals out of 23,649 listings starting at <span class="nowrap">$500</span>
+      751 Great Deals out of 24,022 listings starting at <span class="nowrap">$100</span>
 
 </div>
                     </td>
@@ -5201,7 +5201,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
                         <a href="/Cars/lp/search-Ford-Fusion-manual-sc2_d845" title="Used Ford Fusion With Manual Transmission">Used Ford Fusion With Manual Transmission</a>
                         <div>
 
-      7 Great Deals out of 153 listings starting at <span class="nowrap">$1,750</span>
+      8 Great Deals out of 151 listings starting at <span class="nowrap">$1,700</span>
 
 </div>
                     </td>
@@ -5238,17 +5238,17 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
         <div class="footer--social_bar-mobile hasBbbBadge">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5320,17 +5320,17 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
                 <div class="footer--social_bar-desktop">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5344,13 +5344,12 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
           <div class="row">
   <div class="locale-picker">
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="English" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <i class="fas fa-globe-americas"></i>
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="languagePicker" title="English" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
       English
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="languagePicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5365,13 +5364,13 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       </div>
     </div>
   </div>
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="United States" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="countryPicker" title="United States" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
         <i class="flag-icon flag-icon-us"></i>
       United States
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="countryPicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5437,10 +5436,10 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
   <div id="devInfo" class="hidden" style="display: none;"
        data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
        data-sentry-integrated="true"
-       data-server-host-name="prod-bos2-www-10.dc.c-gurus.com"
+       data-server-host-name="prod-bos2-www-20.dc.c-gurus.com"
        data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
        data-action-method="viewDetailsFilterView"
-       data-build-id="site-cars-25095"
+       data-build-id="site-cars-25300"
        data-template="/inventorylisting/viewDetailsFilterView.ftl"
        data-view-version="_DEFAULT_"
        data-production="true">
@@ -5456,38 +5455,42 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
 
 
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js')" nomodule
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js')" nomodule
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js')" 
 ></script>
 
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js')" 
 ></script>
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js')" 
 ></script>
 
 
 
-      <script src="https://static.cargurus.com/bundles/js/ads.entry_3e269c6214c73e8450b1a8ed06b532d7.js" type="text/javascript" async="async"></script>
+      <script src="https://static.cargurus.com/bundles/js/ads.entry_2858a41b2eb82011ed90ff28c190a8b7.js" type="text/javascript" async="async"></script>
 
 
       
@@ -5498,7 +5501,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
       cgDataLayer.baseData['CGLocale']="ENGLISH";
       cgDataLayer.baseData['Locale']='en_US';
       cgDataLayer.baseData['Country']='UNITED_STATES';
-    cgDataLayer.baseData['UUID']="gfKw-50.245.49.123.1568840440093";
+    cgDataLayer.baseData['UUID']="M1sc-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569904911043";
       cgDataLayer.baseData['EnType']='MODEL';
         cgDataLayer.baseData['Make'] = "Ford";
         cgDataLayer.baseData['Model'] = "Fusion";
@@ -5731,7 +5734,7 @@ Then I get a phone call saying sorry someone put a deposit on it yesterday and i
     var priceDropFilter = new CG.Inventory.Filters.PriceDropFilter(false);
     listingsSearchManager.registerFilter(priceDropFilter);
 
-      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568840440170);
+      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1569904911131);
       listingsSearchManager.registerFilter(sinceLastVisitFilter);
 
       var accidentsFilter = new CG.Inventory.Filters.AccidentsFilter(hideAccidents);
@@ -6592,24 +6595,30 @@ saveSearchAndSubscription_overview(email, useSavedSearch);
       </script>
 
       <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            var seoReadMore = document.querySelector('.seo-read-more');
-            var readMoreButton = document.querySelector('.btn-read-more');
+        function handleSeoReadMoreLink() {
+          var seoReadMore = document.querySelector('.seo-read-more');
+          var readMoreButton = document.querySelector('.btn-read-more');
 
-            if (readMoreButton) {
-              readMoreButton.onclick = function(e) {
-                e.preventDefault();
+          if (readMoreButton) {
+            readMoreButton.onclick = function(e) {
+              e.preventDefault();
 
-                if (seoReadMore.classList.contains('expanded')) {
-                  seoReadMore.classList.remove('expanded');
-                  readMoreButton.innerHTML = 'Read More';
-                } else {
-                  seoReadMore.classList.add('expanded');
-                  readMoreButton.innerHTML = 'Read Less';
-                }
+              if (seoReadMore.classList.contains('expanded')) {
+                seoReadMore.classList.remove('expanded');
+                readMoreButton.innerHTML = 'Read More';
+              } else {
+                seoReadMore.classList.add('expanded');
+                readMoreButton.innerHTML = 'Read Less';
               }
             }
-        });
+          }
+        }
+
+        if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) {
+          handleSeoReadMoreLink();
+        } else {
+          document.addEventListener('DOMContentLoaded', handleSeoReadMoreLink);
+        }
             </script>
 
       <script>

@@ -20,12 +20,12 @@
           ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"fe3008aef1",applicationID:"279386539",sa:1}
 
           if (typeof newrelic === 'object') {
-            newrelic.setCustomAttribute('release', "site-cars-25095");
+            newrelic.setCustomAttribute('release', "site-cars-25300");
             newrelic.setCustomAttribute('viewversion', "_DEFAULT_");
-            newrelic.setCustomAttribute('hostname', "prod-bos2-www-29.dc.c-gurus.com");
+            newrelic.setCustomAttribute('hostname', "prod-bos2-www-20.dc.c-gurus.com");
             newrelic.setCustomAttribute('template', "/inventorylisting/viewDetailsFilterView.ftl");
             newrelic.setCustomAttribute('deploymentloc', "bos2");
-            newrelic.setCustomAttribute('uuid', "6NCH-50.245.49.123.1568840650575");
+            newrelic.setCustomAttribute('uuid', "6LXf-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569905220425");
           }
         </script>
 <script type="text/javascript">
@@ -73,8 +73,8 @@
     }
     </script>
 
-    <title>Used Nissan Altima For Sale - CarGurus</title>
-    <meta name="description" content="Save $4,565 on a used Nissan Altima near you. Search over 64,000 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
+    <title>Used Nissan Altima for Sale (with Photos) - CarGurus</title>
+    <meta name="description" content="Save $4,669 on a used Nissan Altima near you. Search over 65,500 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
         <meta name="keywords" content="Nissan Altima,Nissan,Altima">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -98,21 +98,21 @@
         data-logged-in="false"
         data-mobile-app="false"
         data-production="true"
-        data-seo-experiments='{"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"OPERATION_WELP_GETS_INDEXED":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"OPERATION_RECURRING_CONDTION":-1,"SEO_BATCH_2":-1}' 
+        data-seo-experiments='{"OPERATION_RECURRING_CONDITION":-1,"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_BATCH_3_TITLES":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"SEO_BATCH_3_TITLES_MOBILE":-1,"SEO_BATCH_2":-1}' 
         data-service-name="Cars"
-        data-uuid="6NCH-50.245.49.123.1568840650575"
+        data-uuid="6LXf-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569905220425"
         data-view-versions="[&quot;_DEFAULT_&quot;]"
     >
 
     <meta name="devInfo"
         data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
         data-action-method="viewDetailsFilterView"
-        data-build-id="site-cars-25095"
+        data-build-id="site-cars-25300"
         data-deploymentloc="bos2"
         data-production="true"
             data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
         data-sentry-integrated="true"
-        data-server-host-name="prod-bos2-www-29.dc.c-gurus.com"
+        data-server-host-name="prod-bos2-www-20.dc.c-gurus.com"
         data-template="/inventorylisting/viewDetailsFilterView.ftl"
         data-view-version="_DEFAULT_"
     >
@@ -128,16 +128,17 @@
   
 
   
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.df695d5c8b485c6259a2c6cd78aebb66.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.db4b2289d549c1bec72f6847d705676f.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.12ca5009f4d29e44e59e6a33767791aa.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.246ba8905bc7200000159c9ccee0fd3c.css">
 
   <link rel='stylesheet' href="https://static.cargurus.com/css/site/core/cg-highres.css?v=-430879965_157" media="only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" />
 
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.4d9acd279f806550ffba055b8f5c9830.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.e55c971ddba55ff409a1e0d6dc62f656.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/contact_a_dealer.entry.fbe06a93da0ed276d6520bf1cbd37197.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_financing_prequal.entry.bfb16965ce36c8cdf375b95984df0288.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.65a526010bea826c8908e453a70e8185.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.d637b5afd5202e7a445fa88a8a676c76.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.8fe91bc48c15e0d4431d827de34cf380.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.9e5e647423e7c9171f4050014da48fc8.css">
 
 
 <!--[if lt IE 9]>
@@ -943,7 +944,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-35803673"
+            id="select-32496310"
             >
         <option value="-1">All Makes</option>
 
@@ -1004,7 +1005,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -1018,13 +1018,11 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -1035,7 +1033,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -1062,6 +1059,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -1079,7 +1077,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -1089,6 +1086,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -1159,10 +1157,9 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d234">240SX</option> 
 <option  value="d1216">280ZX</option> 
 <option  value="d2927">Altima Hybrid</option> 
-<option  value="d2097">Cedric</option> 
-<option  value="d2674">Figaro</option> 
 <option  value="d2151">Murano CrossCabriolet</option> 
 <option  value="d2926">Murano Hybrid</option> 
+<option  value="d244">NX</option> 
 <option  value="d2254">Pathfinder Hybrid</option> 
 <option  value="d1222">Patrol</option> 
 <option  value="d246">Pickup</option> 
@@ -1213,7 +1210,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="c3040">1997</option> 
 <option  value="c3050">1996</option> 
 <option  value="c3060">1995</option> 
-<option  value="c3069">1994</option> 
 <option  value="c3078">1993</option> 
   </select>
             </td>
@@ -1256,7 +1252,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option   value="c3040">1997</option> 
 <option   value="c3050">1996</option> 
 <option   value="c3060">1995</option> 
-<option   value="c3069">1994</option> 
 <option   value="c3078">1993</option> 
     </select>
             </td>
@@ -2307,7 +2302,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="true" cg-data-useInventoryService="false" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-quotableOnly="true" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-37602099"
+            id="select-71052877"
             >
         <option value="-1">All Makes</option>
 
@@ -2316,6 +2311,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
       
 <option  value="m4">Acura</option> 
 <option  value="m124">Alfa Romeo</option> 
+<option  value="m110">Aston Martin</option> 
 <option  value="m19">Audi</option> 
 <option  value="m20">Bentley</option> 
 <option  value="m3">BMW</option> 
@@ -2324,7 +2320,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2364,7 +2359,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2399,8 +2393,8 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
     <script>
         (function () {
           var onloadFunction = function () {
-            var firstOptionValue = $("select[id='select-37602099'] option:first").val();
-            $("select[id='select-37602099']").val(firstOptionValue);
+            var firstOptionValue = $("select[id='select-71052877'] option:first").val();
+            $("select[id='select-71052877']").val(firstOptionValue);
           };
           if (document.readyState !== 'loading') {
             onloadFunction();
@@ -2909,7 +2903,7 @@ Toyota Camry
             style="width: 169px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="addModelsToSearchSelectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="false"             cg-name="ign-makerId-addModelsToSearchSelectedEntity"
-            id="select-70052235"
+            id="select-76106707"
             >
         <option value="-1">Select Make</option>
 
@@ -2930,7 +2924,6 @@ Toyota Camry
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -2944,13 +2937,11 @@ Toyota Camry
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -2961,7 +2952,6 @@ Toyota Camry
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -2988,6 +2978,7 @@ Toyota Camry
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -3005,7 +2996,6 @@ Toyota Camry
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -3015,6 +3005,7 @@ Toyota Camry
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -3062,9 +3053,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d1038">Altima Coupe</option> 
 <option  value="d2927">Altima Hybrid</option> 
 <option  value="d238">Armada</option> 
-<option  value="d2097">Cedric</option> 
 <option  value="d1764">Cube</option> 
-<option  value="d2674">Figaro</option> 
 <option  value="d240">Frontier</option> 
 <option  value="d1103">GT-R</option> 
 <option  value="d2072">Juke</option> 
@@ -3077,6 +3066,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d2188">NV Cargo</option> 
 <option  value="d2189">NV Passenger</option> 
 <option  value="d2200">NV200</option> 
+<option  value="d244">NX</option> 
 <option  value="d245">Pathfinder</option> 
 <option  value="d2254">Pathfinder Hybrid</option> 
 <option  value="d1222">Patrol</option> 
@@ -3105,13 +3095,13 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 </table>
 
 
-<div id="carPicker-85232900">
+<div id="carPicker-75898664">
 <script>
   (function () {
     var onloadFunction = function () {
   if (typeof CG === 'object' && CG !== null && CG.hasOwnProperty('CarPicker')) {
     CG.CarPicker.createInstance(
-      "carPicker-85232900",
+      "carPicker-75898664",
       "addModelsToSearchSelectedEntity",
       "",
       "",
@@ -3139,7 +3129,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
 
 
-<input type="hidden" name="addModelsToSearchSelectedEntity" value="d237" id="carPicker-85232900addModelsToSearchSelectedEntity"/>
+<input type="hidden" name="addModelsToSearchSelectedEntity" value="d237" id="carPicker-75898664addModelsToSearchSelectedEntity"/>
 
 
 
@@ -3167,7 +3157,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
         <div style="padding:10px;">
 <div>
     <div class="filterHeader" style="padding:0 0 5px 0">
-    2000 Nissan Altima Review
+    2003 Nissan Altima 3.5 SE Review
     </div>
 
     <div class="smallRating">
@@ -3175,26 +3165,21 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
             <tr>
                 <td><div class="cg-rating-wrap clearfix">
     <div class="ratingValue">
-<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>    </div>
+<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>    </div>
 </div>
 </td>
                 <td>
-                  by Ian
+                  by Jeff
                 </td>
             </tr>
         </table>
     </div>
 
     <p class="b">
-        <span class="leftQuote">&ldquo;</span>good fun car for the money<span class="rightQuote">&rdquo;</span>
+        <span class="leftQuote">&ldquo;</span>Economical, Reliable, & Fun Family Sedan<span class="rightQuote">&rdquo;</span>
     </p>
     <p>
-      performance? Laughable compared to most other vehicles but i like the steering 
-and brake feel. feels very light.
-
-build quality? good enough. its got some odd squeaks and rattles but i think 
-most of it is because it just over 200,000 miles on it and has been wrecked 
-several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped ...
+      I feel like I'm in an actual sports car rather than a lower-end four-speed 245hp 3.5L V6 car (Aside from the torque-steer). 0-60 time is around 5.5 seconds, quarter of a mile time is around 14.2. Really quick. I have had no major problems and I am very satisfied in my Nissan Altima. I have a heavy foot but still have no major problems though this i...
     </p>
 </div>
         </div>
@@ -3405,14 +3390,14 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/05/02/58/2013_nissan_altima-pic-4496969311417382146-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/05/02/58/2013_nissan_altima-pic-4496969311417382146-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/09/00/11/2015_nissan_altima-pic-8454085128634083090-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/09/00/11/2015_nissan_altima-pic-8454085128634083090-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2013 Nissan Altima 2.5 SL</span>
+            <span itemprop="name">2015 Nissan Altima 2.5 S</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Marlborough, MA 01752</span>
+          <span>Norwood, MA 02062</span>
 
       </h4>
 
@@ -3436,36 +3421,39 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$2,302 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,297</span>
+  <div class="b greenText">$2,938 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $11,438</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="6995">$6,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="8500">$8,500</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>103,000</span></p>
+            <p><strong>Mileage:</strong> <span>77,121</span></p>
 
-          <p><strong>Location:</strong> Marlborough, MA 01752</p>
+          <p><strong>Location:</strong> Norwood, MA 02062</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          17 days
+          28 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Gray
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Storm Blue
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2013 Nissan Altima 2.5 SL for sale
-- $6,995, 103,000 miles          with                 Alloy Wheels
+          Used 2015 Nissan Altima 2.5 S for sale
+- $8,500, 77,121 miles          with                 Steel Wheels, 
+                Bluetooth, 
+                Backup Camera, 
+                Audio Package
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (33 reviews)
-              "Excellent experience and they have good office to work !! "
+<i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.6 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.6 out of 5 stars" ></i>              (39 reviews)
+              "They sold this car the night before I was going to look at it I had a appointment to look at it they could have called me and told me they sold it before making me drive all the way up there to find out"
         </div>
   </div>
 
@@ -3502,8 +3490,8 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$2,409 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,353</span>
+  <div class="b greenText">$2,383 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,327</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3539,212 +3527,7 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/10/09/59/2016_nissan_altima-pic-8389975596699401916-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/10/09/59/2016_nissan_altima-pic-8389975596699401916-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Nissan Altima 2.5 SL</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Brockton, MA 02301</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$2,275 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,225</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="12950">$12,950</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>56,998</span></p>
-
-          <p><strong>Location:</strong> Brockton, MA 02301</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          34 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Super Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Nissan Altima 2.5 SL for sale
-- $12,950, 56,998 miles          with                 Bluetooth, 
-                Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof, 
-                Aluminum Wheels, 
-                Remote Start
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (28 reviews)
-              "Followed up.  Vehicle sold before I got a chance to get there.  My fault not theirs. "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/05/13/12/04/2015_nissan_altima-pic-8022282478797151785-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/13/12/04/2015_nissan_altima-pic-8022282478797151785-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2015 Nissan Altima 2.5 SV</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Holliston, MA 01746</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,995 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $13,492</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="11497">$11,497</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>48,076</span></p>
-
-          <p><strong>Location:</strong> Holliston, MA 01746</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          32 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Super Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2015 Nissan Altima 2.5 SV for sale
-- $11,497, 48,076 miles          with                 Bluetooth, 
-                Sunroof/Moonroof, 
-                Remote Start
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i>              (14 reviews)
-              "Didnt buy this car but bought another one from this place and it was very quick and easy"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/11/20/45/2007_nissan_altima-pic-4814215264581064260-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/11/20/45/2007_nissan_altima-pic-4814215264581064260-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2007 Nissan Altima 2.5 S</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Nashua, NH 03063</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,901 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $4,389</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="2488">$2,488</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>147,135</span></p>
-
-          <p><strong>Location:</strong> Nashua, NH 03063</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          10 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2007 Nissan Altima 2.5 S for sale
-- $2,488, 147,135 miles          with                 Steel Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (21 reviews)
-              "Got an email from them confirming my appointment at 11am the same day. Took an hour and a half out of my day to go to the dealership just to find the car had already been sold and taken away on a trailer. Would have been nice for them to notify me before wasting my time. "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/20/01/55/2011_gmc_sierra_1500-pic-7474300697434008464-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/20/01/55/2011_gmc_sierra_1500-pic-7474300697434008464-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/27/17/57/2013_nissan_altima-pic-6647348582533129643-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/27/17/57/2013_nissan_altima-pic-6647348582533129643-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
@@ -3775,8 +3558,8 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$2,019 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,609</span>
+  <div class="b greenText">$2,001 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,591</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3789,7 +3572,7 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          16 days
+          17 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Continuously Variable Transmission
             <strong>Color: </strong>Brown
@@ -3805,21 +3588,21 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="2.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="2.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="2.3 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="2.3 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="2.3 out of 5 stars" ></i>              (3 reviews)
-              "Well, tried to buy once before because of it being on Craigslist 4sale at $8,400, still have the add and pictures, tried to buy here and didn&#39;t listen to me, ask me where I needed to be on price, so I shot them a price, I heard back like it was the 1st email back. This company is crooked and its been in a accident, left rear quarter was a big dent in it, they might of repaired it but listed no accidents, so they are LIAR&#39;S, I also took it fot a test drive that took 3 plus hours of waiting but Tony isn&#39;t a car salesman but was trying to sell me the SUV I had appt at another place and lost out on other vehicle for less with less miles. If your not careful, they will sell you your own clothes to you. My son which wanted the SUV had to ride in the back seat and I wasn&#39;t allowed to have it checked out by my own mechanic. He said his mechanic is better than mine. Needs 4 wheel alignment &amp; 2 front tires, smoked in, WON&#39;T BUY FROM DEALER IF FREE PERIOD, THAT MEANS I PAY TAXES, NO WAY AT ALL."
+<i class="fas fa-star cg-star" title="3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="3 out of 5 stars" ></i>              (4 reviews)
+              "Great people "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/09/02/24/2013_nissan_altima-pic-12238632587407596-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/09/02/24/2013_nissan_altima-pic-12238632587407596-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/23/19/46/2015_nissan_altima-pic-6256724480030687420-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/23/19/46/2015_nissan_altima-pic-6256724480030687420-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2013 Nissan Altima 2.5 SL</span>
+            <span itemprop="name">2015 Nissan Altima 2.5 S</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Marlborough, MA 01752</span>
+          <span>North Attleboro, MA 02760</span>
 
       </h4>
 
@@ -3843,49 +3626,56 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$1,898 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,093</span>
+  <div class="b greenText">$1,879 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $11,679</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="6195">$6,195</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="9800">$9,800</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>112,000</span></p>
+            <p><strong>Mileage:</strong> <span>72,206</span></p>
 
-          <p><strong>Location:</strong> Marlborough, MA 01752</p>
+          <p><strong>Location:</strong> North Attleboro, MA 02760</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          17 days
+          28 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Gray
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Red
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2013 Nissan Altima 2.5 SL for sale
-- $6,195, 112,000 miles          with                 Alloy Wheels
+          Used 2015 Nissan Altima 2.5 S for sale
+- $9,800, 72,206 miles          with                 Sport Package, 
+                Value Package, 
+                Power Package, 
+                Audio Package, 
+                Steel Wheels, 
+                Bluetooth, 
+                Backup Camera, 
+                Special Edition Package
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (33 reviews)
-              "it was great, very quick process.Hopefully the car turns out great long term! high hopes"
+<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (21 reviews)
+              "Great place. Cesar is great. Good prices. Great overall customer service."
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/24/13/21/2013_nissan_altima-pic-5022621371894960729-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/24/13/21/2013_nissan_altima-pic-5022621371894960729-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/26/21/28/2015_nissan_altima-pic-1314816069282893070-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/26/21/28/2015_nissan_altima-pic-1314816069282893070-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2013 Nissan Altima 2.5 SL</span>
+            <span itemprop="name">2015 Nissan Altima 2.5 S</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Stoneham, MA 02180</span>
+          <span>East Providence, RI 02914</span>
 
       </h4>
 
@@ -3909,39 +3699,37 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$1,783 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $12,252</span>
+  <div class="b greenText">$1,863 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $10,351</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="10469">$10,469</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="8488">$8,488</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>53,053</span></p>
+            <p><strong>Mileage:</strong> <span>88,343</span></p>
 
-          <p><strong>Location:</strong> Stoneham, MA 02180</p>
+          <p><strong>Location:</strong> East Providence, RI 02914</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          17 days
+          28 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Cayenne Red
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2013 Nissan Altima 2.5 SL for sale
-- $10,469, 53,053 miles          with                 Leather Seats, 
-                Sunroof/Moonroof, 
-                Power Package, 
-                Navigation System, 
-                Technology Package, 
-                Bluetooth, 
-                Backup Camera, 
-                Remote Start, 
-                Aluminum Wheels
+          Used 2015 Nissan Altima 2.5 S for sale
+- $8,488, 88,343 miles          with                 Bluetooth
 
         </span>
       </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>              (10 reviews)
+              "They were very helpful. I did buy the truck thanks for helping"
+        </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
@@ -3977,8 +3765,8 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$1,792 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $4,592</span>
+  <div class="b greenText">$1,760 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $4,560</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3991,7 +3779,7 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          14 days
+          13 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Continuously Variable Transmission
             <strong>Color: </strong>Ocean Gray Metallic
@@ -4003,7 +3791,7 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (44 reviews)
+<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (43 reviews)
               "Good
 "
         </div>
@@ -4011,14 +3799,14 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/06/07/19/00/2016_nissan_altima-pic-5825797675028282103-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/07/19/00/2016_nissan_altima-pic-5825797675028282103-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/26/18/01/2012_nissan_altima-pic-9123359287608622616-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/26/18/01/2012_nissan_altima-pic-9123359287608622616-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2016 Nissan Altima 2.5 SV</span>
+            <span itemprop="name">2012 Nissan Altima 2.5 S</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>East Providence, RI 02914</span>
+          <span>Swansea, MA 02777</span>
 
       </h4>
 
@@ -4042,41 +3830,432 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Great Deal
         </div>
-  <div class="b greenText">$1,950 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,938</span>
+  <div class="b greenText">$1,892 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $6,642</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="13988">$13,988</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="4750">$4,750</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>25,446</span></p>
+            <p><strong>Mileage:</strong> <span>106,254</span></p>
 
-          <p><strong>Location:</strong> East Providence, RI 02914</p>
+          <p><strong>Location:</strong> Swansea, MA 02777</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          17 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2012 Nissan Altima 2.5 S for sale
+- $4,750, 106,254 miles        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (15 reviews)
+              "They treated us fairly and they were honest with us."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2018/10/16/20/08/2019_nissan_altima-pic-7094887085777779199-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2018/10/16/20/08/2019_nissan_altima-pic-7094887085777779199-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2019 Nissan Altima 2.5 SL FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Swansea, MA 02777</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,560 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $22,560</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="20000">$20,000</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>5,426</span></p>
+
+          <p><strong>Location:</strong> Swansea, MA 02777</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
           32 days
-            <strong>Certified Pre-Owned:</strong> Yes
+            <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Cayenne Red
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2016 Nissan Altima 2.5 SV for sale
-- $13,988, 25,446 miles          with                 Bluetooth, 
-                Backup Camera, 
+          Used 2019 Nissan Altima 2.5 SL FWD for sale
+- $20,000, 5,426 miles          with                 Navigation System, 
                 Sunroof/Moonroof, 
-                Remote Start, 
-                Alloy Wheels, 
-                Convenience Package
+                Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (41 reviews)
-              " Price was accurate. Very friendly. A bit pushy. Tried to keep us there. Overall good."
+<i class="fas fa-star cg-star" title="1.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="1.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="1.5 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="1.5 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="1.5 out of 5 stars" ></i>              (4 reviews)
+              "In 25 years of car shopping this was by far the worse experience. Don’t be fooled by their pricing!!! They advertise one price and although I called to verify and they confirmed once I arrived at the dealership they gave me a price that far exceeded the advertised price. They try to get you to give personal information like social sec# without working out a deal first. Quote you inflated monthly payments without telling you interest rates or terms for you to agree. Wastes a whole day there for them to try to rob me. Horrible horrible experience! Don’t waste your time!!!"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/22/09/36/2016_nissan_altima-pic-6297428667180405974-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/22/09/36/2016_nissan_altima-pic-6297428667180405974-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2016 Nissan Altima 2.5 SR</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>East Greenwich, RI 02818</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,818 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,740</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13922">$13,922</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>19,374</span></p>
+
+          <p><strong>Location:</strong> East Greenwich, RI 02818</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          30 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Gun Metallic
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2016 Nissan Altima 2.5 SR for sale
+- $13,922, 19,374 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Aluminum Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (18 reviews)
+              "Easy to deal with, great people"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/06/15/20/56/2017_nissan_altima-pic-3043230417476447189-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/15/20/56/2017_nissan_altima-pic-3043230417476447189-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2017 Nissan Altima 2.5 S</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Attleboro, MA 02703</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,873 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $13,373</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="11500">$11,500</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>48,428</span></p>
+
+          <p><strong>Location:</strong> Attleboro, MA 02703</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          30 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>Gun Metallic
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2017 Nissan Altima 2.5 S for sale
+- $11,500, 48,428 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Remote Start
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (31 reviews)
+              "Did not check out car - too far a drive. They were responsive on inquiries."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/31/00/13/2018_nissan_altima-pic-499762656871352940-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/31/00/13/2018_nissan_altima-pic-499762656871352940-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Nissan Altima 2.5 SV</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>North Attleboro, MA 02760</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$2,095 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,583</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13488">$13,488</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>42,247</span></p>
+
+          <p><strong>Location:</strong> North Attleboro, MA 02760</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          38 days
+            <strong>Certified Pre-Owned:</strong> Yes
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Glacier White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Nissan Altima 2.5 SV for sale
+- $13,488, 42,247 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Aluminum Wheels, 
+                Remote Start
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.2 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="3.2 out of 5 stars" ></i>              (42 reviews)
+              "3 of the 4 people I dealt with were helpful.1 not so much.Beware of the dealer &quot;preparation fees&quot; which were outrageously high.."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/27/17/12/2011_nissan_altima_3_5_sr-pic-7408231226263372540-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/27/17/12/2011_nissan_altima_3_5_sr-pic-7408231226263372540-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2011 Nissan Altima 3.5 SR</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Boston,  02127</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,846 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $8,046</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="6200">$6,200</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>72,000</span></p>
+
+          <p><strong>Location:</strong> Boston,  02127</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          25 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Continuously Variable Transmission
+            <strong>Color: </strong>White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2011 Nissan Altima 3.5 SR for sale
+- $6,200, 72,000 miles        </span>
+      </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/23/19/46/2018_nissan_altima-pic-4997450539873021188-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/23/19/46/2018_nissan_altima-pic-4997450539873021188-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Nissan Altima 2.5 S</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Holliston, MA 01746</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,591 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $16,086</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="14495">$14,495</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>19,765</span></p>
+
+          <p><strong>Location:</strong> Holliston, MA 01746</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          43 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Glacier White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Nissan Altima 2.5 S for sale
+- $14,495, 19,765 miles          with                 Bluetooth, 
+                Backup Camera
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.9 out of 5 stars" aria-hidden="true" ></i>              (14 reviews)
+              "Didnt buy this car but bought another one from this place and it was very quick and easy"
         </div>
   </div>
 
@@ -4111,10 +4290,10 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
       </div>
   </div>
 
-          Great Deal
+          Good Deal
         </div>
-  <div class="b greenText">$1,636 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,236</span>
+  <div class="b greenText">$1,569 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,169</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4145,14 +4324,14 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/10/09/59/2008_nissan_altima-pic-7376411759159152977-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/10/09/59/2008_nissan_altima-pic-7376411759159152977-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/21/01/25/2017_nissan_altima-pic-2730213720729451582-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/21/01/25/2017_nissan_altima-pic-2730213720729451582-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2008 Nissan Altima 2.5 S</span>
+            <span itemprop="name">2017 Nissan Altima 2.5 SL</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Salem, NH 03079</span>
+          <span>Abington, MA 02351</span>
 
       </h4>
 
@@ -4176,234 +4355,36 @@ several times, aka hit Deer, hit black ice into ditch, someone drunk sideswiped 
 
           Good Deal
         </div>
-  <div class="b greenText">$1,451 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $4,051</span>
+  <div class="b greenText">$1,793 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $17,994</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="2600">$2,600</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="16201">$16,201</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>170,602</span></p>
+            <p><strong>Mileage:</strong> <span>10,218</span></p>
 
-          <p><strong>Location:</strong> Salem, NH 03079</p>
+          <p><strong>Location:</strong> Abington, MA 02351</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          8 days
+          42 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Precision Grey Metallic
+            <strong>Color: </strong>Pearl White
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2008 Nissan Altima 2.5 S for sale
-- $2,600, 170,602 miles        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (44 reviews)
-              "Good. 
-"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/20/21/55/2013_nissan_altima-pic-1475610227112172897-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/20/21/55/2013_nissan_altima-pic-1475610227112172897-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2013 Nissan Altima 2.5 SL</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>West Roxbury, MA 02132</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,570 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $11,570</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="10000">$10,000</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>51,882</span></p>
-
-          <p><strong>Location:</strong> West Roxbury, MA 02132</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          17 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Brilliant Silver Metallic
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2013 Nissan Altima 2.5 SL for sale
-- $10,000, 51,882 miles          with                 Bluetooth, 
-                Sunroof/Moonroof, 
-                Alloy Wheels
+          Used 2017 Nissan Altima 2.5 SL for sale
+- $16,201, 10,218 miles          with                 Backup Camera
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (27 reviews)
-              "No games.  Very good price for the car. Sales personnel accomadated us nicely. An enjoyable experience."
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/07/11/59/2017_nissan_altima-pic-5772534613556127582-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/07/11/59/2017_nissan_altima-pic-5772534613556127582-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2017 Nissan Altima 2.5 S</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Nashua, NH 03060</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,701 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $13,641</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="11940">$11,940</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>43,238</span></p>
-
-          <p><strong>Location:</strong> Nashua, NH 03060</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          30 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Brilliant Silver
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2017 Nissan Altima 2.5 S for sale
-- $11,940, 43,238 miles        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (15 reviews)
-              "Good and professional!"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/03/16/51/2013_nissan_altima-pic-4382028556872921767-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/03/16/51/2013_nissan_altima-pic-4382028556872921767-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2013 Nissan Altima 2.5 S</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Raynham, MA 02767</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,504 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,499</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="6995">$6,995</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>102,841</span></p>
-
-          <p><strong>Location:</strong> Raynham, MA 02767</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          20 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Continuously Variable Transmission
-            <strong>Color: </strong>Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2013 Nissan Altima 2.5 S for sale
-- $6,995, 102,841 miles          with                 Bluetooth
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (6 reviews)
-              "I recently bought a car from David at Matteson Motors.  I was driving by and happened to stop in.  It was hands down the best car-buying experience I have ever had....and I’ve bought a lot of cars.  I dislike the process so much because I’m a woman and the salesmen can see me coming from a mile away when I pull in.  I have to be on high guard because they usually always try to take advantage.   I have been wanting to write a review for months about David and Mattson Motors, and for those of you who want a low stress, kind, friendly and sincere salesman who wants to do the right thing by his customers, David’s your man.   He knew I was buying the car for my daughter, and without my even asking, he had surprisingly replaced all four tires because he and his mechanic thought it would be the right thing to do fo a mom who’s buying a car for her daughter.    Amazing!!   I thank you so so, David and Mattson motors for making an otherwise painful process, painless and enjoyable.  
-Devin"
+<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (40 reviews)
+              "Has a post of a car that has been sold. Only has higher priced ones in stock. Post is still up. Gimmick. "
         </div>
   </div>
         <div style="font-size:14px;margin-top:10px;padding:5px;cursor:pointer;background-color:#CCCCCC;width:100px;text-align:center;" class="b">
@@ -4560,16 +4541,16 @@ Devin"
             <a href="/Cars/l-Used-2019-Nissan-Altima-c27603" title="2019 Nissan Altima">2019 Nissan Altima</a>
           </td>
 
-          <td data-order="41">
-            41 Great Deals
+          <td data-order="40">
+            40 Great Deals
           </td>
 
-          <td data-order="13695">
-            $13,695
+          <td data-order="13355">
+            $13,355
           </td>
 
-          <td data-order="14988">
-            14,988 listings
+          <td data-order="12836">
+            12,836 listings
           </td>
 
         </tr>
@@ -4580,16 +4561,16 @@ Devin"
             <a href="/Cars/l-Used-2018-Nissan-Altima-c27206" title="2018 Nissan Altima">2018 Nissan Altima</a>
           </td>
 
-          <td data-order="174">
-            174 Great Deals
+          <td data-order="197">
+            197 Great Deals
           </td>
 
           <td data-order="9872">
             $9,872
           </td>
 
-          <td data-order="8187">
-            8,187 listings
+          <td data-order="8917">
+            8,917 listings
           </td>
 
         </tr>
@@ -4600,16 +4581,16 @@ Devin"
             <a href="/Cars/l-Used-2017-Nissan-Altima-c25972" title="2017 Nissan Altima">2017 Nissan Altima</a>
           </td>
 
-          <td data-order="130">
-            130 Great Deals
+          <td data-order="138">
+            138 Great Deals
           </td>
 
-          <td data-order="6999">
-            $6,999
+          <td data-order="7499">
+            $7,499
           </td>
 
-          <td data-order="4655">
-            4,655 listings
+          <td data-order="4715">
+            4,715 listings
           </td>
 
         </tr>
@@ -4620,16 +4601,16 @@ Devin"
             <a href="/Cars/l-Used-2016-Nissan-Altima-c25324" title="2016 Nissan Altima">2016 Nissan Altima</a>
           </td>
 
-          <td data-order="211">
-            211 Great Deals
+          <td data-order="218">
+            218 Great Deals
           </td>
 
-          <td data-order="6999">
-            $6,999
+          <td data-order="6499">
+            $6,499
           </td>
 
-          <td data-order="6170">
-            6,170 listings
+          <td data-order="6272">
+            6,272 listings
           </td>
 
         </tr>
@@ -4640,16 +4621,16 @@ Devin"
             <a href="/Cars/l-Used-2015-Nissan-Altima-c24454" title="2015 Nissan Altima">2015 Nissan Altima</a>
           </td>
 
-          <td data-order="190">
-            190 Great Deals
+          <td data-order="212">
+            212 Great Deals
           </td>
 
           <td data-order="4900">
             $4,900
           </td>
 
-          <td data-order="3938">
-            3,938 listings
+          <td data-order="3924">
+            3,924 listings
           </td>
 
         </tr>
@@ -4660,16 +4641,16 @@ Devin"
             <a href="/Cars/l-Used-2014-Nissan-Altima-c24167" title="2014 Nissan Altima">2014 Nissan Altima</a>
           </td>
 
-          <td data-order="71">
-            71 Great Deals
+          <td data-order="87">
+            87 Great Deals
           </td>
 
           <td data-order="2700">
             $2,700
           </td>
 
-          <td data-order="1703">
-            1,703 listings
+          <td data-order="1692">
+            1,692 listings
           </td>
 
         </tr>
@@ -4680,16 +4661,16 @@ Devin"
             <a href="/Cars/l-Used-2013-Nissan-Altima-c23398" title="2013 Nissan Altima">2013 Nissan Altima</a>
           </td>
 
-          <td data-order="93">
-            93 Great Deals
+          <td data-order="90">
+            90 Great Deals
           </td>
 
-          <td data-order="3900">
-            $3,900
+          <td data-order="3899">
+            $3,899
           </td>
 
-          <td data-order="1798">
-            1,798 listings
+          <td data-order="1860">
+            1,860 listings
           </td>
 
         </tr>
@@ -4700,16 +4681,16 @@ Devin"
             <a href="/Cars/l-Used-2012-Nissan-Altima-c22935" title="2012 Nissan Altima">2012 Nissan Altima</a>
           </td>
 
-          <td data-order="37">
-            37 Great Deals
+          <td data-order="34">
+            34 Great Deals
           </td>
 
-          <td data-order="2995">
-            $2,995
+          <td data-order="3200">
+            $3,200
           </td>
 
-          <td data-order="1121">
-            1,121 listings
+          <td data-order="1129">
+            1,129 listings
           </td>
 
         </tr>
@@ -4720,16 +4701,16 @@ Devin"
             <a href="/Cars/l-Used-2011-Nissan-Altima-c22494" title="2011 Nissan Altima">2011 Nissan Altima</a>
           </td>
 
-          <td data-order="17">
-            17 Great Deals
+          <td data-order="15">
+            15 Great Deals
           </td>
 
-          <td data-order="1999">
-            $1,999
+          <td data-order="2495">
+            $2,495
           </td>
 
-          <td data-order="576">
-            576 listings
+          <td data-order="585">
+            585 listings
           </td>
 
         </tr>
@@ -4740,16 +4721,16 @@ Devin"
             <a href="/Cars/l-Used-2010-Nissan-Altima-c21905" title="2010 Nissan Altima">2010 Nissan Altima</a>
           </td>
 
-          <td data-order="13">
-            13 Great Deals
+          <td data-order="16">
+            16 Great Deals
           </td>
 
-          <td data-order="1999">
-            $1,999
+          <td data-order="2500">
+            $2,500
           </td>
 
-          <td data-order="600">
-            600 listings
+          <td data-order="613">
+            613 listings
           </td>
 
         </tr>
@@ -4777,7 +4758,7 @@ Devin"
               <div>
 
 
-      331 Great Deals out of 15,474 listings starting at <span class="nowrap">$1,610</span>
+      360 Great Deals out of 15,253 listings starting at <span class="nowrap">$2,000</span>
 
               </div>
             </td>
@@ -4794,7 +4775,7 @@ Devin"
               <div>
 
 
-      863 Great Deals out of 68,175 listings starting at <span class="nowrap">$999</span>
+      916 Great Deals out of 67,533 listings starting at <span class="nowrap">$799</span>
 
               </div>
             </td>
@@ -4811,7 +4792,7 @@ Devin"
               <div>
 
 
-      997 Great Deals out of 70,900 listings starting at <span class="nowrap">$699</span>
+      1,060 Great Deals out of 71,665 listings starting at <span class="nowrap">$1,000</span>
 
               </div>
             </td>
@@ -4838,49 +4819,49 @@ Devin"
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2019-Nissan-Altima-c27603">2019 Nissan Altima</a>
-        <div>463 listings starting at $13,695</div>
+        <div>498 listings starting at $13,355</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2018-Nissan-Altima-c27206">2018 Nissan Altima</a>
-        <div>855 listings starting at $9,872</div>
+        <div>862 listings starting at $9,872</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2017-Nissan-Altima-c25972">2017 Nissan Altima</a>
-        <div>560 listings starting at $6,999</div>
+        <div>571 listings starting at $7,499</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2016-Nissan-Altima-c25324">2016 Nissan Altima</a>
-        <div>889 listings starting at $6,999</div>
+        <div>891 listings starting at $6,499</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2015-Nissan-Altima-c24454">2015 Nissan Altima</a>
-        <div>165 listings starting at $4,900</div>
+        <div>158 listings starting at $4,900</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2014-Nissan-Altima-c24167">2014 Nissan Altima</a>
-        <div>29 listings starting at $2,700</div>
+        <div>27 listings starting at $2,700</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2013-Nissan-Altima-c23398">2013 Nissan Altima</a>
-        <div>5 listings starting at $3,900</div>
+        <div>9 listings starting at $3,899</div>
       </td>
 
       
@@ -4904,7 +4885,7 @@ Devin"
           <td style="width:33.333333333333%">
               <a href="/Cars/new/nl-New-Nissan-Altima-d237" title="2020 Nissan Altima">2020 Nissan Altima</a>
               <div>
-                    17,328 listings
+                    20,197 listings
               </div>
           </td>
           
@@ -4914,7 +4895,7 @@ Devin"
           <td >
               <a href="/Cars/new/nl-New-Nissan-Altima-d237" title="2019 Nissan Altima">2019 Nissan Altima</a>
               <div>
-                    14,988 listings
+                    12,836 listings
               </div>
           </td>
           
@@ -4944,7 +4925,7 @@ Devin"
           <div>
 
 
-      12 Great Deals out of 812 listings starting at <span class="nowrap">$899</span>
+      8 Great Deals out of 862 listings starting at <span class="nowrap">$871</span>
 
           </div>
         </td>
@@ -4959,7 +4940,7 @@ Devin"
           <div>
 
 
-      6 Great Deals out of 620 listings starting at <span class="nowrap">$1,200</span>
+      8 Great Deals out of 660 listings starting at <span class="nowrap">$1,200</span>
 
           </div>
         </td>
@@ -4974,7 +4955,7 @@ Devin"
           <div>
 
 
-      9 Great Deals out of 689 listings starting at <span class="nowrap">$1,200</span>
+      8 Great Deals out of 723 listings starting at <span class="nowrap">$1,200</span>
 
           </div>
         </td>
@@ -4989,7 +4970,7 @@ Devin"
           <div>
 
 
-      17 Great Deals out of 616 listings starting at <span class="nowrap">$899</span>
+      11 Great Deals out of 648 listings starting at <span class="nowrap">$871</span>
 
           </div>
         </td>
@@ -5004,7 +4985,7 @@ Devin"
           <div>
 
 
-      16 Great Deals out of 854 listings starting at <span class="nowrap">$899</span>
+      10 Great Deals out of 910 listings starting at <span class="nowrap">$871</span>
 
           </div>
         </td>
@@ -5019,7 +5000,7 @@ Devin"
           <div>
 
 
-      6 Great Deals out of 500 listings starting at <span class="nowrap">$1,200</span>
+      8 Great Deals out of 530 listings starting at <span class="nowrap">$1,200</span>
 
           </div>
         </td>
@@ -5034,7 +5015,7 @@ Devin"
           <div>
 
 
-      18 Great Deals out of 387 listings starting at <span class="nowrap">$899</span>
+      8 Great Deals out of 392 listings starting at <span class="nowrap">$871</span>
 
           </div>
         </td>
@@ -5049,7 +5030,7 @@ Devin"
           <div>
 
 
-      25 Great Deals out of 960 listings starting at <span class="nowrap">$899</span>
+      16 Great Deals out of 1,015 listings starting at <span class="nowrap">$871</span>
 
           </div>
         </td>
@@ -5064,7 +5045,7 @@ Devin"
           <div>
 
 
-      17 Great Deals out of 444 listings starting at <span class="nowrap">$1,950</span>
+      16 Great Deals out of 475 listings starting at <span class="nowrap">$1,950</span>
 
           </div>
         </td>
@@ -5092,7 +5073,7 @@ Devin"
                         <a href="/Cars/lp/search-Nissan-Altima-automatic-sc1_d237" title="Used Nissan Altima With Automatic Transmission">Used Nissan Altima With Automatic Transmission</a>
                         <div>
 
-      987 Great Deals out of 31,780 listings starting at <span class="nowrap">$195</span>
+      1,062 Great Deals out of 32,695 listings starting at <span class="nowrap">$700</span>
 
 </div>
                     </td>
@@ -5108,7 +5089,7 @@ Devin"
                         <a href="/Cars/lp/search-Nissan-Altima-manual-sc2_d237" title="Used Nissan Altima With Manual Transmission">Used Nissan Altima With Manual Transmission</a>
                         <div>
 
-      238 listings starting at <span class="nowrap">$550</span>
+      6 Great Deals out of 255 listings starting at <span class="nowrap">$100</span>
 
 </div>
                     </td>
@@ -5145,17 +5126,17 @@ Devin"
         <div class="footer--social_bar-mobile hasBbbBadge">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5227,17 +5208,17 @@ Devin"
                 <div class="footer--social_bar-desktop">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5251,13 +5232,12 @@ Devin"
 
           <div class="row">
   <div class="locale-picker">
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="English" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <i class="fas fa-globe-americas"></i>
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="languagePicker" title="English" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
       English
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="languagePicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5272,13 +5252,13 @@ Devin"
       </div>
     </div>
   </div>
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="United States" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="countryPicker" title="United States" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
         <i class="flag-icon flag-icon-us"></i>
       United States
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="countryPicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5344,10 +5324,10 @@ Devin"
   <div id="devInfo" class="hidden" style="display: none;"
        data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
        data-sentry-integrated="true"
-       data-server-host-name="prod-bos2-www-29.dc.c-gurus.com"
+       data-server-host-name="prod-bos2-www-20.dc.c-gurus.com"
        data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
        data-action-method="viewDetailsFilterView"
-       data-build-id="site-cars-25095"
+       data-build-id="site-cars-25300"
        data-template="/inventorylisting/viewDetailsFilterView.ftl"
        data-view-version="_DEFAULT_"
        data-production="true">
@@ -5363,38 +5343,42 @@ Devin"
 
 
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js')" nomodule
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js')" nomodule
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js')" 
 ></script>
 
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js')" 
 ></script>
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js')" 
 ></script>
 
 
 
-      <script src="https://static.cargurus.com/bundles/js/ads.entry_3e269c6214c73e8450b1a8ed06b532d7.js" type="text/javascript" async="async"></script>
+      <script src="https://static.cargurus.com/bundles/js/ads.entry_2858a41b2eb82011ed90ff28c190a8b7.js" type="text/javascript" async="async"></script>
 
 
       
@@ -5405,7 +5389,7 @@ Devin"
       cgDataLayer.baseData['CGLocale']="ENGLISH";
       cgDataLayer.baseData['Locale']='en_US';
       cgDataLayer.baseData['Country']='UNITED_STATES';
-    cgDataLayer.baseData['UUID']="6NCH-50.245.49.123.1568840650575";
+    cgDataLayer.baseData['UUID']="6LXf-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569905220425";
       cgDataLayer.baseData['EnType']='MODEL';
         cgDataLayer.baseData['Make'] = "Nissan";
         cgDataLayer.baseData['Model'] = "Altima";
@@ -5553,7 +5537,7 @@ Devin"
         subscriptionActionUrl : '/Cars/inventorylisting/subscribeAjax.action',
         promptConvertSearchToSubscriptionUrl : '/Cars/inventorylisting/viewPromptConvertSearchToSubscriptionDialog.action',
         reportingViewVersion: '_DEFAULT_',
-        initJumpstartNewAgeType: false,
+        initJumpstartNewAgeType: true,
         featuredListingsHeaderPageSize: 3,
         featuredListingsFooterPageSize: 1,
         isRecentSearchView: 'false',
@@ -5639,7 +5623,7 @@ Devin"
     var priceDropFilter = new CG.Inventory.Filters.PriceDropFilter(false);
     listingsSearchManager.registerFilter(priceDropFilter);
 
-      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568840650677);
+      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1569905220533);
       listingsSearchManager.registerFilter(sinceLastVisitFilter);
 
       var accidentsFilter = new CG.Inventory.Filters.AccidentsFilter(hideAccidents);
@@ -6500,24 +6484,30 @@ saveSearchAndSubscription_overview(email, useSavedSearch);
       </script>
 
       <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            var seoReadMore = document.querySelector('.seo-read-more');
-            var readMoreButton = document.querySelector('.btn-read-more');
+        function handleSeoReadMoreLink() {
+          var seoReadMore = document.querySelector('.seo-read-more');
+          var readMoreButton = document.querySelector('.btn-read-more');
 
-            if (readMoreButton) {
-              readMoreButton.onclick = function(e) {
-                e.preventDefault();
+          if (readMoreButton) {
+            readMoreButton.onclick = function(e) {
+              e.preventDefault();
 
-                if (seoReadMore.classList.contains('expanded')) {
-                  seoReadMore.classList.remove('expanded');
-                  readMoreButton.innerHTML = 'Read More';
-                } else {
-                  seoReadMore.classList.add('expanded');
-                  readMoreButton.innerHTML = 'Read Less';
-                }
+              if (seoReadMore.classList.contains('expanded')) {
+                seoReadMore.classList.remove('expanded');
+                readMoreButton.innerHTML = 'Read More';
+              } else {
+                seoReadMore.classList.add('expanded');
+                readMoreButton.innerHTML = 'Read Less';
               }
             }
-        });
+          }
+        }
+
+        if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) {
+          handleSeoReadMoreLink();
+        } else {
+          document.addEventListener('DOMContentLoaded', handleSeoReadMoreLink);
+        }
             </script>
 
       <script>

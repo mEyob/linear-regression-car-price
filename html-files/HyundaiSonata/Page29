@@ -20,12 +20,12 @@
           ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"fe3008aef1",applicationID:"279386539",sa:1}
 
           if (typeof newrelic === 'object') {
-            newrelic.setCustomAttribute('release', "site-cars-25095");
+            newrelic.setCustomAttribute('release', "site-cars-25300");
             newrelic.setCustomAttribute('viewversion', "_DEFAULT_");
-            newrelic.setCustomAttribute('hostname', "prod-bos2-www-24.dc.c-gurus.com");
+            newrelic.setCustomAttribute('hostname', "prod-bos2-www-19.dc.c-gurus.com");
             newrelic.setCustomAttribute('template', "/inventorylisting/viewDetailsFilterView.ftl");
             newrelic.setCustomAttribute('deploymentloc', "bos2");
-            newrelic.setCustomAttribute('uuid', "Kxt0-50.245.49.123.1568840503419");
+            newrelic.setCustomAttribute('uuid', "qG8C-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569904953058");
           }
         </script>
 <script type="text/javascript">
@@ -73,8 +73,8 @@
     }
     </script>
 
-    <title>Used Hyundai Sonata For Sale - CarGurus</title>
-    <meta name="description" content="Save $4,957 on a used Hyundai Sonata near you. Search over 37,200 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
+    <title>Used Hyundai Sonata for Sale (with Photos) - CarGurus</title>
+    <meta name="description" content="Save $5,014 on a used Hyundai Sonata near you. Search over 36,700 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
         <meta name="keywords" content="Hyundai Sonata,Hyundai,Sonata">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -98,21 +98,21 @@
         data-logged-in="false"
         data-mobile-app="false"
         data-production="true"
-        data-seo-experiments='{"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"OPERATION_WELP_GETS_INDEXED":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"OPERATION_RECURRING_CONDTION":-1,"SEO_BATCH_2":-1}' 
+        data-seo-experiments='{"OPERATION_RECURRING_CONDITION":-1,"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_BATCH_3_TITLES":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"SEO_BATCH_3_TITLES_MOBILE":-1,"SEO_BATCH_2":-1}' 
         data-service-name="Cars"
-        data-uuid="Kxt0-50.245.49.123.1568840503419"
+        data-uuid="qG8C-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569904953058"
         data-view-versions="[&quot;_DEFAULT_&quot;]"
     >
 
     <meta name="devInfo"
         data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
         data-action-method="viewDetailsFilterView"
-        data-build-id="site-cars-25095"
+        data-build-id="site-cars-25300"
         data-deploymentloc="bos2"
         data-production="true"
             data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
         data-sentry-integrated="true"
-        data-server-host-name="prod-bos2-www-24.dc.c-gurus.com"
+        data-server-host-name="prod-bos2-www-19.dc.c-gurus.com"
         data-template="/inventorylisting/viewDetailsFilterView.ftl"
         data-view-version="_DEFAULT_"
     >
@@ -128,16 +128,17 @@
   
 
   
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.df695d5c8b485c6259a2c6cd78aebb66.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.db4b2289d549c1bec72f6847d705676f.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.12ca5009f4d29e44e59e6a33767791aa.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.246ba8905bc7200000159c9ccee0fd3c.css">
 
   <link rel='stylesheet' href="https://static.cargurus.com/css/site/core/cg-highres.css?v=-430879965_157" media="only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" />
 
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.4d9acd279f806550ffba055b8f5c9830.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.e55c971ddba55ff409a1e0d6dc62f656.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/contact_a_dealer.entry.fbe06a93da0ed276d6520bf1cbd37197.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_financing_prequal.entry.bfb16965ce36c8cdf375b95984df0288.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.65a526010bea826c8908e453a70e8185.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.d637b5afd5202e7a445fa88a8a676c76.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.8fe91bc48c15e0d4431d827de34cf380.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.9e5e647423e7c9171f4050014da48fc8.css">
 
 
 <!--[if lt IE 9]>
@@ -943,7 +944,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-93235686"
+            id="select-51133217"
             >
         <option value="-1">All Makes</option>
 
@@ -1004,7 +1005,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -1018,13 +1018,11 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -1035,7 +1033,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -1062,6 +1059,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -1079,7 +1077,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -1089,6 +1086,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -1196,7 +1194,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="c2191">2002</option> 
 <option  value="c2196">2001</option> 
 <option  value="c2201">2000</option> 
-<option  value="c2213">1997</option> 
+<option  value="c2221">1995</option> 
   </select>
             </td>
             <td class="tdLabel carYearsSeparator">
@@ -1232,7 +1230,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option   value="c2191">2002</option> 
 <option   value="c2196">2001</option> 
 <option   value="c2201">2000</option> 
-<option   value="c2213">1997</option> 
+<option   value="c2221">1995</option> 
     </select>
             </td>
         </tr>
@@ -2282,7 +2280,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="true" cg-data-useInventoryService="false" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-quotableOnly="true" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-42685598"
+            id="select-6617959"
             >
         <option value="-1">All Makes</option>
 
@@ -2291,6 +2289,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
       
 <option  value="m4">Acura</option> 
 <option  value="m124">Alfa Romeo</option> 
+<option  value="m110">Aston Martin</option> 
 <option  value="m19">Audi</option> 
 <option  value="m20">Bentley</option> 
 <option  value="m3">BMW</option> 
@@ -2299,7 +2298,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2339,7 +2337,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2374,8 +2371,8 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
     <script>
         (function () {
           var onloadFunction = function () {
-            var firstOptionValue = $("select[id='select-42685598'] option:first").val();
-            $("select[id='select-42685598']").val(firstOptionValue);
+            var firstOptionValue = $("select[id='select-6617959'] option:first").val();
+            $("select[id='select-6617959']").val(firstOptionValue);
           };
           if (document.readyState !== 'loading') {
             onloadFunction();
@@ -2884,7 +2881,7 @@ Toyota Camry
             style="width: 169px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="addModelsToSearchSelectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="false"             cg-name="ign-makerId-addModelsToSearchSelectedEntity"
-            id="select-81464847"
+            id="select-54627321"
             >
         <option value="-1">Select Make</option>
 
@@ -2905,7 +2902,6 @@ Toyota Camry
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -2919,13 +2915,11 @@ Toyota Camry
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -2936,7 +2930,6 @@ Toyota Camry
 <option  value="m27">Hummer</option> 
 <option  selected="selected" value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -2963,6 +2956,7 @@ Toyota Camry
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -2980,7 +2974,6 @@ Toyota Camry
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -2990,6 +2983,7 @@ Toyota Camry
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -3069,13 +3063,13 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 </table>
 
 
-<div id="carPicker-81510221">
+<div id="carPicker-89113438">
 <script>
   (function () {
     var onloadFunction = function () {
   if (typeof CG === 'object' && CG !== null && CG.hasOwnProperty('CarPicker')) {
     CG.CarPicker.createInstance(
-      "carPicker-81510221",
+      "carPicker-89113438",
       "addModelsToSearchSelectedEntity",
       "",
       "",
@@ -3103,7 +3097,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
 
 
-<input type="hidden" name="addModelsToSearchSelectedEntity" value="d96" id="carPicker-81510221addModelsToSearchSelectedEntity"/>
+<input type="hidden" name="addModelsToSearchSelectedEntity" value="d96" id="carPicker-89113438addModelsToSearchSelectedEntity"/>
 
 
 
@@ -3131,7 +3125,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
         <div style="padding:10px;">
 <div>
     <div class="filterHeader" style="padding:0 0 5px 0">
-    2014 Hyundai Sonata 2.0T SE FWD Review
+    2006 Hyundai Sonata GLS FWD Review
     </div>
 
     <div class="smallRating">
@@ -3139,21 +3133,21 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
             <tr>
                 <td><div class="cg-rating-wrap clearfix">
     <div class="ratingValue">
-<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>    </div>
+<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>    </div>
 </div>
 </td>
                 <td>
-                  by amberall
+                  by Hyundai06
                 </td>
             </tr>
         </table>
     </div>
 
     <p class="b">
-        <span class="leftQuote">&ldquo;</span>It's a nice little car but a bit overpriced in my opinion for what you get.<span class="rightQuote">&rdquo;</span>
+        <span class="leftQuote">&ldquo;</span>best car we've owned<span class="rightQuote">&rdquo;</span>
     </p>
     <p>
-      This is a good little car overall. it handles well, accelerates well, gets great gas mileage and comes nicely equipped. The car has a sporty appearance but sits a bit too low to the ground for me. I have had issues with the car decelerating at odd times but only on a few occasions. I have been well pleased using as a commuter car.
+      First off, I can't believe we've had our car for 8 years now and it still has the original battery in it and it starts up everyday. it don't matter if it's -20 to 90 degrees out the car always starts. Thanks Hyundai for making such a great car.
     </p>
 </div>
         </div>
@@ -3364,72 +3358,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/23/13/00/2017_hyundai_sonata-pic-8634049080239460023-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/23/13/00/2017_hyundai_sonata-pic-8634049080239460023-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2017 Hyundai Sonata 2.0T Limited FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Danvers, MA 01923</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$3,315 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $18,303</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="14988">$14,988</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>34,504</span></p>
-
-          <p><strong>Location:</strong> Danvers, MA 01923</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Phantom Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2017 Hyundai Sonata 2.0T Limited FWD for sale
-- $14,988, 34,504 miles          with                 Premium Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (35 reviews)
-              "Really helpful.
-Fast service
-Very nice attention"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
           <img src="https://static.cargurus.com/images/forsale/2019/07/26/00/13/2018_hyundai_sonata-pic-1391068228521393190-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/26/00/13/2018_hyundai_sonata-pic-1391068228521393190-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
@@ -3461,12 +3389,12 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$3,385 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $23,365</span>
+  <div class="b greenText">$4,076 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $23,256</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="19980">$19,980</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="19180">$19,180</span><meta itemprop="priceCurrency" content="USD" /></p>
 
             <p><strong>Mileage:</strong> <span>16,270</span></p>
 
@@ -3481,7 +3409,7 @@ Very nice attention"
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2018 Hyundai Sonata 2.0T Limited FWD for sale
-- $19,980, 16,270 miles          with                 Leather Seats, 
+- $19,180, 16,270 miles          with                 Leather Seats, 
                 Backup Camera, 
                 Sunroof/Moonroof, 
                 Aluminum Wheels
@@ -3490,21 +3418,21 @@ Very nice attention"
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (17 reviews)
-              "The salesman Dave was very helpful and tried to meet the a price I would be happy with. Unfortunately the amount they wanted to give for my trade in was too low and it would have made my payments too high for me. "
+<i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.3 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (18 reviews)
+              "Quick call back. Not pushy and professional "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/07/12/20/34/2018_hyundai_sonata-pic-6848342294021939557-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/12/20/34/2018_hyundai_sonata-pic-6848342294021939557-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/05/16/21/10/2018_hyundai_sonata-pic-1379659447908987047-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/16/21/10/2018_hyundai_sonata-pic-1379659447908987047-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2018 Hyundai Sonata SEL FWD</span>
+            <span itemprop="name">2018 Hyundai Sonata Limited FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Norwood, MA 02062</span>
+          <span>Lynn, MA 01905</span>
 
       </h4>
 
@@ -3528,37 +3456,39 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$2,263 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $18,763</span>
+  <div class="b greenText">$2,798 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $21,686</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="16500">$16,500</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="18888">$18,888</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>1,909</span></p>
+            <p><strong>Mileage:</strong> <span>6,548</span></p>
 
-          <p><strong>Location:</strong> Norwood, MA 02062</p>
+          <p><strong>Location:</strong> Lynn, MA 01905</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          43 days
-            <strong>Certified Pre-Owned:</strong> No
+          37 days
+            <strong>Certified Pre-Owned:</strong> Yes
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Quartz White Pearl
+            <strong>Color: </strong>Scarlet Red
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2018 Hyundai Sonata SEL FWD for sale
-- $16,500, 1,909 miles          with                 Bluetooth, 
-                Backup Camera
+          Used 2018 Hyundai Sonata Limited FWD for sale
+- $18,888, 6,548 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Backup Camera, 
+                Sunroof/Moonroof
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (10 reviews)
-              "Great - I bought this car !!"
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (11 reviews)
+              " Didn’t purchase the car from them but they were very nice and helpful."
         </div>
   </div>
 
@@ -3595,12 +3525,12 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$1,912 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $4,707</span>
+  <div class="b greenText">$2,003 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $4,498</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="2795">$2,795</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="2495">$2,495</span><meta itemprop="priceCurrency" content="USD" /></p>
 
             <p><strong>Mileage:</strong> <span>123,974</span></p>
 
@@ -3609,7 +3539,7 @@ Very nice attention"
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          8 days
+          7 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  5-Speed Automatic
             <strong>Color: </strong>Silver
@@ -3617,7 +3547,7 @@ Very nice attention"
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2007 Hyundai Sonata V6 SE FWD for sale
-- $2,795, 123,974 miles          with                 Alloy Wheels
+- $2,495, 123,974 miles          with                 Alloy Wheels
 
         </span>
       </div>
@@ -3630,14 +3560,14 @@ Very nice attention"
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/22/22/27/2016_hyundai_sonata-pic-2454605008930279349-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/22/22/27/2016_hyundai_sonata-pic-2454605008930279349-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/30/18/07/2013_hyundai_sonata-pic-5465072079750467978-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/30/18/07/2013_hyundai_sonata-pic-5465072079750467978-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2016 Hyundai Sonata</span>
+            <span itemprop="name">2013 Hyundai Sonata Limited FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>West Warwick, RI 02893</span>
+          <span>Attleboro, MA 02703</span>
 
       </h4>
 
@@ -3661,49 +3591,113 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$2,290 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,767</span>
+  <div class="b greenText">$2,064 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $8,064</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="12477">$12,477</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="6000">$6,000</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>21,937</span></p>
+            <p><strong>Mileage:</strong> <span>130,806</span></p>
 
-          <p><strong>Location:</strong> West Warwick, RI 02893</p>
+          <p><strong>Location:</strong> Attleboro, MA 02703</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          31 days
+          22 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Phantom Black
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Gray
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2016 Hyundai Sonata for sale
-- $12,477, 21,937 miles          with                 Bluetooth
+          Used 2013 Hyundai Sonata Limited FWD for sale
+- $6,000, 130,806 miles          with                 Bluetooth, 
+                Alloy Wheels
+
+        </span>
+      </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/01/17/05/2013_hyundai_sonata-pic-6185097861542448467-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/01/17/05/2013_hyundai_sonata-pic-6185097861542448467-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2013 Hyundai Sonata GLS FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Taunton, MA 02780</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,013 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,513</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="7500">$7,500</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>79,981</span></p>
+
+          <p><strong>Location:</strong> Taunton, MA 02780</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          22 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Titanium
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2013 Hyundai Sonata GLS FWD for sale
+- $7,500, 79,981 miles          with                 Bluetooth, 
+                Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (4 reviews)
-              "Great infos"
+<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (21 reviews)
+              "
+Enjoyed working with Dennis &amp;  still interested in the Porsche"
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/30/17/35/2016_hyundai_sonata-pic-4370741637968908194-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/30/17/35/2016_hyundai_sonata-pic-4370741637968908194-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/08/12/15/38/2015_hyundai_sonata-pic-1633879981820605184-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/12/15/38/2015_hyundai_sonata-pic-1633879981820605184-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2016 Hyundai Sonata Limited FWD</span>
+            <span itemprop="name">2015 Hyundai Sonata Sport FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>West Warwick, RI 02893</span>
+          <span>Warwick, RI 02888</span>
 
       </h4>
 
@@ -3727,29 +3721,97 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$2,255 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $17,032</span>
+  <div class="b greenText">$1,749 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $13,735</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="14777">$14,777</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11986">$11,986</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>31,412</span></p>
+            <p><strong>Mileage:</strong> <span>45,846</span></p>
 
-          <p><strong>Location:</strong> West Warwick, RI 02893</p>
+          <p><strong>Location:</strong> Warwick, RI 02888</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          36 days
+          29 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Phantom Black
+            <strong>Color: </strong>Quartz White Pearl
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2016 Hyundai Sonata Limited FWD for sale
-- $14,777, 31,412 miles          with                 Leather Seats, 
+          Used 2015 Hyundai Sonata Sport FWD for sale
+- $11,986, 45,846 miles          with                 Bluetooth, 
+                Backup Camera
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (46 reviews)
+              "Awsome experience than have earned my business"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/05/22/11/10/2018_hyundai_sonata-pic-3206028248985718571-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/22/11/10/2018_hyundai_sonata-pic-3206028248985718571-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2018 Hyundai Sonata Limited FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Brockton, MA 02301</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,238 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $21,237</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="18999">$18,999</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>8,147</span></p>
+
+          <p><strong>Location:</strong> Brockton, MA 02301</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          37 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Electric Blue
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2018 Hyundai Sonata Limited FWD for sale
+- $18,999, 8,147 miles          with                 Bluetooth, 
+                Leather Seats, 
                 Backup Camera, 
                 Sunroof/Moonroof
 
@@ -3757,209 +3819,8 @@ Very nice attention"
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (4 reviews)
-              "Response was quick, car had sold; I bought another elsewhere.
-"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/07/14/59/2008_hyundai_sonata-pic-1398674230257881081-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/14/59/2008_hyundai_sonata-pic-1398674230257881081-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2008 Hyundai Sonata Limited FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Brentwood, NH 03833</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,793 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $6,788</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="4995">$4,995</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>86,700</span></p>
-
-          <p><strong>Location:</strong> Brentwood, NH 03833</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Pearl White
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2008 Hyundai Sonata Limited FWD for sale
-- $4,995, 86,700 miles          with                 Leather Seats, 
-                Sunroof/Moonroof, 
-                Alloy Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>              (9 reviews)
-              "Very straightforward and timely experience!"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/12/13/02/2011_hyundai_sonata-pic-4274056091772742377-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/12/13/02/2011_hyundai_sonata-pic-4274056091772742377-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2011 Hyundai Sonata GLS FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Marlborough, MA 01752</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,935 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,930</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="6995">$6,995</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>63,000</span></p>
-
-          <p><strong>Location:</strong> Marlborough, MA 01752</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          16 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>White
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2011 Hyundai Sonata GLS FWD for sale
-- $6,995, 63,000 miles          with                 Steel Wheels, 
-                Bluetooth
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.1 out of 5 stars" ></i>              (33 reviews)
-              "Excellent experience and they have good office to work !! "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/07/12/20/45/2018_hyundai_sonata-pic-6403660918322639782-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/12/20/45/2018_hyundai_sonata-pic-6403660918322639782-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2018 Hyundai Sonata SEL FWD</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Rockland, MA 02370</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,810 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $17,709</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="15899">$15,899</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>17,250</span></p>
-
-          <p><strong>Location:</strong> Rockland, MA 02370</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          43 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Quartz White Pearl
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2018 Hyundai Sonata SEL FWD for sale
-- $15,899, 17,250 miles          with                 Bluetooth, 
-                Backup Camera
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (14 reviews)
-              "Great"
+<i class="fas fa-star cg-star" title="3.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.5 out of 5 stars" ></i>              (12 reviews)
+              "Nice that they replied on the 4th of July"
         </div>
   </div>
 
@@ -3996,8 +3857,8 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$1,758 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,658</span>
+  <div class="b greenText">$1,733 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,633</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4010,7 +3871,7 @@ Very nice attention"
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          32 days
+          30 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>Silver
@@ -4027,6 +3888,72 @@ Very nice attention"
           <strong>Avg. Dealer Rating:</strong>
 <i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>              (9 reviews)
               "Jimmy was great to work with he&#39;s a straight forward honest guy who stands behind his auto&#39;s I would highly recommend. "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/07/14/59/2008_hyundai_sonata-pic-1398674230257881081-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/14/59/2008_hyundai_sonata-pic-1398674230257881081-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2008 Hyundai Sonata Limited FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Brentwood, NH 03833</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,594 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $6,589</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="4995">$4,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>86,700</span></p>
+
+          <p><strong>Location:</strong> Brentwood, NH 03833</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Pearl White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2008 Hyundai Sonata Limited FWD for sale
+- $4,995, 86,700 miles          with                 Leather Seats, 
+                Sunroof/Moonroof, 
+                Alloy Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>              (9 reviews)
+              "Very straightforward and timely experience!"
         </div>
   </div>
 
@@ -4063,8 +3990,8 @@ Very nice attention"
 
           Great Deal
         </div>
-  <div class="b greenText">$1,526 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $11,521</span>
+  <div class="b greenText">$1,493 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $11,488</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4094,21 +4021,21 @@ Very nice attention"
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (26 reviews)
-              "answered my questions and were helpful"
+<i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (27 reviews)
+              "Got back to me right away.  Took a little off price but could not come down enough to compete "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/06/11/56/2015_hyundai_sonata-pic-1864776476805897449-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/06/11/56/2015_hyundai_sonata-pic-1864776476805897449-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/06/01/21/12/2015_hyundai_sonata-pic-5560429669439692963-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/06/01/21/12/2015_hyundai_sonata-pic-5560429669439692963-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2015 Hyundai Sonata 2.0T Limited FWD</span>
+            <span itemprop="name">2015 Hyundai Sonata Sport FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Raynham, MA 02767</span>
+          <span>West Bridgewater, MA 02379</span>
 
       </h4>
 
@@ -4130,44 +4057,41 @@ Very nice attention"
       </div>
   </div>
 
-          Great Deal
+          Good Deal
         </div>
-  <div class="b greenText">$1,858 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $17,358</span>
+  <div class="b greenText">$1,641 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $12,440</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="15500">$15,500</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="10799">$10,799</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>34,429</span></p>
+            <p><strong>Mileage:</strong> <span>65,512</span></p>
 
-          <p><strong>Location:</strong> Raynham, MA 02767</p>
+          <p><strong>Location:</strong> West Bridgewater, MA 02379</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          28 days
+          29 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Symphony Silver
+            <strong>Color: </strong>Blue
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2015 Hyundai Sonata 2.0T Limited FWD for sale
-- $15,500, 34,429 miles          with                 Leather Seats, 
-                Sunroof/Moonroof, 
-                Navigation System, 
-                Limited Package, 
-                Bluetooth, 
+          Used 2015 Hyundai Sonata Sport FWD for sale
+- $10,799, 65,512 miles          with                 Bluetooth, 
+                Leather Seats, 
                 Backup Camera, 
-                Aluminum Wheels
+                Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>              (27 reviews)
-              "Very professional"
+<i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.6 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.6 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.6 out of 5 stars" ></i>              (81 reviews)
+              "Very impersonal I had to go and ask for help. No other customers were there. I liked the vehicle I test drove but not willing to negotiate the price I was told it is what it is and it can sit on the lot it will sell sometime. I called a week later to offer more money and was told they don&#39;t take any offers over the phone. I will never go back and never recommend this dealership "
         </div>
   </div>
 
@@ -4202,10 +4126,10 @@ Very nice attention"
       </div>
   </div>
 
-          Great Deal
+          Good Deal
         </div>
-  <div class="b greenText">$1,798 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $10,686</span>
+  <div class="b greenText">$1,785 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $10,673</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -4218,7 +4142,7 @@ Very nice attention"
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          25 days
+          24 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
             <strong>Color: </strong>Blue
@@ -4230,21 +4154,22 @@ Very nice attention"
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (19 reviews)
-              "Awesome buying experience. Picked up a WRX. Amandio the finance director is great. Attentive and answered all my questions. Would definitely recommend anyone looking for a car to come here. Smooth buying experience. No Hassel. 10/10"
+<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (22 reviews)
+              "Car had noise starting up, waste of a trip to get there and not be able to drive it.
+Salesman was alone and wouldn’t allow the car to be test driven unless he went, since he was alone-we would have to wait until the other worker came in"
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/07/26/02/52/2014_hyundai_sonata-pic-1617364938601162352-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/26/02/52/2014_hyundai_sonata-pic-1617364938601162352-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/07/11/18/2011_hyundai_sonata-pic-9063156832328996923-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/07/11/18/2011_hyundai_sonata-pic-9063156832328996923-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2014 Hyundai Sonata Limited FWD</span>
+            <span itemprop="name">2011 Hyundai Sonata GLS FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Revere, MA 02151</span>
+          <span>Salem, MA 01970</span>
 
       </h4>
 
@@ -4268,53 +4193,115 @@ Very nice attention"
 
           Good Deal
         </div>
-  <div class="b greenText">$1,747 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $11,746</span>
+  <div class="b greenText">$1,496 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $6,347</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="9999">$9,999</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="4851">$4,851</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>77,001</span></p>
+            <p><strong>Mileage:</strong> <span>122,270</span></p>
 
-          <p><strong>Location:</strong> Revere, MA 02151</p>
+          <p><strong>Location:</strong> Salem, MA 01970</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          26 days
+          18 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Manual
+            <strong>Color: </strong>White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2011 Hyundai Sonata GLS FWD for sale
+- $4,851, 122,270 miles        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>              (3 reviews)
+              "John contacted me and was very helpful. "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/24/00/23/2017_hyundai_sonata-pic-8808802910734148050-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/24/00/23/2017_hyundai_sonata-pic-8808802910734148050-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2017 Hyundai Sonata Sport FWD</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Norwood, MA 02062</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,764 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,626</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13862">$13,862</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>42,789</span></p>
+
+          <p><strong>Location:</strong> Norwood, MA 02062</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          30 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Black
+            <strong>Color: </strong>Quartz White Pearl
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2014 Hyundai Sonata Limited FWD for sale
-- $9,999, 77,001 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Aluminum Wheels, 
-                Sound Package, 
-                Technology Package
+          Used 2017 Hyundai Sonata Sport FWD for sale
+- $13,862, 42,789 miles          with                 Backup Camera, 
+                Sunroof/Moonroof, 
+                Aluminum Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.4 out of 5 stars" ></i>              (11 reviews)
-              "They email me right away "
+<i class="fas fa-star cg-star" title="3.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.3 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.3 out of 5 stars" ></i>              (63 reviews)
+              "I purchased this vehicle. It needed a cosmetic repair which took longer than expected. I anticipate taking possession a week after purchase. Not pleased but overall, I&#39;m satisfied."
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/01/17/05/2013_hyundai_sonata-pic-6185097861542448467-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/01/17/05/2013_hyundai_sonata-pic-6185097861542448467-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/05/16/21/10/2018_hyundai_sonata-pic-445333448024390129-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/05/16/21/10/2018_hyundai_sonata-pic-445333448024390129-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2013 Hyundai Sonata GLS FWD</span>
+            <span itemprop="name">2018 Hyundai Sonata SEL FWD</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Taunton, MA 02780</span>
+          <span>Lynn, MA 01905</span>
 
       </h4>
 
@@ -4338,38 +4325,37 @@ Very nice attention"
 
           Good Deal
         </div>
-  <div class="b greenText">$1,605 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,580</span>
+  <div class="b greenText">$1,577 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $18,465</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="7975">$7,975</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="16888">$16,888</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>79,981</span></p>
+            <p><strong>Mileage:</strong> <span>4,498</span></p>
 
-          <p><strong>Location:</strong> Taunton, MA 02780</p>
+          <p><strong>Location:</strong> Lynn, MA 01905</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          22 days
-            <strong>Certified Pre-Owned:</strong> No
+          43 days
+            <strong>Certified Pre-Owned:</strong> Yes
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Titanium
+            <strong>Color: </strong>Phantom Black
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2013 Hyundai Sonata GLS FWD for sale
-- $7,975, 79,981 miles          with                 Bluetooth, 
-                Alloy Wheels
+          Used 2018 Hyundai Sonata SEL FWD for sale
+- $16,888, 4,498 miles          with                 Bluetooth, 
+                Backup Camera
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (21 reviews)
-              "
-Enjoyed working with Dennis &amp;  still interested in the Porsche"
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (11 reviews)
+              "The vehicle I contacted them about was sold to auction which I saw at auction. They first told me it was available , then they told me it was not available , then they said it was available. It was at auction the whole time. Then after they kept asking me to look at another car even though I said I was only looking at the Mountaineer and that’s what I was interested in "
         </div>
   </div>
         <div style="font-size:14px;margin-top:10px;padding:5px;cursor:pointer;background-color:#CCCCCC;width:100px;text-align:center;" class="b">
@@ -4526,16 +4512,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2019-Hyundai-Sonata-c28702" title="2019 Hyundai Sonata">2019 Hyundai Sonata</a>
           </td>
 
-          <td data-order="15">
-            15 Great Deals
+          <td data-order="9">
+            9 Great Deals
           </td>
 
-          <td data-order="12745">
-            $12,745
+          <td data-order="12930">
+            $12,930
           </td>
 
-          <td data-order="20139">
-            20,139 listings
+          <td data-order="19417">
+            19,417 listings
           </td>
 
         </tr>
@@ -4546,16 +4532,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2018-Hyundai-Sonata-c27026" title="2018 Hyundai Sonata">2018 Hyundai Sonata</a>
           </td>
 
-          <td data-order="39">
-            39 Great Deals
+          <td data-order="42">
+            42 Great Deals
           </td>
 
-          <td data-order="11900">
-            $11,900
+          <td data-order="11888">
+            $11,888
           </td>
 
-          <td data-order="1394">
-            1,394 listings
+          <td data-order="1492">
+            1,492 listings
           </td>
 
         </tr>
@@ -4566,16 +4552,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2017-Hyundai-Sonata-c26098" title="2017 Hyundai Sonata">2017 Hyundai Sonata</a>
           </td>
 
-          <td data-order="57">
-            57 Great Deals
+          <td data-order="67">
+            67 Great Deals
           </td>
 
           <td data-order="7950">
             $7,950
           </td>
 
-          <td data-order="2733">
-            2,733 listings
+          <td data-order="3036">
+            3,036 listings
           </td>
 
         </tr>
@@ -4586,16 +4572,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2016-Hyundai-Sonata-c24889" title="2016 Hyundai Sonata">2016 Hyundai Sonata</a>
           </td>
 
-          <td data-order="137">
-            137 Great Deals
+          <td data-order="136">
+            136 Great Deals
           </td>
 
-          <td data-order="6495">
-            $6,495
+          <td data-order="5998">
+            $5,998
           </td>
 
-          <td data-order="3840">
-            3,840 listings
+          <td data-order="3802">
+            3,802 listings
           </td>
 
         </tr>
@@ -4606,16 +4592,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2015-Hyundai-Sonata-c24420" title="2015 Hyundai Sonata">2015 Hyundai Sonata</a>
           </td>
 
-          <td data-order="94">
-            94 Great Deals
+          <td data-order="114">
+            114 Great Deals
           </td>
 
-          <td data-order="5495">
-            $5,495
+          <td data-order="4995">
+            $4,995
           </td>
 
-          <td data-order="2630">
-            2,630 listings
+          <td data-order="2715">
+            2,715 listings
           </td>
 
         </tr>
@@ -4626,16 +4612,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2014-Hyundai-Sonata-c24237" title="2014 Hyundai Sonata">2014 Hyundai Sonata</a>
           </td>
 
-          <td data-order="50">
-            50 Great Deals
+          <td data-order="48">
+            48 Great Deals
           </td>
 
-          <td data-order="4990">
-            $4,990
+          <td data-order="4995">
+            $4,995
           </td>
 
-          <td data-order="905">
-            905 listings
+          <td data-order="965">
+            965 listings
           </td>
 
         </tr>
@@ -4646,16 +4632,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2013-Hyundai-Sonata-c23247" title="2013 Hyundai Sonata">2013 Hyundai Sonata</a>
           </td>
 
-          <td data-order="53">
-            53 Great Deals
+          <td data-order="66">
+            66 Great Deals
           </td>
 
-          <td data-order="3500">
-            $3,500
+          <td data-order="3650">
+            $3,650
           </td>
 
-          <td data-order="1674">
-            1,674 listings
+          <td data-order="1703">
+            1,703 listings
           </td>
 
         </tr>
@@ -4666,16 +4652,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2012-Hyundai-Sonata-c22974" title="2012 Hyundai Sonata">2012 Hyundai Sonata</a>
           </td>
 
-          <td data-order="32">
-            32 Great Deals
+          <td data-order="38">
+            38 Great Deals
           </td>
 
-          <td data-order="2900">
-            $2,900
+          <td data-order="3750">
+            $3,750
           </td>
 
-          <td data-order="953">
-            953 listings
+          <td data-order="992">
+            992 listings
           </td>
 
         </tr>
@@ -4686,16 +4672,16 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             <a href="/Cars/l-Used-2011-Hyundai-Sonata-c22037" title="2011 Hyundai Sonata">2011 Hyundai Sonata</a>
           </td>
 
-          <td data-order="47">
-            47 Great Deals
+          <td data-order="48">
+            48 Great Deals
           </td>
 
-          <td data-order="2000">
-            $2,000
+          <td data-order="3300">
+            $3,300
           </td>
 
-          <td data-order="1474">
-            1,474 listings
+          <td data-order="1535">
+            1,535 listings
           </td>
 
         </tr>
@@ -4710,12 +4696,12 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
             5 Great Deals
           </td>
 
-          <td data-order="1500">
-            $1,500
+          <td data-order="1595">
+            $1,595
           </td>
 
-          <td data-order="181">
-            181 listings
+          <td data-order="188">
+            188 listings
           </td>
 
         </tr>
@@ -4743,7 +4729,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
               <div>
 
 
-      600 Great Deals out of 48,264 listings starting at <span class="nowrap">$999</span>
+      704 Great Deals out of 50,241 listings starting at <span class="nowrap">$1,495</span>
 
               </div>
             </td>
@@ -4760,7 +4746,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
               <div>
 
 
-      863 Great Deals out of 68,176 listings starting at <span class="nowrap">$999</span>
+      916 Great Deals out of 67,533 listings starting at <span class="nowrap">$799</span>
 
               </div>
             </td>
@@ -4777,7 +4763,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
               <div>
 
 
-      997 Great Deals out of 70,898 listings starting at <span class="nowrap">$699</span>
+      1,061 Great Deals out of 71,665 listings starting at <span class="nowrap">$1,000</span>
 
               </div>
             </td>
@@ -4804,35 +4790,35 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2019-Hyundai-Sonata-c28702">2019 Hyundai Sonata</a>
-        <div>149 listings starting at $12,745</div>
+        <div>177 listings starting at $12,930</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2018-Hyundai-Sonata-c27026">2018 Hyundai Sonata</a>
-        <div>265 listings starting at $11,900</div>
+        <div>275 listings starting at $11,888</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2017-Hyundai-Sonata-c26098">2017 Hyundai Sonata</a>
-        <div>352 listings starting at $7,950</div>
+        <div>427 listings starting at $7,950</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2016-Hyundai-Sonata-c24889">2016 Hyundai Sonata</a>
-        <div>577 listings starting at $6,495</div>
+        <div>559 listings starting at $5,998</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2015-Hyundai-Sonata-c24420">2015 Hyundai Sonata</a>
-        <div>140 listings starting at $5,495</div>
+        <div>148 listings starting at $4,995</div>
       </td>
 
       
@@ -4856,7 +4842,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <td style="width:33.333333333333%">
               <a href="/Cars/new/nl-New-Hyundai-Sonata-d96" title="2019 Hyundai Sonata">2019 Hyundai Sonata</a>
               <div>
-                    20,139 listings
+                    19,417 listings
               </div>
           </td>
           
@@ -4886,7 +4872,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      14 Great Deals out of 569 listings starting at <span class="nowrap">$2,100</span>
+      11 Great Deals out of 579 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4901,7 +4887,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      11 Great Deals out of 469 listings starting at <span class="nowrap">$2,100</span>
+      9 Great Deals out of 485 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4916,7 +4902,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      11 Great Deals out of 479 listings starting at <span class="nowrap">$2,100</span>
+      9 Great Deals out of 513 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4931,7 +4917,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      12 Great Deals out of 409 listings starting at <span class="nowrap">$2,550</span>
+      6 Great Deals out of 418 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4946,7 +4932,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      15 Great Deals out of 621 listings starting at <span class="nowrap">$2,100</span>
+      11 Great Deals out of 648 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4961,7 +4947,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      8 Great Deals out of 382 listings starting at <span class="nowrap">$2,100</span>
+      7 Great Deals out of 402 listings starting at <span class="nowrap">$1,892</span>
 
           </div>
         </td>
@@ -4976,7 +4962,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      9 Great Deals out of 277 listings starting at <span class="nowrap">$2,550</span>
+      4 Great Deals out of 273 listings starting at <span class="nowrap">$2,495</span>
 
           </div>
         </td>
@@ -4991,7 +4977,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      15 Great Deals out of 678 listings starting at <span class="nowrap">$1,700</span>
+      12 Great Deals out of 699 listings starting at <span class="nowrap">$1,700</span>
 
           </div>
         </td>
@@ -5006,7 +4992,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
           <div>
 
 
-      271 listings starting at <span class="nowrap">$2,999</span>
+      4 Great Deals out of 285 listings starting at <span class="nowrap">$2,800</span>
 
           </div>
         </td>
@@ -5034,7 +5020,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
                         <a href="/Cars/lp/search-Hyundai-Sonata-automatic-sc1_d96" title="Used Hyundai Sonata With Automatic Transmission">Used Hyundai Sonata With Automatic Transmission</a>
                         <div>
 
-      549 Great Deals out of 17,070 listings starting at <span class="nowrap">$595</span>
+      572 Great Deals out of 17,557 listings starting at <span class="nowrap">$300</span>
 
 </div>
                     </td>
@@ -5050,7 +5036,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
                         <a href="/Cars/lp/search-Hyundai-Sonata-manual-sc2_d96" title="Used Hyundai Sonata With Manual Transmission">Used Hyundai Sonata With Manual Transmission</a>
                         <div>
 
-      4 Great Deals out of 117 listings starting at <span class="nowrap">$1,300</span>
+      3 Great Deals out of 126 listings starting at <span class="nowrap">$1,300</span>
 
 </div>
                     </td>
@@ -5087,17 +5073,17 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
         <div class="footer--social_bar-mobile hasBbbBadge">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5169,17 +5155,17 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
                 <div class="footer--social_bar-desktop">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5193,13 +5179,12 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
 
           <div class="row">
   <div class="locale-picker">
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="English" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <i class="fas fa-globe-americas"></i>
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="languagePicker" title="English" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
       English
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="languagePicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5214,13 +5199,13 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
       </div>
     </div>
   </div>
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="United States" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="countryPicker" title="United States" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
         <i class="flag-icon flag-icon-us"></i>
       United States
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="countryPicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5286,10 +5271,10 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
   <div id="devInfo" class="hidden" style="display: none;"
        data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
        data-sentry-integrated="true"
-       data-server-host-name="prod-bos2-www-24.dc.c-gurus.com"
+       data-server-host-name="prod-bos2-www-19.dc.c-gurus.com"
        data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
        data-action-method="viewDetailsFilterView"
-       data-build-id="site-cars-25095"
+       data-build-id="site-cars-25300"
        data-template="/inventorylisting/viewDetailsFilterView.ftl"
        data-view-version="_DEFAULT_"
        data-production="true">
@@ -5305,38 +5290,42 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
 
 
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js')" nomodule
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js')" nomodule
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js')" 
 ></script>
 
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js')" 
 ></script>
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js')" 
 ></script>
 
 
 
-      <script src="https://static.cargurus.com/bundles/js/ads.entry_3e269c6214c73e8450b1a8ed06b532d7.js" type="text/javascript" async="async"></script>
+      <script src="https://static.cargurus.com/bundles/js/ads.entry_2858a41b2eb82011ed90ff28c190a8b7.js" type="text/javascript" async="async"></script>
 
 
       
@@ -5347,7 +5336,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
       cgDataLayer.baseData['CGLocale']="ENGLISH";
       cgDataLayer.baseData['Locale']='en_US';
       cgDataLayer.baseData['Country']='UNITED_STATES';
-    cgDataLayer.baseData['UUID']="Kxt0-50.245.49.123.1568840503419";
+    cgDataLayer.baseData['UUID']="qG8C-2601:196:4901:33d:14c7:c0f2:d196:a5f1.1569904953058";
       cgDataLayer.baseData['EnType']='MODEL';
         cgDataLayer.baseData['Make'] = "Hyundai";
         cgDataLayer.baseData['Model'] = "Sonata";
@@ -5474,7 +5463,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
 
 
     window.listingsSearchDisplayAdMetadata = {
-        firstPageHasCpoCars: false
+        firstPageHasCpoCars: true
     };
     window.listingsSearchManager = new ListingsSearchManager({
         isFeaturedListingsEnabled : true,
@@ -5580,7 +5569,7 @@ Enjoyed working with Dennis &amp;  still interested in the Porsche"
     var priceDropFilter = new CG.Inventory.Filters.PriceDropFilter(false);
     listingsSearchManager.registerFilter(priceDropFilter);
 
-      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568840503501);
+      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1569904953149);
       listingsSearchManager.registerFilter(sinceLastVisitFilter);
 
       var accidentsFilter = new CG.Inventory.Filters.AccidentsFilter(hideAccidents);
@@ -6441,24 +6430,30 @@ saveSearchAndSubscription_overview(email, useSavedSearch);
       </script>
 
       <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            var seoReadMore = document.querySelector('.seo-read-more');
-            var readMoreButton = document.querySelector('.btn-read-more');
+        function handleSeoReadMoreLink() {
+          var seoReadMore = document.querySelector('.seo-read-more');
+          var readMoreButton = document.querySelector('.btn-read-more');
 
-            if (readMoreButton) {
-              readMoreButton.onclick = function(e) {
-                e.preventDefault();
+          if (readMoreButton) {
+            readMoreButton.onclick = function(e) {
+              e.preventDefault();
 
-                if (seoReadMore.classList.contains('expanded')) {
-                  seoReadMore.classList.remove('expanded');
-                  readMoreButton.innerHTML = 'Read More';
-                } else {
-                  seoReadMore.classList.add('expanded');
-                  readMoreButton.innerHTML = 'Read Less';
-                }
+              if (seoReadMore.classList.contains('expanded')) {
+                seoReadMore.classList.remove('expanded');
+                readMoreButton.innerHTML = 'Read More';
+              } else {
+                seoReadMore.classList.add('expanded');
+                readMoreButton.innerHTML = 'Read Less';
               }
             }
-        });
+          }
+        }
+
+        if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) {
+          handleSeoReadMoreLink();
+        } else {
+          document.addEventListener('DOMContentLoaded', handleSeoReadMoreLink);
+        }
             </script>
 
       <script>

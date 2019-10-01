@@ -15,19 +15,6 @@
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','googleTagDataLayer','GTM-PMJ79F');
   </script>
-    <script type="text/javascript">
-          window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(23),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{p?p-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(24),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(p+=1)}),s.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,j=y.hash,this[u]=x.now()}function o(){M--,y.hash!==j&&i(0,!0);var t=x.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=x.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,l="cb"+s,p="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,x=t("loader");if(w[v]&&x.xhrWrappable){var g=t(10),b=t(11),E=t(8),R=t(6),O=t(13),C=t(7),P=t(14),T=t(9),L=t("ee"),S=L.get("tracer");t(16),x.features.spa=!0;var j,M=0;L.on(u,r),L.on(l,r),L.on(d,o),L.on(p,o),L.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),C.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",l,p,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(L,"xhr-resolved"),a(L,"xhr-done"),a(C,m+s),a(C,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",x=t("loader");x.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=x.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,x.now()])}),a.on(m,function(t,e,n){this.bstStart=x.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),this.bstType])}),s.on(m,function(){this.bstStart=x.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=x.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(26)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(23);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,l=a.fetch,p="prototype";u&&d&&l&&(i(f,function(t,e){r(u[p],e,c),r(d[p],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(26)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],l),c.emit("jsonp-end",[],l),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var l={};f.inPlace(u.parent,[u.key],"cb-",l),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(26)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,p=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,p,"dom-"),f.inPlace(HTMLHeadElement.prototype,p,"dom-"),f.inPlace(HTMLBodyElement.prototype,p,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(26)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(26),a=t("ee").get("promise"),s=i(a),c=t(23),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(26)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(26)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(26)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM,e=t.info.accountID||null,n=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!e||!n||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:e,ap:n,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&e!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(21);e.exports={generateTraceHeader:r}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&e.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<p;a++)e.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(23),s=t(24),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],22:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],26:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(24),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[x[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",x[n]=e,e in u||(u[e]=[])})}var y={},x={},g={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(23),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(23),u=t("ee"),d=t(22),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1123.min.js"},g=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:g,userAgent:d};t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(25)},{}]},{},["loader",2,16,5,3,4]);
-          ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"fe3008aef1",applicationID:"279386539",sa:1}
-
-          if (typeof newrelic === 'object') {
-            newrelic.setCustomAttribute('release', "site-cars-25095");
-            newrelic.setCustomAttribute('viewversion', "_DEFAULT_");
-            newrelic.setCustomAttribute('hostname', "prod-bos2-www-30.dc.c-gurus.com");
-            newrelic.setCustomAttribute('template', "/inventorylisting/viewDetailsFilterView.ftl");
-            newrelic.setCustomAttribute('deploymentloc', "bos2");
-            newrelic.setCustomAttribute('uuid', "grfs-50.245.49.123.1568840607500");
-          }
-        </script>
 <script type="text/javascript">
   window.startTime = (new Date).getTime();
   
@@ -73,8 +60,8 @@
     }
     </script>
 
-    <title>Used Volkswagen Passat For Sale - CarGurus</title>
-    <meta name="description" content="Save $3,637 on a used Volkswagen Passat near you. Search over 14,000 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
+    <title>Used Volkswagen Passat for Sale (with Photos) - CarGurus</title>
+    <meta name="description" content="Save $4,182 on a used Volkswagen Passat near you. Search over 14,800 listings to find the best Quincy, MA deals. We analyze millions of used cars daily." >
         <meta name="keywords" content="Volkswagen Passat,Volkswagen,Passat">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -98,21 +85,21 @@
         data-logged-in="false"
         data-mobile-app="false"
         data-production="true"
-        data-seo-experiments='{"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"OPERATION_WELP_GETS_INDEXED":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"OPERATION_RECURRING_CONDTION":-1,"SEO_BATCH_2":-1}' 
+        data-seo-experiments='{"OPERATION_RECURRING_CONDITION":-1,"SEO_TITLE_TESTS_MOBILE":-1,"SEO_TITLE_TESTS":-1,"SEO_BATCH_2_MOBILE":-1,"SEO_BATCH_3_TITLES":-1,"SEO_TEST_PROOF_OF_CONCEPT":-1,"SEO_BATCH_3_TITLES_MOBILE":-1,"SEO_BATCH_2":-1}' 
         data-service-name="Cars"
-        data-uuid="grfs-50.245.49.123.1568840607500"
+        data-uuid="lqN3-2601:196:4901:33d:b5d7:7040:83ee:e5b3.1569904982370"
         data-view-versions="[&quot;_DEFAULT_&quot;]"
     >
 
     <meta name="devInfo"
         data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
         data-action-method="viewDetailsFilterView"
-        data-build-id="site-cars-25095"
+        data-build-id="site-cars-25300"
         data-deploymentloc="bos2"
         data-production="true"
             data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
         data-sentry-integrated="true"
-        data-server-host-name="prod-bos2-www-30.dc.c-gurus.com"
+        data-server-host-name="prod-bos2-www-54.dc.c-gurus.com"
         data-template="/inventorylisting/viewDetailsFilterView.ftl"
         data-view-version="_DEFAULT_"
     >
@@ -128,16 +115,17 @@
   
 
   
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.df695d5c8b485c6259a2c6cd78aebb66.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.db4b2289d549c1bec72f6847d705676f.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_ext_global.entry.12ca5009f4d29e44e59e6a33767791aa.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_globalV2.entry.246ba8905bc7200000159c9ccee0fd3c.css">
 
   <link rel='stylesheet' href="https://static.cargurus.com/css/site/core/cg-highres.css?v=-430879965_157" media="only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2)" />
 
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.4d9acd279f806550ffba055b8f5c9830.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_site_dealfinder.entry.e55c971ddba55ff409a1e0d6dc62f656.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/contact_a_dealer.entry.fbe06a93da0ed276d6520bf1cbd37197.css">
         <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_financing_prequal.entry.bfb16965ce36c8cdf375b95984df0288.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.65a526010bea826c8908e453a70e8185.css">
-        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.d637b5afd5202e7a445fa88a8a676c76.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/cg_instant_offer.entry.8fe91bc48c15e0d4431d827de34cf380.css">
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.cargurus.com/bundles/css/financing.entry.9e5e647423e7c9171f4050014da48fc8.css">
 
 
 <!--[if lt IE 9]>
@@ -943,7 +931,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-7921590"
+            id="select-27195365"
             >
         <option value="-1">All Makes</option>
 
@@ -1004,7 +992,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -1018,13 +1005,11 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -1035,7 +1020,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -1062,6 +1046,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -1079,7 +1064,6 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -1089,6 +1073,7 @@ adPageTargeting: { "dma": "none", "mobileSite": "false", "sZipUS": "none", "adse
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -1153,11 +1138,11 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="d196">EuroVan</option> 
 <option  value="d197">Fox</option> 
 <option  value="d1519">GLI</option> 
-<option  value="d1462">Gol</option> 
 <option  value="d2936">Jetta Hybrid</option> 
 <option  value="d1540">Karmann Ghia</option> 
 <option  value="d913">Microbus</option> 
 <option  value="d203">Phaeton</option> 
+<option  value="d2689">Pickup</option> 
 <option  value="d204">R32</option> 
 <option  value="d1971">Super Beetle</option> 
 <option  value="d1583">Thing</option> 
@@ -2291,7 +2276,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
             style="width: 260px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="true" cg-data-useInventoryService="false" cg-data-name="entitySelectingHelper.selectedEntity" cg-data-quotableOnly="true" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="true"             cg-name="ign-makerId-entitySelectingHelper.selectedEntity"
-            id="select-7587562"
+            id="select-83020746"
             >
         <option value="-1">All Makes</option>
 
@@ -2300,6 +2285,7 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
       
 <option  value="m4">Acura</option> 
 <option  value="m124">Alfa Romeo</option> 
+<option  value="m110">Aston Martin</option> 
 <option  value="m19">Audi</option> 
 <option  value="m20">Bentley</option> 
 <option  value="m3">BMW</option> 
@@ -2308,7 +2294,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2348,7 +2333,6 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m24">Dodge</option> 
-<option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m2">Ford</option> 
 <option  value="m203">Genesis</option> 
@@ -2383,8 +2367,8 @@ cg-data-yearDropdownHeading="All" cg-data-trimDropdownHeading="Select Trim" cg-d
     <script>
         (function () {
           var onloadFunction = function () {
-            var firstOptionValue = $("select[id='select-7587562'] option:first").val();
-            $("select[id='select-7587562']").val(firstOptionValue);
+            var firstOptionValue = $("select[id='select-83020746'] option:first").val();
+            $("select[id='select-83020746']").val(firstOptionValue);
           };
           if (document.readyState !== 'loading') {
             onloadFunction();
@@ -2844,9 +2828,9 @@ Volkswagen Jetta
     <input type="checkbox" id="relatedCheckboxd585" class="relatedCheckbox" name="relatedCheckboxd585" onclick="addModelListings('d585', 0, 0, true, false, event);" value="d585">
 Honda Accord
 </label>
-<label for="relatedCheckboxd2014" title="Add Volkswagen CC to search results.">
-    <input type="checkbox" id="relatedCheckboxd2014" class="relatedCheckbox" name="relatedCheckboxd2014" onclick="addModelListings('d2014', 0, 0, true, false, event);" value="d2014">
-Volkswagen CC
+<label for="relatedCheckboxd292" title="Add Toyota Camry to search results.">
+    <input type="checkbox" id="relatedCheckboxd292" class="relatedCheckbox" name="relatedCheckboxd292" onclick="addModelListings('d292', 0, 0, true, false, event);" value="d292">
+Toyota Camry
 </label>
       <div id="similarModelClear"></div> 
       <button class="btn btn-primary btn-small" style="margin-top:10px;" title="Click here to add specific cars to your search results" onclick="showAddModelsToSearchResults();">More cars</button>
@@ -2893,7 +2877,7 @@ Volkswagen CC
             style="width: 169px;"
             
  cg-data-showInactive="false" cg-data-newCarsOnly="false" cg-data-useInventoryService="true" cg-data-name="addModelsToSearchSelectedEntity" cg-data-includeAllModelsOption="false" cg-data-carsWithRegressionOnly="false" cg-data-groupByPopularity="false"             cg-name="ign-makerId-addModelsToSearchSelectedEntity"
-            id="select-65327417"
+            id="select-62879747"
             >
         <option value="-1">Select Make</option>
 
@@ -2914,7 +2898,6 @@ Volkswagen CC
 <option  value="m113">Bugatti</option> 
 <option  value="m21">Buick</option> 
 <option  value="m22">Cadillac</option> 
-<option  value="m149">Caterham</option> 
 <option  value="m1">Chevrolet</option> 
 <option  value="m23">Chrysler</option> 
 <option  value="m117">Citroen</option> 
@@ -2928,13 +2911,11 @@ Volkswagen CC
 <option  value="m24">Dodge</option> 
 <option  value="m82">Eagle</option> 
 <option  value="m174">Edsel</option> 
-<option  value="m198">Excalibur</option> 
 <option  value="m226">Facel Vega</option> 
 <option  value="m25">Ferrari</option> 
 <option  value="m98">FIAT</option> 
 <option  value="m183">Fisker</option> 
 <option  value="m2">Ford</option> 
-<option  value="m216">Franklin</option> 
 <option  value="m99">Freightliner</option> 
 <option  value="m246">Gardner</option> 
 <option  value="m203">Genesis</option> 
@@ -2945,7 +2926,6 @@ Volkswagen CC
 <option  value="m27">Hummer</option> 
 <option  value="m28">Hyundai</option> 
 <option  value="m84">INFINITI</option> 
-<option  value="m241">Intermeccanica</option> 
 <option  value="m158">International Harvester</option> 
 <option  value="m253">Iso</option> 
 <option  value="m30">Isuzu</option> 
@@ -2972,6 +2952,7 @@ Volkswagen CC
 <option  value="m102">MG</option> 
 <option  value="m45">MINI</option> 
 <option  value="m46">Mitsubishi</option> 
+<option  value="m255">Mobility Ventures</option> 
 <option  value="m150">Morgan</option> 
 <option  value="m151">Morris</option> 
 <option  value="m199">Nash</option> 
@@ -2989,7 +2970,6 @@ Volkswagen CC
 <option  value="m191">Ram</option> 
 <option  value="m106">Renault</option> 
 <option  value="m49">Rolls-Royce</option> 
-<option  value="m131">Rover</option> 
 <option  value="m50">Saab</option> 
 <option  value="m108">Saleen</option> 
 <option  value="m51">Saturn</option> 
@@ -2999,6 +2979,7 @@ Volkswagen CC
 <option  value="m111">smart</option> 
 <option  value="m143">Spyker</option> 
 <option  value="m194">SRT</option> 
+<option  value="m239">Stewart & Stevenson</option> 
 <option  value="m164">Studebaker</option> 
 <option  value="m53">Subaru</option> 
 <option  value="m132">Sunbeam-Talbot</option> 
@@ -3048,7 +3029,6 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d196">EuroVan</option> 
 <option  value="d197">Fox</option> 
 <option  value="d1519">GLI</option> 
-<option  value="d1462">Gol</option> 
 <option  value="d198">Golf</option> 
 <option  value="d2437">Golf Alltrack</option> 
 <option  value="d2131">Golf R</option> 
@@ -3062,6 +3042,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 <option  value="d913">Microbus</option> 
 <option  value="d202">Passat</option> 
 <option  value="d203">Phaeton</option> 
+<option  value="d2689">Pickup</option> 
 <option  value="d204">R32</option> 
 <option  value="d839">Rabbit</option> 
 <option  value="d1522">Routan</option> 
@@ -3085,13 +3066,13 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 </table>
 
 
-<div id="carPicker-11606583">
+<div id="carPicker-48814971">
 <script>
   (function () {
     var onloadFunction = function () {
   if (typeof CG === 'object' && CG !== null && CG.hasOwnProperty('CarPicker')) {
     CG.CarPicker.createInstance(
-      "carPicker-11606583",
+      "carPicker-48814971",
       "addModelsToSearchSelectedEntity",
       "",
       "",
@@ -3119,7 +3100,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
 
 
 
-<input type="hidden" name="addModelsToSearchSelectedEntity" value="d202" id="carPicker-11606583addModelsToSearchSelectedEntity"/>
+<input type="hidden" name="addModelsToSearchSelectedEntity" value="d202" id="carPicker-48814971addModelsToSearchSelectedEntity"/>
 
 
 
@@ -3147,7 +3128,7 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
         <div style="padding:10px;">
 <div>
     <div class="filterHeader" style="padding:0 0 5px 0">
-    2000 Volkswagen Passat GLS V6 Review
+    1989 Volkswagen Passat Review
     </div>
 
     <div class="smallRating">
@@ -3155,26 +3136,21 @@ cg-data-yearDropdownHeading="Select Year" cg-data-trimDropdownHeading="Select Tr
             <tr>
                 <td><div class="cg-rating-wrap clearfix">
     <div class="ratingValue">
-<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>    </div>
+<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>    </div>
 </div>
 </td>
                 <td>
-                  by Bink
+                  by Antti
                 </td>
             </tr>
         </table>
     </div>
 
     <p class="b">
-        <span class="leftQuote">&ldquo;</span>My Love Affair with my 2000 Passat- Johann Sebastian Passat<span class="rightQuote">&rdquo;</span>
+        <span class="leftQuote">&ldquo;</span>VW Passat 35i<span class="rightQuote">&rdquo;</span>
     </p>
     <p>
-      This was my first grown- up car, but let me stress not too grown up.
-As an Architect  the design is very important to me. 
-The car is beautifully, simple modern, tight and lovely.
-VW has left me in a bind as the new Passats are bit frumpy & too soft in the ride- no longer just grown up, but middle age.
-
-The 2000 is comfortable for long road trip an...
+      Basic, good car. Nothing bad to say about it. Except the 1.6 engine, which sucked. Way too underdimensioned for the size of the car. It was good to drive. Corrosion was a minor problem. Some electric faults showed up and minor technic problems.
     </p>
 </div>
         </div>
@@ -3385,14 +3361,14 @@ The 2000 is comfortable for long road trip an...
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/26/20/50/2018_volkswagen_passat-pic-2034740780751027767-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/26/20/50/2018_volkswagen_passat-pic-2034740780751027767-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/07/09/07/59/2013_volkswagen_passat-pic-1276737476426460412-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/09/07/59/2013_volkswagen_passat-pic-1276737476426460412-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2018 Volkswagen Passat</span>
+            <span itemprop="name">2013 Volkswagen Passat TDI SEL Premium</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Walpole, MA 02067</span>
+          <span>Dartmouth, MA 02747</span>
 
       </h4>
 
@@ -3416,50 +3392,186 @@ The 2000 is comfortable for long road trip an...
 
           Great Deal
         </div>
-  <div class="b greenText">$2,391 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $18,371</span>
+  <div class="b greenText">$2,875 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,375</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="15980">$15,980</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11500">$11,500</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>5,464</span></p>
+            <p><strong>Mileage:</strong> <span>35,418</span></p>
 
-          <p><strong>Location:</strong> Walpole, MA 02067</p>
+          <p><strong>Location:</strong> Dartmouth, MA 02747</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          36 days
+          28 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Tungsten Silver Metallic
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2013 Volkswagen Passat TDI SEL Premium for sale
+- $11,500, 35,418 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                Aluminum Wheels, 
+                Remote Start, 
+                Navigation System
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.1 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="3.1 out of 5 stars" ></i>              (25 reviews)
+              "Great service. Walked in knowing what I was looking for and walked out with a car.."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/08/15/19/31/2013_volkswagen_passat-pic-13901142796697774-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/15/19/31/2013_volkswagen_passat-pic-13901142796697774-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2013 Volkswagen Passat SEL</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Lynn, MA 01905</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,419 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,611</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="7192">$7,192</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>77,899</span></p>
+
+          <p><strong>Location:</strong> Lynn, MA 01905</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Silver
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2013 Volkswagen Passat SEL for sale
+- $7,192, 77,899 miles          with                 Bluetooth
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (17 reviews)
+              "Very helpful"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/20/21/19/2015_volkswagen_passat-pic-3995084385000695773-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/20/21/19/2015_volkswagen_passat-pic-3995084385000695773-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2015 Volkswagen Passat Limited Edition</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Merrimack, NH 03054</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,019 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,110</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="7091">$7,091</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>111,722</span></p>
+
+          <p><strong>Location:</strong> Merrimack, NH 03054</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          22 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>White
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2018 Volkswagen Passat for sale
-- $15,980, 5,464 miles          with                 Backup Camera, 
+          Used 2015 Volkswagen Passat Limited Edition for sale
+- $7,091, 111,722 miles          with                 Bluetooth, 
+                Backup Camera, 
                 Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (58 reviews)
-              "Answered my questions, quick and helpful"
+<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (22 reviews)
+              "Good"
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/13/09/48/2014_volkswagen_passat_se_w__sunroof_1_8-pic-8174925008582387218-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/09/48/2014_volkswagen_passat_se_w__sunroof_1_8-pic-8174925008582387218-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/01/19/22/15/2016_volkswagen_passat-pic-8373099286948580332-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/01/19/22/15/2016_volkswagen_passat-pic-8373099286948580332-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2014 Volkswagen Passat SE w/ Sunroof 1.8</span>
+            <span itemprop="name">2016 Volkswagen Passat 1.8T SE</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>South Hamilton,  01982</span>
+          <span>Danvers, MA 01923</span>
 
       </h4>
 
@@ -3483,104 +3595,111 @@ The 2000 is comfortable for long road trip an...
 
           Great Deal
         </div>
-  <div class="b greenText">$948 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,748</span>
+  <div class="b greenText">$2,021 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,018</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="7800">$7,800</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="12997">$12,997</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>94,000</span></p>
+            <p><strong>Mileage:</strong> <span>35,872</span></p>
 
-          <p><strong>Location:</strong> South Hamilton,  01982</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Tungsten Silver
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2014 Volkswagen Passat SE w/ Sunroof 1.8 for sale
-- $7,800, 94,000 miles          with                 Bluetooth, 
-                Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof
-
-        </span>
-      </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/08/08/57/2014_volkswagen_passat-pic-4390101397846977469-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/08/08/57/2014_volkswagen_passat-pic-4390101397846977469-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2014 Volkswagen Passat Wolfsburg Edition 1.8</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Brockton, MA 02301</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Great Deal
-        </div>
-  <div class="b greenText">$1,710 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,450</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="7740">$7,740</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>85,893</span></p>
-
-          <p><strong>Location:</strong> Brockton, MA 02301</p>
+          <p><strong>Location:</strong> Danvers, MA 01923</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          24 days
+          33 days
             <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Black
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Titanium Beige
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2014 Volkswagen Passat Wolfsburg Edition 1.8 for sale
-- $7,740, 85,893 miles          with                 Alloy Wheels
+          Used 2016 Volkswagen Passat 1.8T SE for sale
+- $12,997, 35,872 miles          with                 Bluetooth, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                Adaptive Cruise Control
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.8 out of 5 stars" aria-hidden="true" ></i>              (6 reviews)
-              "Awesome company very prompt and friendly but unfortunately my current financial difficulties set me back so unable to purchase "
+<i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.4 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (22 reviews)
+              "Awesome experience. I recommend using them!"
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/02/16/41/2015_volkswagen_passat-pic-1996135038447242176-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/02/16/41/2015_volkswagen_passat-pic-1996135038447242176-152x114.jpeg</span>
+          <img style="width:152px;" src="https://static1.cargurus.com/gfx/cg/noImageAvailable_150x113.png" itemprop="image"/><span class="invisibleLayer">https://static1.cargurus.com/gfx/cg/noImageAvailable_150x113.png</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2016 Volkswagen Passat 1.8T SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Lawrence, MA 01841</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$2,133 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,606</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="12473">$12,473</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>49,568</span></p>
+
+          <p><strong>Location:</strong> Lawrence, MA 01841</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          33 days
+            <strong>Certified Pre-Owned:</strong> Yes
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Titanium Beige
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2016 Volkswagen Passat 1.8T SE for sale
+- $12,473, 49,568 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                Adaptive Cruise Control, 
+                Alloy Wheels
+
+        </span>
+      </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/02/16/41/2015_volkswagen_passat-pic-4636600931868687268-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/02/16/41/2015_volkswagen_passat-pic-4636600931868687268-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
@@ -3611,8 +3730,8 @@ The 2000 is comfortable for long road trip an...
 
           Great Deal
         </div>
-  <div class="b greenText">$1,704 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,699</span>
+  <div class="b greenText">$1,730 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,725</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
@@ -3625,7 +3744,7 @@ The 2000 is comfortable for long road trip an...
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          39 days
+          40 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
             <strong>Color: </strong>Blue
@@ -3651,14 +3770,14 @@ AAA+++"
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2018/10/25/18/35/2014_volkswagen_passat-pic-3978835342250911417-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2018/10/25/18/35/2014_volkswagen_passat-pic-3978835342250911417-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/23/19/46/2014_volkswagen_passat-pic-442213581744719297-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/23/19/46/2014_volkswagen_passat-pic-442213581744719297-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2014 Volkswagen Passat TDI SEL Premium</span>
+            <span itemprop="name">2014 Volkswagen Passat SE 1.8</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>North Attleboro, MA 02760</span>
+          <span>Attleboro, MA 02703</span>
 
       </h4>
 
@@ -3682,192 +3801,47 @@ AAA+++"
 
           Great Deal
         </div>
-  <div class="b greenText">$1,539 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $15,019</span>
+  <div class="b greenText">$2,016 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,015</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="13480">$13,480</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11999">$11,999</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>36,284</span></p>
+            <p><strong>Mileage:</strong> <span>27,244</span></p>
 
-          <p><strong>Location:</strong> North Attleboro, MA 02760</p>
+          <p><strong>Location:</strong> Attleboro, MA 02703</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          21 days
+          27 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Tungsten Silve
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2014 Volkswagen Passat TDI SEL Premium for sale
-- $13,480, 36,284 miles          with                 Bluetooth, 
-                Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof, 
-                Remote Start, 
-                Navigation System
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (7 reviews)
-              "The vehicle sold and I was quickly informed"
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/04/24/16/57/2012_volkswagen_passat-pic-2007707940549919559-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/04/24/16/57/2012_volkswagen_passat-pic-2007707940549919559-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2012 Volkswagen Passat V6 SEL Premium</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Haverhill, MA 01830</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,297 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,793</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="8495.990234375">$8,496</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>90,730</span></p>
-
-          <p><strong>Location:</strong> Haverhill, MA 01830</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Dual Clutch
             <strong>Color: </strong>Gray
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2012 Volkswagen Passat V6 SEL Premium for sale
-- $8,496, 90,730 miles          with                 Bluetooth, 
-                Sunroof/Moonroof, 
-                Navigation System, 
-                Alloy Wheels
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="5 out of 5 stars" aria-hidden="true" ></i>              (2 reviews)
-              "Excellent on  Quality on customer service "
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/20/20/44/2014_volkswagen_passat-pic-541850204298317414-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/20/20/44/2014_volkswagen_passat-pic-541850204298317414-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2014 Volkswagen Passat SEL Premium</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Auburn, MA 01501</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,379 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $13,880</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="12501">$12,501</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>40,631</span></p>
-
-          <p><strong>Location:</strong> Auburn, MA 01501</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          19 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2014 Volkswagen Passat SEL Premium for sale
-- $12,501, 40,631 miles          with                 Bluetooth, 
+          Used 2014 Volkswagen Passat SE 1.8 for sale
+- $11,999, 27,244 miles          with                 Bluetooth, 
                 Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof, 
-                Navigation System, 
+                SE Package, 
                 Alloy Wheels
 
         </span>
       </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (27 reviews)
-              "Kept sending. &quot;Boilerplate&quot; message and never answered my questions."
-        </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/07/09/07/59/2013_volkswagen_passat-pic-1276737476426460412-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/09/07/59/2013_volkswagen_passat-pic-1276737476426460412-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/08/22/00/06/2014_volkswagen_passat-pic-3622833161937137597-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/22/00/06/2014_volkswagen_passat-pic-3622833161937137597-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2013 Volkswagen Passat TDI SEL Premium</span>
+            <span itemprop="name">2014 Volkswagen Passat TDI SEL Premium</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Dartmouth, MA 02747</span>
+          <span>Medford, MA 02155</span>
 
       </h4>
 
@@ -3889,56 +3863,56 @@ AAA+++"
       </div>
   </div>
 
-          Good Deal
+          Great Deal
         </div>
-  <div class="b greenText">$1,432 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,382</span>
+  <div class="b greenText">$1,554 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,545</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="12950">$12,950</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="12991">$12,991</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>35,418</span></p>
+            <p><strong>Mileage:</strong> <span>43,834</span></p>
 
-          <p><strong>Location:</strong> Dartmouth, MA 02747</p>
+          <p><strong>Location:</strong> Medford, MA 02155</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          28 days
-            <strong>Certified Pre-Owned:</strong> No
+          24 days
+            <strong>Certified Pre-Owned:</strong> Yes
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Tungsten Silver Metallic
+            <strong>Color: </strong>Candy White
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2013 Volkswagen Passat TDI SEL Premium for sale
-- $12,950, 35,418 miles          with                 Bluetooth, 
+          Used 2014 Volkswagen Passat TDI SEL Premium for sale
+- $12,991, 43,834 miles          with                 Leather Seats, 
                 Backup Camera, 
                 Sunroof/Moonroof, 
-                Aluminum Wheels, 
                 Remote Start, 
-                Navigation System
+                Navigation System, 
+                Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.1 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.1 out of 5 stars" ></i><i class="fas fa-star cg-star empty" title="3.1 out of 5 stars" ></i>              (25 reviews)
-              "Great service. Walked in knowing what I was looking for and walked out with a car.."
+<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (19 reviews)
+              "They were very helpful. "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/07/16/11/03/2019_volkswagen_passat-pic-289306753086406523-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/07/16/11/03/2019_volkswagen_passat-pic-289306753086406523-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/26/18/43/2016_volkswagen_passat-pic-7185790103169394380-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/26/18/43/2016_volkswagen_passat-pic-7185790103169394380-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2019 Volkswagen Passat 2.0T SE R-Line FWD</span>
+            <span itemprop="name">2016 Volkswagen Passat 1.8T SE</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Norwood, MA 02062</span>
+          <span>Bedford, MA 01730</span>
 
       </h4>
 
@@ -3960,40 +3934,109 @@ AAA+++"
       </div>
   </div>
 
-          Good Deal
+          Great Deal
         </div>
-  <div class="b greenText">$2,215 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $25,202</span>
+  <div class="b greenText">$1,563 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,563</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="22987">$22,987</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="13000">$13,000</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>4,885</span></p>
+            <p><strong>Mileage:</strong> <span>44,497</span></p>
 
-          <p><strong>Location:</strong> Norwood, MA 02062</p>
+          <p><strong>Location:</strong> Bedford, MA 01730</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
-            <strong>Certified Pre-Owned:</strong> No
+            <strong>Average time on market:</strong>
+          33 days
+            <strong>Certified Pre-Owned:</strong> Yes
             <strong>Transmission: </strong>  6-Speed Automatic
-            <strong>Color: </strong>Platinum Gray Metallic
+            <strong>Color: </strong>Black Uni
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2019 Volkswagen Passat 2.0T SE R-Line FWD for sale
-- $22,987, 4,885 miles          with                 Bluetooth, 
-                Backup Camera, 
+          Used 2016 Volkswagen Passat 1.8T SE for sale
+- $13,000, 44,497 miles          with                 Backup Camera, 
                 Sunroof/Moonroof, 
-                Navigation System, 
                 Alloy Wheels
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.8 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.8 out of 5 stars" ></i>              (19 reviews)
-              "Responsive "
+<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (21 reviews)
+              "Great dealership with friendly and knowledgeable sales associates.
+I highly recommend you go see Tim and his crew."
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/25/07/17/2013_volkswagen_passat-pic-5667025274089692955-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/25/07/17/2013_volkswagen_passat-pic-5667025274089692955-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2013 Volkswagen Passat SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Danvers, MA 01923</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Great Deal
+        </div>
+  <div class="b greenText">$1,708 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $11,208</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="9500">$9,500</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>49,128</span></p>
+
+          <p><strong>Location:</strong> Danvers, MA 01923</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          23 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  Manual
+            <strong>Color: </strong>Candy White
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2013 Volkswagen Passat SE for sale
+- $9,500, 49,128 miles          with                 Bluetooth, 
+                Sunroof/Moonroof, 
+                Alloy Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4 out of 5 stars" ></i>              (41 reviews)
+              "Dealership got back to me immediately and was extremely helpful. Thanks "
         </div>
   </div>
 
@@ -4030,12 +4073,12 @@ AAA+++"
 
           Good Deal
         </div>
-  <div class="b greenText">$1,246 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $13,241</span>
+  <div class="b greenText">$1,525 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $13,020</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="11995">$11,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="11495">$11,495</span><meta itemprop="priceCurrency" content="USD" /></p>
 
             <p><strong>Mileage:</strong> <span>48,603</span></p>
 
@@ -4044,7 +4087,7 @@ AAA+++"
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          26 days
+          23 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
             <strong>Color: </strong>Urano Gray
@@ -4052,7 +4095,7 @@ AAA+++"
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2015 Volkswagen Passat Sport for sale
-- $11,995, 48,603 miles          with                 Leather Seats, 
+- $11,495, 48,603 miles          with                 Leather Seats, 
                 Backup Camera, 
                 Aluminum Wheels, 
                 Navigation System
@@ -4068,14 +4111,14 @@ AAA+++"
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/16/20/05/2015_volkswagen_passat-pic-2174316824085987347-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/16/20/05/2015_volkswagen_passat-pic-2174316824085987347-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/09/23/12/06/2014_volkswagen_passat-pic-24939762155376242-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/23/12/06/2014_volkswagen_passat-pic-24939762155376242-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
-            <span itemprop="name">2015 Volkswagen Passat Limited Edition</span>
+            <span itemprop="name">2014 Volkswagen Passat TDI SE</span>
           <span class="invisibleLayer">Used Cars</span>
           in
-          <span>Merrimack, NH 03054</span>
+          <span>Westborough, MA 01581</span>
 
       </h4>
 
@@ -4099,16 +4142,155 @@ AAA+++"
 
           Good Deal
         </div>
-  <div class="b greenText">$1,146 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $9,141</span>
+  <div class="b greenText">$1,640 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,140</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="7995">$7,995</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="13500">$13,500</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>111,723</span></p>
+            <p><strong>Mileage:</strong> <span>26,595</span></p>
 
-          <p><strong>Location:</strong> Merrimack, NH 03054</p>
+          <p><strong>Location:</strong> Westborough, MA 01581</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          27 days
+            <strong>Certified Pre-Owned:</strong> Yes
+            <strong>Transmission: </strong>  Automatic
+            <strong>Color: </strong>Silver
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2014 Volkswagen Passat TDI SE for sale
+- $13,500, 26,595 miles          with                 Backup Camera, 
+                Sunroof/Moonroof, 
+                Aluminum Wheels
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (30 reviews)
+              "Quick and Simple. Wonderful sales and finance team. Likely to do business with them again when the time comes. "
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2018/10/25/18/35/2014_volkswagen_passat-pic-3978835342250911417-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2018/10/25/18/35/2014_volkswagen_passat-pic-3978835342250911417-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2014 Volkswagen Passat TDI SEL Premium</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>North Attleboro, MA 02760</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,490 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $14,970</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="13480">$13,480</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>36,294</span></p>
+
+          <p><strong>Location:</strong> North Attleboro, MA 02760</p>
+      </div>
+    <div class="clearInvisible"></div>
+      <div style="clear:both; margin-top:20px;">
+            <strong>Average time on market:</strong>
+          24 days
+            <strong>Certified Pre-Owned:</strong> No
+            <strong>Transmission: </strong>  6-Speed Automatic
+            <strong>Color: </strong>Tungsten Silve
+
+          <strong>Description: </strong>
+        <span itemprop="description">
+          Used 2014 Volkswagen Passat TDI SEL Premium for sale
+- $13,480, 36,294 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Backup Camera, 
+                Sunroof/Moonroof, 
+                Remote Start, 
+                Navigation System
+
+        </span>
+      </div>
+        <div>
+          <strong>Avg. Dealer Rating:</strong>
+<i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.7 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="3.7 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i><i class="fas fa-star cg-star empty" title="3.7 out of 5 stars" ></i>              (7 reviews)
+              "The vehicle sold and I was quickly informed"
+        </div>
+  </div>
+
+  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
+    <div class="cg-dealFinder-result-img">
+          <img src="https://static.cargurus.com/images/forsale/2019/09/21/12/57/2013_volkswagen_passat-pic-6803600219541725447-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/21/12/57/2013_volkswagen_passat-pic-6803600219541725447-152x114.jpeg</span>
+      </div>
+      <h4 class="cg-dealFinder-result-model">
+
+            <span itemprop="name">2013 Volkswagen Passat SE</span>
+          <span class="invisibleLayer">Used Cars</span>
+          in
+          <span>Whitman, MA 02382</span>
+
+      </h4>
+
+          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
+
+      <div class="cg-dealFinder-result-deal">
+
+        <div class="cg-listingDetail-analysisBox positive">
+
+  <div class="deal">
+      <div class="deal-rating great">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
+    <circle fill="#ccc" cx="17" cy="17" r="15"/>
+    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
+    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
+    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
+    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
+  </svg>
+      </div>
+  </div>
+
+          Good Deal
+        </div>
+  <div class="b greenText">$1,584 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $9,079</span>
+      </div>
+      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <p><strong>Price:</strong>
+            <span itemprop="price" content="7495">$7,495</span><meta itemprop="priceCurrency" content="USD" /></p>
+
+            <p><strong>Mileage:</strong> <span>92,118</span></p>
+
+          <p><strong>Location:</strong> Whitman, MA 02382</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
@@ -4120,23 +4302,24 @@ AAA+++"
 
           <strong>Description: </strong>
         <span itemprop="description">
-          Used 2015 Volkswagen Passat Limited Edition for sale
-- $7,995, 111,723 miles          with                 Bluetooth, 
-                Backup Camera, 
-                Alloy Wheels
+          Used 2013 Volkswagen Passat SE for sale
+- $7,495, 92,118 miles          with                 Bluetooth, 
+                Leather Seats, 
+                Sunroof/Moonroof
 
         </span>
       </div>
         <div>
           <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.5 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.5 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (22 reviews)
-              "Good"
+<i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.3 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty cg-star-half-container" title="4.3 out of 5 stars" aria-hidden="true" ><i class="fas fa-star-half cg-star half half-ftl" aria-hidden="true"></i></i>              (42 reviews)
+              "Very pleasant and they seem to be honest
+The jeep I bought was very reasonably priced and they handled all the details no hassle. "
         </div>
   </div>
 
   <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
     <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/13/02/51/2014_volkswagen_passat-pic-8223113479257525023-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/02/51/2014_volkswagen_passat-pic-8223113479257525023-152x114.jpeg</span>
+          <img src="https://static.cargurus.com/images/forsale/2019/08/13/02/51/2014_volkswagen_passat-pic-7747026261844546387-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/13/02/51/2014_volkswagen_passat-pic-7747026261844546387-152x114.jpeg</span>
       </div>
       <h4 class="cg-dealFinder-result-model">
 
@@ -4167,29 +4350,29 @@ AAA+++"
 
           Good Deal
         </div>
-  <div class="b greenText">$1,091 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,196</span>
+  <div class="b greenText">$1,442 BELOW </div>
+  <span class="nationalAvg">CarGurus IMV of $15,784</span>
       </div>
       <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           <p><strong>Price:</strong>
-            <span itemprop="price" content="13105">$13,105</span><meta itemprop="priceCurrency" content="USD" /></p>
+            <span itemprop="price" content="14342">$14,342</span><meta itemprop="priceCurrency" content="USD" /></p>
 
-            <p><strong>Mileage:</strong> <span>48,157</span></p>
+            <p><strong>Mileage:</strong> <span>25,654</span></p>
 
           <p><strong>Location:</strong> Raynham, MA 02767</p>
       </div>
     <div class="clearInvisible"></div>
       <div style="clear:both; margin-top:20px;">
             <strong>Average time on market:</strong>
-          21 days
+          24 days
             <strong>Certified Pre-Owned:</strong> No
             <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Black
+            <strong>Color: </strong>Candy White
 
           <strong>Description: </strong>
         <span itemprop="description">
           Used 2014 Volkswagen Passat TDI SEL Premium for sale
-- $13,105, 48,157 miles          with                 Bluetooth, 
+- $14,342, 25,654 miles          with                 Bluetooth, 
                 Leather Seats, 
                 Sunroof/Moonroof, 
                 Aluminum Wheels, 
@@ -4202,209 +4385,6 @@ AAA+++"
           <strong>Avg. Dealer Rating:</strong>
 <i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="3.9 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="3.9 out of 5 stars" ></i>              (21 reviews)
               "Great cars for competitive prices, and very competent and friendly salespeople."
-        </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img style="width:152px;" src="https://static1.cargurus.com/gfx/cg/noImageAvailable_150x113.png" itemprop="image"/><span class="invisibleLayer">https://static1.cargurus.com/gfx/cg/noImageAvailable_150x113.png</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2016 Volkswagen Passat 1.8T SE</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Lawrence, MA 01841</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$1,186 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $14,583</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="13397">$13,397</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>49,568</span></p>
-
-          <p><strong>Location:</strong> Lawrence, MA 01841</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          33 days
-            <strong>Certified Pre-Owned:</strong> Yes
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Titanium Beige
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2016 Volkswagen Passat 1.8T SE for sale
-- $13,397, 49,568 miles          with                 Bluetooth, 
-                Leather Seats, 
-                Backup Camera, 
-                Sunroof/Moonroof, 
-                Adaptive Cruise Control, 
-                Alloy Wheels
-
-        </span>
-      </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/09/16/09/15/2017_volkswagen_passat_1_8t_se_with_technology_pkg-pic-4334401210656545379-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/09/16/09/15/2017_volkswagen_passat_1_8t_se_with_technology_pkg-pic-4334401210656545379-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2017 Volkswagen Passat 1.8T SE with Technology Pkg</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>West Newton,  02465</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$954 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $16,101</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="15147">$15,147</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>29,500</span></p>
-
-          <p><strong>Location:</strong> West Newton,  02465</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          33 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>White
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2017 Volkswagen Passat 1.8T SE with Technology Pkg for sale
-- $15,147, 29,500 miles          with                 Leather Seats, 
-                Power Mirror Package, 
-                Sunroof/Moonroof, 
-                Power Package, 
-                Navigation System, 
-                Adaptive Cruise Control, 
-                Technology Package, 
-                Bluetooth, 
-                Backup Camera, 
-                Remote Start, 
-                Heat Package
-
-        </span>
-      </div>
-  </div>
-
-  <div class="cg-dealFinder-result-wrap clearfix" itemscope itemtype="http://schema.org/Product">
-    <div class="cg-dealFinder-result-img">
-          <img src="https://static.cargurus.com/images/forsale/2019/08/12/22/02/2014_volkswagen_passat-pic-8118507631845699591-152x114.jpeg" itemprop="image"/><span class="invisibleLayer">https://static.cargurus.com/images/forsale/2019/08/12/22/02/2014_volkswagen_passat-pic-8118507631845699591-152x114.jpeg</span>
-      </div>
-      <h4 class="cg-dealFinder-result-model">
-
-            <span itemprop="name">2014 Volkswagen Passat S</span>
-          <span class="invisibleLayer">Used Cars</span>
-          in
-          <span>Lynn, MA 01905</span>
-
-      </h4>
-
-          <meta itemprop="itemcondition" itemtype="http://schema.org/UsedCondition" content="Used"/>
-
-      <div class="cg-dealFinder-result-deal">
-
-        <div class="cg-listingDetail-analysisBox positive">
-
-  <div class="deal">
-      <div class="deal-rating great">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" class="deal-arrow">
-    <circle fill="#ccc" cx="17" cy="17" r="15"/>
-    <path class="arrow" fill="#fff" d="M25.779,17l-7.97-7.97v4.857H8.221v6.226h9.588V24.97Z"/>
-    <path class="no-price" fill="#fff" d="M11.491,24.707a.731.731,0,0,1-.73-.733.723.723,0,0,1,.157-.451L21.934,9.571a.731.731,0,0,1,1.148.906h0L12.065,24.43A.725.725,0,0,1,11.491,24.707Z"/>
-    <path class="uncertain" fill="#fff" d="M12.713,10.43a7.843,7.843,0,0,1,.829-.635,5.98,5.98,0,0,1,.972-.522,6.1,6.1,0,0,1,1.134-.35A6.474,6.474,0,0,1,16.972,8.8a5.488,5.488,0,0,1,1.762.267,3.983,3.983,0,0,1,1.363.761,3.4,3.4,0,0,1,.877,1.2,3.823,3.823,0,0,1,.312,1.568,3.964,3.964,0,0,1-.245,1.462,4.114,4.114,0,0,1-.611,1.074,4.708,4.708,0,0,1-.807.789l-.828.628a6.378,6.378,0,0,0-.672.578,1.139,1.139,0,0,0-.34.639l-.255,1.624h-1.88l-.188-1.812a1.478,1.478,0,0,1,.149-.917,2.815,2.815,0,0,1,.579-.724,7.592,7.592,0,0,1,.806-.634,7.319,7.319,0,0,0,.834-.667,3.487,3.487,0,0,0,.65-.811,2.087,2.087,0,0,0,.261-1.074,1.643,1.643,0,0,0-.15-.717,1.617,1.617,0,0,0-.416-.544,1.853,1.853,0,0,0-.64-.35,2.559,2.559,0,0,0-.806-.122,3.565,3.565,0,0,0-1.072.139,3.867,3.867,0,0,0-.746.311c-.2.115-.376.219-.517.31a.707.707,0,0,1-.378.14.607.607,0,0,1-.578-.334Zm2.1,13.108a1.714,1.714,0,0,1,.127-.656,1.6,1.6,0,0,1,.351-.533,1.7,1.7,0,0,1,1.2-.49,1.636,1.636,0,0,1,.662.134,1.758,1.758,0,0,1,.534.356,1.628,1.628,0,0,1,.361.533,1.657,1.657,0,0,1-.895,2.2,1.708,1.708,0,0,1-.662.128,1.755,1.755,0,0,1-.667-.128,1.582,1.582,0,0,1-.884-.878A1.707,1.707,0,0,1,14.815,23.538Z"/>
-    <path class="new-car" fill="#ccc" d="M27.2,10.6l-8.3-8.3c-1.1-1.1-2.8-1.1-3.9,0l-8.3,8.3C6.3,11.1,6,11.8,6,12.6v17.2c0,1.5,1.2,2.7,2.7,2.7h16.5c1.5,0,2.7-1.2,2.7-2.7V12.6C28,11.8,27.7,11.1,27.2,10.6z M15.1,7.5c1.1-1.1,2.8-1.1,3.9,0c1.1,1.1,1.1,2.8,0,3.9c-1.1,1.1-2.8,1.1-3.9,0C14,10.3,14,8.6,15.1,7.5z M12.7,25.8h-0.4c-0.1,0-0.1,0-0.2,0c0,0-0.1-0.1-0.1-0.1l-3.1-4c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0,0.2v3.8H8.2v-5.5h0.4c0.1,0,0.1,0,0.2,0c0,0,0.1,0.1,0.1,0.1l3.1,4c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2v-3.7h0.7V25.8z M17.2,25.8h-3.4v-5.5h3.4v0.7h-2.6v1.7h2.1v0.6h-2.1v1.8h2.6L17.2,25.8z M24.1,25.8h-0.7L22,21.7c0-0.1-0.1-0.2-0.1-0.3c0,0.1-0.1,0.2-0.1,0.3l-1.4,4.1h-0.7L18,20.2h0.7c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.1,3.7c0,0.1,0,0.1,0.1,0.2c0,0.1,0,0.2,0.1,0.3c0-0.1,0-0.2,0.1-0.3c0-0.1,0-0.2,0.1-0.2l1.2-3.7c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.2-0.1H22c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.1l1.2,3.7c0,0.1,0.1,0.3,0.1,0.5c0-0.2,0.1-0.3,0.1-0.5l1.1-3.7c0-0.1,0-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1h0.6L24.1,25.8z"/>
-  </svg>
-      </div>
-  </div>
-
-          Good Deal
-        </div>
-  <div class="b greenText">$979 BELOW </div>
-  <span class="nationalAvg">CarGurus IMV of $8,471</span>
-      </div>
-      <div class="cg-dealFinder-result-stats" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-          <p><strong>Price:</strong>
-            <span itemprop="price" content="7492">$7,492</span><meta itemprop="priceCurrency" content="USD" /></p>
-
-            <p><strong>Mileage:</strong> <span>76,810</span></p>
-
-          <p><strong>Location:</strong> Lynn, MA 01905</p>
-      </div>
-    <div class="clearInvisible"></div>
-      <div style="clear:both; margin-top:20px;">
-            <strong>Average time on market:</strong>
-          24 days
-            <strong>Certified Pre-Owned:</strong> No
-            <strong>Transmission: </strong>  Automatic
-            <strong>Color: </strong>Black
-
-          <strong>Description: </strong>
-        <span itemprop="description">
-          Used 2014 Volkswagen Passat S for sale
-- $7,492, 76,810 miles          with                 Bluetooth
-
-        </span>
-      </div>
-        <div>
-          <strong>Avg. Dealer Rating:</strong>
-<i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star" title="4.2 out of 5 stars" aria-hidden="true" ></i><i class="fas fa-star cg-star empty" title="4.2 out of 5 stars" ></i>              (17 reviews)
-              "Very helpful"
         </div>
   </div>
         <div style="font-size:14px;margin-top:10px;padding:5px;cursor:pointer;background-color:#CCCCCC;width:100px;text-align:center;" class="b">
@@ -4561,16 +4541,16 @@ AAA+++"
             <a href="/Cars/l-Used-2019-Volkswagen-Passat-c28817" title="2019 Volkswagen Passat">2019 Volkswagen Passat</a>
           </td>
 
-          <td data-order="3">
-            3 Great Deals
+          <td data-order="17">
+            17 Great Deals
           </td>
 
-          <td data-order="16950">
-            $16,950
+          <td data-order="17490">
+            $17,490
           </td>
 
-          <td data-order="1031">
-            1,031 listings
+          <td data-order="1250">
+            1,250 listings
           </td>
 
         </tr>
@@ -4581,16 +4561,16 @@ AAA+++"
             <a href="/Cars/l-Used-2018-Volkswagen-Passat-c27224" title="2018 Volkswagen Passat">2018 Volkswagen Passat</a>
           </td>
 
-          <td data-order="48">
-            48 Great Deals
+          <td data-order="43">
+            43 Great Deals
           </td>
 
-          <td data-order="13200">
-            $13,200
+          <td data-order="12988">
+            $12,988
           </td>
 
-          <td data-order="959">
-            959 listings
+          <td data-order="975">
+            975 listings
           </td>
 
         </tr>
@@ -4601,16 +4581,16 @@ AAA+++"
             <a href="/Cars/l-Used-2017-Volkswagen-Passat-c26160" title="2017 Volkswagen Passat">2017 Volkswagen Passat</a>
           </td>
 
-          <td data-order="25">
-            25 Great Deals
+          <td data-order="35">
+            35 Great Deals
           </td>
 
           <td data-order="8555">
             $8,555
           </td>
 
-          <td data-order="1101">
-            1,101 listings
+          <td data-order="1201">
+            1,201 listings
           </td>
 
         </tr>
@@ -4621,16 +4601,16 @@ AAA+++"
             <a href="/Cars/l-Used-2016-Volkswagen-Passat-c25325" title="2016 Volkswagen Passat">2016 Volkswagen Passat</a>
           </td>
 
-          <td data-order="42">
-            42 Great Deals
+          <td data-order="58">
+            58 Great Deals
           </td>
 
           <td data-order="6995">
             $6,995
           </td>
 
-          <td data-order="1553">
-            1,553 listings
+          <td data-order="1546">
+            1,546 listings
           </td>
 
         </tr>
@@ -4641,16 +4621,16 @@ AAA+++"
             <a href="/Cars/l-Used-2015-Volkswagen-Passat-c24508" title="2015 Volkswagen Passat">2015 Volkswagen Passat</a>
           </td>
 
-          <td data-order="54">
-            54 Great Deals
+          <td data-order="62">
+            62 Great Deals
           </td>
 
-          <td data-order="6250">
-            $6,250
+          <td data-order="5900">
+            $5,900
           </td>
 
-          <td data-order="1672">
-            1,672 listings
+          <td data-order="1706">
+            1,706 listings
           </td>
 
         </tr>
@@ -4661,16 +4641,16 @@ AAA+++"
             <a href="/Cars/l-Used-2014-Volkswagen-Passat-c24122" title="2014 Volkswagen Passat">2014 Volkswagen Passat</a>
           </td>
 
-          <td data-order="123">
-            123 Great Deals
+          <td data-order="153">
+            153 Great Deals
           </td>
 
-          <td data-order="4499">
-            $4,499
+          <td data-order="2490">
+            $2,490
           </td>
 
-          <td data-order="2648">
-            2,648 listings
+          <td data-order="2870">
+            2,870 listings
           </td>
 
         </tr>
@@ -4681,16 +4661,16 @@ AAA+++"
             <a href="/Cars/l-Used-2013-Volkswagen-Passat-c23510" title="2013 Volkswagen Passat">2013 Volkswagen Passat</a>
           </td>
 
-          <td data-order="117">
-            117 Great Deals
+          <td data-order="121">
+            121 Great Deals
           </td>
 
           <td data-order="3689">
             $3,689
           </td>
 
-          <td data-order="2716">
-            2,716 listings
+          <td data-order="2958">
+            2,958 listings
           </td>
 
         </tr>
@@ -4701,16 +4681,16 @@ AAA+++"
             <a href="/Cars/l-Used-2012-Volkswagen-Passat-c23020" title="2012 Volkswagen Passat">2012 Volkswagen Passat</a>
           </td>
 
-          <td data-order="39">
-            39 Great Deals
+          <td data-order="49">
+            49 Great Deals
           </td>
 
           <td data-order="2800">
             $2,800
           </td>
 
-          <td data-order="1234">
-            1,234 listings
+          <td data-order="1351">
+            1,351 listings
           </td>
 
         </tr>
@@ -4729,8 +4709,8 @@ AAA+++"
             $1,200
           </td>
 
-          <td data-order="80">
-            80 listings
+          <td data-order="85">
+            85 listings
           </td>
 
         </tr>
@@ -4745,12 +4725,12 @@ AAA+++"
             2 Great Deals
           </td>
 
-          <td data-order="2999">
-            $2,999
+          <td data-order="2899">
+            $2,899
           </td>
 
-          <td data-order="80">
-            80 listings
+          <td data-order="81">
+            81 listings
           </td>
 
         </tr>
@@ -4778,7 +4758,7 @@ AAA+++"
               <div>
 
 
-      366 Great Deals out of 32,481 listings starting at <span class="nowrap">$1,099</span>
+      396 Great Deals out of 33,634 listings starting at <span class="nowrap">$299</span>
 
               </div>
             </td>
@@ -4795,7 +4775,7 @@ AAA+++"
               <div>
 
 
-      863 Great Deals out of 68,176 listings starting at <span class="nowrap">$999</span>
+      916 Great Deals out of 67,533 listings starting at <span class="nowrap">$799</span>
 
               </div>
             </td>
@@ -4808,11 +4788,11 @@ AAA+++"
 
 
             <td style="width:33.333333333333%">
-              <a href="/Cars/l-Used-Volkswagen-CC-d2014">Volkswagen CC For Sale</a>
+              <a href="/Cars/l-Used-Toyota-Camry-d292">Toyota Camry For Sale</a>
               <div>
 
 
-      50 Great Deals out of 1,336 listings starting at <span class="nowrap">$3,500</span>
+      1,060 Great Deals out of 71,665 listings starting at <span class="nowrap">$1,000</span>
 
               </div>
             </td>
@@ -4839,56 +4819,56 @@ AAA+++"
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2019-Volkswagen-Passat-c28817">2019 Volkswagen Passat</a>
-        <div>92 listings starting at $16,950</div>
+        <div>97 listings starting at $17,490</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2018-Volkswagen-Passat-c27224">2018 Volkswagen Passat</a>
-        <div>153 listings starting at $13,200</div>
+        <div>160 listings starting at $12,988</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2017-Volkswagen-Passat-c26160">2017 Volkswagen Passat</a>
-        <div>247 listings starting at $8,555</div>
+        <div>287 listings starting at $8,555</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2016-Volkswagen-Passat-c25325">2016 Volkswagen Passat</a>
-        <div>380 listings starting at $6,995</div>
+        <div>385 listings starting at $6,995</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2015-Volkswagen-Passat-c24508">2015 Volkswagen Passat</a>
-        <div>148 listings starting at $6,250</div>
+        <div>172 listings starting at $5,900</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2014-Volkswagen-Passat-c24122">2014 Volkswagen Passat</a>
-        <div>292 listings starting at $4,499</div>
+        <div>332 listings starting at $2,490</div>
       </td>
 
       </tr><tr valign="top">
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2013-Volkswagen-Passat-c23510">2013 Volkswagen Passat</a>
-        <div>264 listings starting at $3,689</div>
+        <div>283 listings starting at $3,689</div>
       </td>
 
       
 
       <td style="width:33.333333333333%">
         <a href="https://www.cargurus.com/Cars/cl-Certified-2012-Volkswagen-Passat-c23020">2012 Volkswagen Passat</a>
-        <div>55 listings starting at $2,800</div>
+        <div>67 listings starting at $2,800</div>
       </td>
 
       
@@ -4912,7 +4892,7 @@ AAA+++"
           <td style="width:33.333333333333%">
               <a href="/Cars/new/nl-New-Volkswagen-Passat-d202" title="2019 Volkswagen Passat">2019 Volkswagen Passat</a>
               <div>
-                    1,031 listings
+                    1,250 listings
               </div>
           </td>
           
@@ -4942,7 +4922,7 @@ AAA+++"
           <div>
 
 
-      6 Great Deals out of 297 listings starting at <span class="nowrap">$1,000</span>
+      10 Great Deals out of 331 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -4957,7 +4937,7 @@ AAA+++"
           <div>
 
 
-      4 Great Deals out of 225 listings starting at <span class="nowrap">$2,400</span>
+      8 Great Deals out of 254 listings starting at <span class="nowrap">$1,700</span>
 
           </div>
         </td>
@@ -4972,7 +4952,7 @@ AAA+++"
           <div>
 
 
-      4 Great Deals out of 255 listings starting at <span class="nowrap">$2,400</span>
+      6 Great Deals out of 289 listings starting at <span class="nowrap">$1,700</span>
 
           </div>
         </td>
@@ -4987,7 +4967,7 @@ AAA+++"
           <div>
 
 
-      7 Great Deals out of 263 listings starting at <span class="nowrap">$1,000</span>
+      11 Great Deals out of 302 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -5002,7 +4982,7 @@ AAA+++"
           <div>
 
 
-      5 Great Deals out of 316 listings starting at <span class="nowrap">$2,700</span>
+      11 Great Deals out of 356 listings starting at <span class="nowrap">$1,700</span>
 
           </div>
         </td>
@@ -5017,7 +4997,7 @@ AAA+++"
           <div>
 
 
-      4 Great Deals out of 165 listings starting at <span class="nowrap">$2,400</span>
+      4 Great Deals out of 190 listings starting at <span class="nowrap">$1,700</span>
 
           </div>
         </td>
@@ -5032,7 +5012,7 @@ AAA+++"
           <div>
 
 
-      3 Great Deals out of 201 listings starting at <span class="nowrap">$1,000</span>
+      8 Great Deals out of 220 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -5047,7 +5027,7 @@ AAA+++"
           <div>
 
 
-      7 Great Deals out of 395 listings starting at <span class="nowrap">$1,000</span>
+      12 Great Deals out of 430 listings starting at <span class="nowrap">$1,000</span>
 
           </div>
         </td>
@@ -5062,7 +5042,7 @@ AAA+++"
           <div>
 
 
-      8 Great Deals out of 186 listings starting at <span class="nowrap">$1,999</span>
+      15 Great Deals out of 212 listings starting at <span class="nowrap">$1,999</span>
 
           </div>
         </td>
@@ -5090,7 +5070,7 @@ AAA+++"
                         <a href="/Cars/lp/search-Volkswagen-Passat-automatic-sc1_d202" title="Used Volkswagen Passat With Automatic Transmission">Used Volkswagen Passat With Automatic Transmission</a>
                         <div>
 
-      440 Great Deals out of 12,565 listings starting at <span class="nowrap">$484</span>
+      543 Great Deals out of 13,512 listings starting at <span class="nowrap">$300</span>
 
 </div>
                     </td>
@@ -5106,7 +5086,7 @@ AAA+++"
                         <a href="/Cars/lp/search-Volkswagen-Passat-manual-sc2_d202" title="Used Volkswagen Passat With Manual Transmission">Used Volkswagen Passat With Manual Transmission</a>
                         <div>
 
-      10 Great Deals out of 307 listings starting at <span class="nowrap">$900</span>
+      9 Great Deals out of 312 listings starting at <span class="nowrap">$900</span>
 
 </div>
                     </td>
@@ -5135,7 +5115,7 @@ AAA+++"
                         <a href="/Cars/lp/search-Volkswagen-Passat-diesel-sc5_d202" title="Used Volkswagen Passat With Diesel Engine">Used Volkswagen Passat With Diesel Engine</a>
                         <div>
 
-      110 Great Deals out of 2,196 listings starting at <span class="nowrap">$2,200</span>
+      120 Great Deals out of 2,367 listings starting at <span class="nowrap">$2,200</span>
 
 </div>
                     </td>
@@ -5172,17 +5152,17 @@ AAA+++"
         <div class="footer--social_bar-mobile hasBbbBadge">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5254,17 +5234,17 @@ AAA+++"
                 <div class="footer--social_bar-desktop">
   <div class="socialLinksWrap">
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><i class="fab fa-facebook-f"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Nhcmd1cnVz', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-twitter"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cudHdpdHRlci5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><i class="fab fa-pinterest"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cucGludGVyZXN0LmNvbS9jYXJndXJ1cw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-youtube"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><i class="fab fa-instagram"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2Nhcmd1cnVzLw__', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span>
         <span id=""                               class="slnk cg-socialMediaLink"
-                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><i class="fab fa-linkedin-in"></i></span>
+                               onclick="CG.Utils.slnk('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY2FyZ3VydXM_', true, '_blank', '');"  ><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="socialicon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span>
   </div>
   <div class="bbbBadge">
     <a class="bbbLink" target="_blank" title="Click for the Business Review of CarGurus, Inc., an Auto Listing Service in Cambridge MA" href="https://www.bbb.org/us/ma/cambridge/profile/auto-listing-service/cargurus-inc-0021-139181#sealclick">
@@ -5278,13 +5258,12 @@ AAA+++"
 
           <div class="row">
   <div class="locale-picker">
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="English" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        <i class="fas fa-globe-americas"></i>
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="languagePicker" title="English" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
       English
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="languagePicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5299,13 +5278,13 @@ AAA+++"
       </div>
     </div>
   </div>
-  <div class="cgBtnGroup dropup">
-    <button type="button" id="" title="United States" class="cgBtn footerGhost" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <div class="cgBtnGroup dropNorth ">
+    <button type="button" id="countryPicker" title="United States" class="cgBtn footerGhost" aria-haspopup="true" aria-expanded="false">
         <i class="flag-icon flag-icon-us"></i>
       United States
-        <i class="fas fa-chevron-up"></i>
+        <svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="chevron-up" class="chevron" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M4.465 366.475l7.07 7.071c4.686 4.686 12.284 4.686 16.971 0L224 178.053l195.494 195.493c4.686 4.686 12.284 4.686 16.971 0l7.07-7.071c4.686-4.686 4.686-12.284 0-16.97l-211.05-211.051c-4.686-4.686-12.284-4.686-16.971 0L4.465 349.505c-4.687 4.686-4.687 12.284 0 16.97z"></path></svg>
     </button>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu" id="countryPicker-content">
       <div class="dropdown-header clearfix">
       </div>
       <div class="dropdown-content clearfix">
@@ -5371,10 +5350,10 @@ AAA+++"
   <div id="devInfo" class="hidden" style="display: none;"
        data-sentry="https://0e1a93256b16472d9067a95b7c2017f7@sentry.io/100939"
        data-sentry-integrated="true"
-       data-server-host-name="prod-bos2-www-30.dc.c-gurus.com"
+       data-server-host-name="prod-bos2-www-54.dc.c-gurus.com"
        data-action-class="com.cargurus.site.action.inventorylisting.InventoryListingAction"
        data-action-method="viewDetailsFilterView"
-       data-build-id="site-cars-25095"
+       data-build-id="site-cars-25300"
        data-template="/inventorylisting/viewDetailsFilterView.ftl"
        data-view-version="_DEFAULT_"
        data-production="true">
@@ -5390,38 +5369,42 @@ AAA+++"
 
 
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.ed079bdb306dff920461c82c2e06d91f.js')" nomodule
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/polyfill.entry.2d5f885d89cb3bcde6fb541fb6aee3fc.js')" nomodule
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/vendorReduced.entry.58a0347d7725e3d58ef0.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/ravenDLL.entry.6148070497c21f72a8a5.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.ad7c8341f30fe72fc183.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/reactDLL.entry.cbf590de7be84a44f393.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_0b0bf4af3a29b9ea8a1e1f1cf62063e2.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.en_US.66e6895f.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_93087ec51e09839f1cfa3b6a96c31035.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/app_shell.entry.a5456903bcc04653b23ac176bc49fa3e.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_lib.entry_3f79f2ce5bd9940f7c4150fb55ed4b97.js')" 
+></script>
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/external_jq_ui.entry_410b5a5040dee190ad87a8596b50886c.js')" 
 ></script>
 
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/mapquestDLL.entry.16718f6f1c969fbb66a1.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry.en_US.d03dabbb.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_218a8ec841ab0eb7bd987c50f520df13.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/listings.entry_c3d8941ef14fb8da8de679a72cd03b4c.js')" 
 ></script>
 <script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry.en_US.f5c4935c.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_8112297783432b13f4a000fae617bb6f.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/googleOneTap.entry_a73a7495fc153911a45b0da4722fdd05.js')" 
 ></script>
 
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.07633da9.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry.en_US.3b60c3fc.js')" 
 ></script>
-<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_21a1e2ef8530387d82e253d96b5b2163.js')" 
+<script type="text/javascript" src="https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js" onerror="window.reportError('https://static.cargurus.com/bundles/js/financing.entry_145fc1194c8a00fd61e0fd7b697cdc90.js')" 
 ></script>
 
 
 
-      <script src="https://static.cargurus.com/bundles/js/ads.entry_3e269c6214c73e8450b1a8ed06b532d7.js" type="text/javascript" async="async"></script>
+      <script src="https://static.cargurus.com/bundles/js/ads.entry_2858a41b2eb82011ed90ff28c190a8b7.js" type="text/javascript" async="async"></script>
 
 
       
@@ -5432,7 +5415,7 @@ AAA+++"
       cgDataLayer.baseData['CGLocale']="ENGLISH";
       cgDataLayer.baseData['Locale']='en_US';
       cgDataLayer.baseData['Country']='UNITED_STATES';
-    cgDataLayer.baseData['UUID']="grfs-50.245.49.123.1568840607500";
+    cgDataLayer.baseData['UUID']="lqN3-2601:196:4901:33d:b5d7:7040:83ee:e5b3.1569904982370";
       cgDataLayer.baseData['EnType']='MODEL';
         cgDataLayer.baseData['Make'] = "Volkswagen";
         cgDataLayer.baseData['Model'] = "Passat";
@@ -5449,8 +5432,8 @@ AAA+++"
             cgDataLayer.baseData['CPO']="false";
             cgDataLayer.baseData['Product']="listings";
             cgDataLayer.baseData['PageType']="usedcar";
-            cgDataLayer.baseData['VehicleLeagues']=["vehicle.league.medium_sedan","vehicle.league.wagon","vehicle.league.hatchback"];
-            cgDataLayer.baseData['VehicleLeagueEntityIds']=["vl2","vl30","vl26"];
+            cgDataLayer.baseData['VehicleLeagues']=["vehicle.league.hatchback","vehicle.league.medium_sedan","vehicle.league.wagon"];
+            cgDataLayer.baseData['VehicleLeagueEntityIds']=["vl26","vl2","vl30"];
 
 
     cgDataLayer.baseData['EntityId'] = "d202";
@@ -5579,7 +5562,7 @@ AAA+++"
         subscriptionActionUrl : '/Cars/inventorylisting/subscribeAjax.action',
         promptConvertSearchToSubscriptionUrl : '/Cars/inventorylisting/viewPromptConvertSearchToSubscriptionDialog.action',
         reportingViewVersion: '_DEFAULT_',
-        initJumpstartNewAgeType: true,
+        initJumpstartNewAgeType: false,
         featuredListingsHeaderPageSize: 3,
         featuredListingsFooterPageSize: 1,
         isRecentSearchView: 'false',
@@ -5665,7 +5648,7 @@ AAA+++"
     var priceDropFilter = new CG.Inventory.Filters.PriceDropFilter(false);
     listingsSearchManager.registerFilter(priceDropFilter);
 
-      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1568840607565);
+      var sinceLastVisitFilter = new CG.Inventory.Filters.SinceLastVisitFilter(false, 1569904982446);
       listingsSearchManager.registerFilter(sinceLastVisitFilter);
 
       var accidentsFilter = new CG.Inventory.Filters.AccidentsFilter(hideAccidents);
@@ -6526,24 +6509,30 @@ saveSearchAndSubscription_overview(email, useSavedSearch);
       </script>
 
       <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            var seoReadMore = document.querySelector('.seo-read-more');
-            var readMoreButton = document.querySelector('.btn-read-more');
+        function handleSeoReadMoreLink() {
+          var seoReadMore = document.querySelector('.seo-read-more');
+          var readMoreButton = document.querySelector('.btn-read-more');
 
-            if (readMoreButton) {
-              readMoreButton.onclick = function(e) {
-                e.preventDefault();
+          if (readMoreButton) {
+            readMoreButton.onclick = function(e) {
+              e.preventDefault();
 
-                if (seoReadMore.classList.contains('expanded')) {
-                  seoReadMore.classList.remove('expanded');
-                  readMoreButton.innerHTML = 'Read More';
-                } else {
-                  seoReadMore.classList.add('expanded');
-                  readMoreButton.innerHTML = 'Read Less';
-                }
+              if (seoReadMore.classList.contains('expanded')) {
+                seoReadMore.classList.remove('expanded');
+                readMoreButton.innerHTML = 'Read More';
+              } else {
+                seoReadMore.classList.add('expanded');
+                readMoreButton.innerHTML = 'Read Less';
               }
             }
-        });
+          }
+        }
+
+        if (document.readyState === 'complete' || (document.readyState !== 'loading' && !document.documentElement.doScroll)) {
+          handleSeoReadMoreLink();
+        } else {
+          document.addEventListener('DOMContentLoaded', handleSeoReadMoreLink);
+        }
             </script>
 
       <script>
