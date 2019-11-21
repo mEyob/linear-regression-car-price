@@ -30,27 +30,33 @@ def predict():
         trim_level = [1 if entry else 0 for entry in [trim == 'xle', trim == 'xse', trim == 'hybrid']]
         prediction = toyota_model.coef_.dot(np.array([np.log2(int(mileage)), 2019 - int(year), *trim_level])) + toyota_model.intercept_
         prediction_interval = toyota_model.pred_interval
+        car_summary = '{} Toyota Camry {}, Mileage - {}'.format(year, trim.upper(), mileage)
     elif car_model == 'accord':
         trim_level = [1 if entry else 0 for entry in [trim == 'ex', trim == 'exl', trim == 'sport', trim == 'touring']]
         prediction = honda_model.coef_.dot(np.array([np.log2(int(mileage)), 2019 - int(year), *trim_level])) + honda_model.intercept_
         prediction_interval = honda_model.pred_interval
+        car_summary = '{} Honda Accord {}, Mileage - {}'.format(year, trim, mileage)
     elif car_model == 'altima':
         trim_level = [1 if entry else 0 for entry in [trim == 'sr', trim == 'sv', trim == 'sl']]
         prediction = nissan_model.coef_.dot(np.array([np.log2(int(mileage)), 2019 - int(year), *trim_level])) + nissan_model.intercept_
         prediction_interval = nissan_model.pred_interval
+        car_summary = '{} Nissan Altima {}, Mileage - {}'.format(year, trim, mileage)
     elif car_model == 'sonata':
         trim_level = [1 if entry else 0 for entry in [trim ==  'sel', trim == 'sport', trim == 'limited']]
         prediction = hyundai_model.coef_.dot(np.array([np.log2(int(mileage)), 2019 - int(year), *trim_level])) + hyundai_model.intercept_
         prediction_interval = hyundai_model.pred_interval
+        car_summary = '{} Hyundai Sonata {}, Mileage - {}'.format(year, trim, mileage)
     elif car_model == 'fusion':
         trim_level = [1 if entry else 0 for entry in [trim == 'se', trim == 'sel', trim == 'titanium', trim == 'sport']]
         prediction = ford_model.coef_.dot(np.array([np.log2(int(mileage)), 2019 - int(year), *trim_level])) + ford_model.intercept_
         prediction_interval = ford_model.pred_interval
+        car_summary = '{} Ford Fusion {}, Mileage - {}'.format(year, trim, mileage)
     prediction = round(prediction)
     lower = prediction - prediction_interval
     upper = prediction + prediction_interval
     return render_template(
         'index.html', 
+        summary_text='You Entered:\n\t{}'.format(car_summary),
         prediction_text='Estimated average price: ${}'.format(int(prediction)), 
         interval_text='Estimated price range: ${} - ${}'.format(int(lower), int(upper))
         )

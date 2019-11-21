@@ -14,11 +14,10 @@
 
 <body>
  <div class="login">
-	<h1>Linear regression-based used car value estimator</h1>
-
+    <h1>Used car value estimator</h1>
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-      <select size="1" id="makemodel" title="Make and Model" name="model" required>
+      <select size="1" id="default" title="Make and Model" name="model" required>
         <option value="">-Select Make and Model-</option>
         <option value="fusion">Ford Fusion</option>
         <option value="accord">Honda Accord</option>
@@ -26,7 +25,7 @@
         <option value="altima">Nissan Altima</option>
         <option value="camry">Toyota Camry</option>
       </select>
-      <select id="year" name="year" required>
+      <select id="default" name="year" required>
         <option value="">-Year-</option>
         <option value="2019">2019</option>
         <option value="2018">2018</option>
@@ -43,14 +42,15 @@
     	<input type="number" min="500" name="mileage" placeholder="Mileage" required="required" />
       <button type="submit" class="btn btn-primary btn-block btn-large">Estimate</button>
     </form>
-
-   <br>
+  </div>
+  <div class="result">
+   {{ summary_text}}
    <br>
    {{ prediction_text }}
    <br> 
    {{ interval_text }}
-
- </div>
+  </div>
+ 
 
 
 </body>
