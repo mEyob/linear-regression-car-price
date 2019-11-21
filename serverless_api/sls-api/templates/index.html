@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Linear regression-based used car value estimator</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+      <select size="1" id="makemodel" title="Make and Model" name="model" required>
+        <option value="">-Select Make and Model-</option>
+        <option value="fusion">Ford Fusion</option>
+        <option value="accord">Honda Accord</option>
+        <option value="sonata">Hyundai Sonata</option>
+        <option value="altima">Nissan Altima</option>
+        <option value="camry">Toyota Camry</option>
+      </select>
+      <select id="year" name="year" required>
+        <option value="">-Year-</option>
+        <option value="2019">2019</option>
+        <option value="2018">2018</option>
+        <option value="2017">2017</option>
+        <option value="2016">2016</option>
+        <option value="2015">2015</option>
+        <option value="2014">2014</option>
+        <option value="2013">2013</option>
+        <option value="2012">2012</option>
+        <option value="2011">2011</option>
+        <option value="2010">2010</option>
+      </select>
+      <input type="text" name="trim" placeholder="Trim level" required="required" />
+    	<input type="number" min="500" name="mileage" placeholder="Mileage" required="required" />
+      <button type="submit" class="btn btn-primary btn-block btn-large">Estimate</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+   <br> 
+   {{ interval_text }}
+
+ </div>
+
+
+</body>
+</html>
