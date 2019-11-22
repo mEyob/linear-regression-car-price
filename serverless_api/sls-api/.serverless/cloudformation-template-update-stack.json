@@ -191,7 +191,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/linregestimator/dev/1574355454960-2019-11-21T16:57:34.960Z/linregestimator.zip"
+          "S3Key": "serverless/linregestimator/dev/1574371959269-2019-11-21T21:32:39.269Z/linregestimator.zip"
         },
         "FunctionName": "linregestimator-dev-app",
         "Handler": "s_app.handler",
@@ -210,14 +210,14 @@
         "IamRoleLambdaExecution"
       ]
     },
-    "AppLambdaVersion9IXVb4rXIHUycB4sjB2qPvWwQw1YQdc5DdJBAPDw": {
+    "AppLambdaVersionV1so7EtE5CTM32FmHRhPsu2yFNDa9Y02A4DJqFV6A": {
       "Type": "AWS::Lambda::Version",
       "DeletionPolicy": "Retain",
       "Properties": {
         "FunctionName": {
           "Ref": "AppLambdaFunction"
         },
-        "CodeSha256": "PyCXnUWYcQ1JyyVM77Hbp4NF7tmr35YKnkJISh4Byjc="
+        "CodeSha256": "5jNKoSNhIyyLltYYKan8Bnl5GWA191xPnnE5UnBNVLc="
       }
     },
     "ApiGatewayRestApi": {
@@ -335,7 +335,7 @@
         "MethodResponses": []
       }
     },
-    "ApiGatewayDeployment1574355215802": {
+    "ApiGatewayDeployment1574371892427": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
@@ -479,7 +479,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/linregestimator/dev/1574355454960-2019-11-21T16:57:34.960Z/custom-resources.zip"
+          "S3Key": "serverless/linregestimator/dev/1574371959269-2019-11-21T21:32:39.269Z/custom-resources.zip"
         },
         "FunctionName": "linregestimator-dev-custom-resource-apigw-cw-role",
         "Handler": "apiGatewayCloudWatchRole/handler.handler",
@@ -535,7 +535,7 @@
     "AppLambdaFunctionQualifiedArn": {
       "Description": "Current Lambda function version",
       "Value": {
-        "Ref": "AppLambdaVersion9IXVb4rXIHUycB4sjB2qPvWwQw1YQdc5DdJBAPDw"
+        "Ref": "AppLambdaVersionV1so7EtE5CTM32FmHRhPsu2yFNDa9Y02A4DJqFV6A"
       }
     },
     "ServiceEndpoint": {
